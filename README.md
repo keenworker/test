@@ -13,7 +13,7 @@ npm init
 3. Install required dependencies: Express, Mongoose, Cors, bcryptjs, and jsonwebtoken.
 
 ```bash
-npm install express mongoose cors bcryptjs jsonwebtoken
+npm install --save express mongoose cors bcryptjs jsonwebtoken
 ```
 
 ### Step 2: Create MongoDB Database and Collection
