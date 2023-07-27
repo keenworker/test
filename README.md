@@ -157,7 +157,6 @@ module.exports = userRouter;
 console.log('user router is ready to use');
 ```
 
-
 ### Step 5: Update the Main Server File - `main.js`
 
 In your `main.js` file, update the server setup to include the user routes and the JWT authentication middleware.
@@ -177,7 +176,7 @@ const mongoose = require('mongoose');
 // Importing the 'foodRouter' from the './routes/food.routes' file.
 const foodRouter = require('./routes/food.routes')
 
-// Importing the 'userRoute' from the './routes/user.route' file.
+// + Importing the 'userRoute' from the './routes/user.route' file.
 const userRoute = require('./routes/user.route');
 
 // Setting the MongoDB connection string.
@@ -206,7 +205,7 @@ app.use(express.json());
 // Attaching the 'foodRouter' to the '/api' route.
 app.use('/api', foodRouter);
 
-// Attaching the 'userRoute' to the '/users' route.
+// + Attaching the 'userRoute' to the '/users' route.
 app.use('/users', userRoute);
 
 // Handling a GET request on the root path '/'.
@@ -254,7 +253,6 @@ module.exports = checkAuth;
 // Logging a message to the console to indicate that the middleware is working
 console.log('checkauth middleware is working');
 ```
-
 
 ### Step 7: Protect Food API with `checkAuth` Middleware
 
@@ -305,9 +303,6 @@ foodRouter.all('/food/:id', checkAuth, (req, res) => {
 
 Now, the `checkAuth` middleware is used in the `foodRouter` to protect the food-related routes. By adding `checkAuth` as a second argument to the route handlers, those routes will require authentication through JWT before they can be accessed.
 
-
-
-
 ### Step 8: Test the API
 
 1. Start the server by running the following command in the terminal:
@@ -324,8 +319,4 @@ node main.js
 
 3. Observe the responses and verify that the user authentication and food API protection are working as expected.
 
-That's it! You have successfully implemented user authentication using JWT in the Food Order API. You can further enhance the API by adding more features, error handling, and validation as per your requirements.
-
-Remember to handle JWT securely and follow best practices for user authentication and authorization in a production environment.
-
-Congratulations on completing the implementation! If you have any questions or need further assistance, feel free to ask. Happy coding!
+That's it! You have successfully implemented user authentication using JWT in the Food Order API. You can further enhance the API by adding more features, error handling, and validation as per your requirements. Happy coding!
