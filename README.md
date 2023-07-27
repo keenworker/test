@@ -317,4 +317,4 @@ node main.js
 
 3. Observe the responses and verify that the user authentication and food API protection are working as expected.
 
-That's it! You have successfully implemented user authentication using JWT in the Food Order API. You can further enhance the API by adding more features, error handling, and validation as per your requirements. Happy coding!
+That's it! It is successfully implemented user authentication using JWT in the Food Order API. You can further enhance the API by adding more features, error handling, and validation as per your requirements. Happy coding!
