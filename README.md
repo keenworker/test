@@ -163,11 +163,51 @@ console.log('user router is ready to use');
 In your `main.js` file, update the server setup to include the user routes and the JWT authentication middleware.
 
 ```javascript
+const express = require('express');
+
+const cors = require('cors');
+
+const port = 3000;
+
+const mongoose = require('mongoose');
+
+const foodRouter = require('./routes/food.routes')
+
 // Importing the 'userRoute' from the './routes/user.route' file.
 const userRoute = require('./routes/user.route');
 
+const db = 'mongodb://127.0.0.1:27017/foodDB';
+
+mongoose.connect(db)
+    .then(() => {
+        console.log('connencted to mongodb');
+    })
+    .catch((error) => {
+        console.log('error connecting ' + error);
+    })
+    .finally(() => {
+        console.log('node with mongo');
+    });
+
+const app = express();
+
+app.use(cors());
+
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
+
+app.use('/api', foodRouter);
+
 // Attaching the 'userRoute' to the '/users' route.
 app.use('/users', userRoute);
+
+app.get('/', (req, res) => {
+    res.send("<h1>Welcome to Food Order</h1>")
+});
+
+app.listen(port, () => {
+    console.log('Server started at ' + port);
+});
 ```
 
 ### Step 6: Implement JWT Authentication Middleware - `auth.js`
