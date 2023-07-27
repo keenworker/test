@@ -20,7 +20,7 @@ npm install express mongoose cors bcryptjs jsonwebtoken
 
 ### Step 2: Create MongoDB Database and Collection
 
-1. Using the MongoDB shell, create a collection called "foods".
+Using the MongoDB shell, create a collection called "foods".
 
 ```javascript
 // Using the MongoDB shell, create a collection called "foods"
@@ -163,21 +163,26 @@ console.log('user router is ready to use');
 In your `main.js` file, update the server setup to include the user routes and the JWT authentication middleware.
 
 ```javascript
+// Importing the Express library and assigning it to the variable 'express'.
 const express = require('express');
 
+// Importing the 'cors' middleware for enabling Cross-Origin Resource Sharing (CORS).
 const cors = require('cors');
 
+// Setting the port number to 3000.
 const port = 3000;
 
+// Importing the 'mongoose' library for MongoDB interaction.
 const mongoose = require('mongoose');
-
+// Importing the 'foodRouter' from the './routes/food.routes' file.
 const foodRouter = require('./routes/food.routes')
 
 // Importing the 'userRoute' from the './routes/user.route' file.
 const userRoute = require('./routes/user.route');
 
+// Setting the MongoDB connection string.
 const db = 'mongodb://127.0.0.1:27017/foodDB';
-
+// Connecting to MongoDB using Mongoose.
 mongoose.connect(db)
     .then(() => {
         console.log('connencted to mongodb');
@@ -189,22 +194,27 @@ mongoose.connect(db)
         console.log('node with mongo');
     });
 
+// Creating an instance of Express.
 const app = express();
-
+// Enabling Cross-Origin Resource Sharing (CORS) for all routes.
 app.use(cors());
 
+// Parsing incoming request bodies in JSON format.
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
+// Attaching the 'foodRouter' to the '/api' route.
 app.use('/api', foodRouter);
 
 // Attaching the 'userRoute' to the '/users' route.
 app.use('/users', userRoute);
 
+// Handling a GET request on the root path '/'.
 app.get('/', (req, res) => {
     res.send("<h1>Welcome to Food Order</h1>")
 });
 
+// Starting the server and listening on the specified port.
 app.listen(port, () => {
     console.log('Server started at ' + port);
 });
