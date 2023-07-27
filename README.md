@@ -313,7 +313,7 @@ node main.js
 
    - User Signup: POST http://localhost:3000/users/signup
    - User Signin: POST http://localhost:3000/users/signin
-   - Protected Food API: GET http://localhost:3000/api/foods (requires valid JWT token in the 'token' header)
+   - Protected Food API: GET http://localhost:3000/api/foods (requires valid JWT token in the `token` header)
 
 3. Observe the responses and verify that the user authentication and food API protection are working as expected.
 
