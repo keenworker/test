@@ -1,6 +1,4 @@
-Sure! Below is the step-by-step documentation for the Food Order API implementation with user authentication using JWT in Markdown format:
-
-## Food Order API with User Authentication (Step-by-Step Guide)
+## DAY013: USER AUTH SYSTEM WITH JWT & MONGODB
 
 ### Step 1: Project Setup
 
