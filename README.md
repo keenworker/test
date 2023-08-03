@@ -1,176 +1,174 @@
-Here are the flowcharts in Markdown format:
+Sure, I can help you create the flowcharts and pseudocode for each of the given questions. Below is the Markdown file with the questions, pseudocode, and flowcharts:
 
-**1) Multiply 2 numbers by taking input from the user**
-
-```plaintext
-### 1) Multiply 2 numbers by taking input from the user
-
-**Flowchart:**
-```plaintext
-graph TD
-A((Start))
-A --> B(Input A)
-B --> C(Input B)
-C --> D(Multiply A by B and store the result in 'result')
-D --> E(Output 'result')
-E((End))
-```
+### Question 1: Multiply 2 numbers by taking input from the user
 
 **Pseudocode:**
-```plaintext
-1. Start
-2. Read A from the user
-3. Read B from the user
-4. Multiply A by B and store the result in 'result'
-5. Display 'result'
-6. End
 ```
-
-**2) Perimeter of a triangle**
-
-```plaintext
-### 2) Perimeter of a triangle
+1. Input firstNumber
+2. Input secondNumber
+3. Set result = firstNumber * secondNumber
+4. Display result
+```
 
 **Flowchart:**
-```plaintext
-graph TD
-A((Start))
-A --> B(Input side1)
-B --> C(Input side2)
-C --> D(Input side3)
-D --> E(Calculate the perimeter as 'perimeter = side1 + side2 + side3')
-E --> F(Output 'perimeter')
-F((End))
 ```
+start -> Input firstNumber -> Input secondNumber -> 
+         firstNumber * secondNumber -> Display result -> end
+```
+
+### Question 2: Perimeter of a triangle
 
 **Pseudocode:**
-```plaintext
-1. Start
-2. Read side1 from the user
-3. Read side2 from the user
-4. Read side3 from the user
-5. Calculate the perimeter as 'perimeter = side1 + side2 + side3'
-6. Display 'perimeter'
-7. End
 ```
-
-**3) Find simple interest**
-
-```plaintext
-### 3) Find simple interest
+1. Input side1
+2. Input side2
+3. Input side3
+4. Set perimeter = side1 + side2 + side3
+5. Display perimeter
+```
 
 **Flowchart:**
-```plaintext
-graph TD
-A((Start))
-A --> B(Input P)
-B --> C(Input R)
-C --> D(Input T)
-D --> E(Calculate the simple interest as 'interest = (P * R * T) / 100')
-E --> F(Output 'interest')
-F((End))
 ```
+start -> Input side1 -> Input side2 -> Input side3 ->
+         side1 + side2 + side3 -> Display perimeter -> end
+```
+
+### Question 3: Find simple interest
 
 **Pseudocode:**
-```plaintext
-1. Start
-2. Read the principal amount 'P' from the user
-3. Read the rate of interest 'R' from the user
-4. Read the time period 'T' from the user
-5. Calculate the simple interest as 'interest = (P * R * T) / 100'
-6. Display 'interest'
-7. End
 ```
-
-**4) Print count of numbers from N to 1**
-
-```plaintext
-### 4) Print count of numbers from N to 1
+1. Input principal
+2. Input rate
+3. Input time
+4. Set interest = (principal * rate * time) / 100
+5. Display interest
+```
 
 **Flowchart:**
-```plaintext
-graph TD
-A((Start))
-A --> B(Input N)
-B --> C(Set count = N)
-C --> D{count > 0}
-D -- Yes --> E(Output count)
-E --> F(Decrement count by 1)
-F --> D
-D -- No --> G((End))
 ```
+start -> Input principal -> Input rate -> Input time ->
+         (principal * rate * time) / 100 -> Display interest -> end
+```
+
+### Question 4: Print count of numbers from N to 1
 
 **Pseudocode:**
-```plaintext
-1. Start
-2. Read N from the user
-3. Set count = N
-4. Repeat until count is greater than 0
-   a. Output count
-   b. Decrement count by 1
-5. End
 ```
-
-**5) Find factorial of a number**
-
-```plaintext
-### 5) Find factorial of a number
+1. Input N
+2. Initialize count = N
+3. Repeat while count >= 1
+    a. Display count
+    b. Set count = count - 1
+4. End loop
+```
 
 **Flowchart:**
-```plaintext
-graph TD
-A((Start))
-A --> B(Input N)
-B --> C(Set factorial = 1)
-C --> D{ i <= N}
-D -- Yes --> E(Update factorial = factorial * i)
-E --> F(Increment i by 1)
-F --> D
-D -- No --> G(Output factorial)
-G((End))
+```
+start -> Input N -> count = N -> 
+         repeat -> Display count -> count = count - 1 -> 
+         until count >= 1 -> end loop -> end
 ```
 
+### Question 5: Find the factorial of a number
+
 **Pseudocode:**
-```plaintext
-1. Start
-2. Read N from the user
-3. Set factorial = 1
-4. Repeat from i = 1 to N
-   a. Update factorial = factorial * i
+```
+1. Input number
+2. Set factorial = 1
+3. Repeat while number > 1
+    a. Set factorial = factorial * number
+    b. Set number = number - 1
+4. End loop
 5. Display factorial
-6. End
 ```
-
-**6) Find whether a number is prime or not**
-
-```plaintext
-### 6) Find whether a number is prime or not
 
 **Flowchart:**
-```plaintext
-graph TD
-A((Start))
-A --> B(Input N)
-B --> C(Set isPrime variable to true)
-C --> D{ i <= N-1 }
-D -- Yes --> E{N % i == 0}
-E -- Yes --> F(Set isPrime to false and break the loop)
-F --> G(Increment i by 1)
-G --> D
-D -- No --> H{isPrime is true}
-H -- Yes --> I(Output 'N is prime')
-H -- No --> J(Output 'N is not prime')
-I --> K((End))
-J --> K
+```
+start -> Input number -> factorial = 1 -> 
+         repeat -> factorial = factorial * number -> 
+         number = number - 1 -> until number > 1 -> 
+         Display factorial -> end loop -> end
 ```
 
+### Question 6: Find whether a number is prime or not
+
 **Pseudocode:**
-```plaintext
-1. Start
-2. Read N from the user
-3. Set isPrime variable to true
-4. Repeat from i = 2 to N-1
-   a. If N is divisible by i, set isPrime to false and break the loop
-5. If isPrime is true, then N is prime, else it's not prime
-6. End
+```
+1. Input number
+2. Set isPrime = true
+3. Repeat for i from 2 to number - 1
+    a. If number is divisible by i, set isPrime = false and break loop
+4. End loop
+5. If isPrime is true, display "Number is prime"
+   Else, display "Number is not prime"
+```
+
+**Flowchart:**
+```
+start -> Input number -> isPrime = true -> 
+         repeat for i from 2 to number - 1 -> 
+         if number % i == 0 -> isPrime = false -> break loop -> 
+         Display result -> end loop -> end
+```
+
+### Question 7: Check if a valid triangle or not
+
+**Pseudocode:**
+```
+1. Input side1
+2. Input side2
+3. Input side3
+4. If (side1 + side2 > side3) and (side1 + side3 > side2) and (side2 + side3 > side1)
+    a. Display "Valid Triangle"
+   Else
+    b. Display "Not a Valid Triangle"
+```
+
+**Flowchart:**
+```
+start -> Input side1 -> Input side2 -> Input side3 ->
+         If (side1 + side2 > side3) and (side1 + side3 > side2) and (side2 + side3 > side1) ->
+         Display "Valid Triangle" -> else -> Display "Not a Valid Triangle" -> end
+```
+
+### Question 8: Print 1 to N but only even numbers
+
+**Pseudocode:**
+```
+1. Input N
+2. Initialize number = 1
+3. Repeat while number <= N
+    a. If number is even, display number
+    b. Set number = number + 1
+4. End loop
+```
+
+**Flowchart:**
+```
+start -> Input N -> number = 1 -> 
+         repeat -> if number is even -> Display number -> 
+         number = number + 1 -> until number <= N -> 
+         end loop -> end
+```
+
+### Question 9: Find the maximum of three numbers
+
+**Pseudocode:**
+```
+1. Input number1
+2. Input number2
+3. Input number3
+4. Set maxNumber = number1
+5. If number2 > maxNumber, set maxNumber = number2
+6. If number3 > maxNumber, set maxNumber = number3
+7. Display maxNumber
+```
+
+**Flowchart:**
+```
+start -> Input number1 -> Input number2 -> Input number3 -> 
+         maxNumber = number1 -> 
+         If number2 > maxNumber -> maxNumber = number2 -> 
+         If number3 > maxNumber -> maxNumber = number3 -> 
+         Display maxNumber -> end
 ```
