@@ -1,5 +1,3 @@
-Sure, I can help you create the flowcharts and pseudocode for each of the given questions. Below is the Markdown file with the questions, pseudocode, and flowcharts:
-
 ### Question 1: Multiply 2 numbers by taking input from the user
 
 **Pseudocode:**
