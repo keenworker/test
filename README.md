@@ -36,7 +36,7 @@ An interpreter, on the other hand, reads the source code line-by-line and execut
 - The execution of interpreted code is generally slower compared to compiled code.
 - Errors may only be discovered during runtime, leading to potentially more difficult debugging.
 
-### 2. ASCII Table
+### 2. See ASCII Table from Internet.
 
 **Answer:**
 
@@ -79,7 +79,7 @@ Here's a part of the ASCII table:
 | 30      | RS        | 62      | >         | 94      | ^         | 126     | ~         |
 | 31      | US        | 63      | ?         | 95      | _         | 127     | DEL       |
 
-### 3. 32-bit vs. 64-bit CPU
+### 3. What is 32 bit vs 64 bit CPU?
 
 **Answer:**
 
@@ -108,7 +108,7 @@ The terms 32-bit and 64-bit refer to the width of the CPU's data bus and the reg
 - For older hardware with limited memory (4GB or less), a 32-bit operating system may be sufficient.
 - For modern computers with more than 4GB of RAM, a 64-bit operating system is recommended to fully utilize the available memory and achieve better performance.
 
-### 4. Naming Conventions for Variables
+### 4. Explore various naming conventions of variables?
 
 **Answer:**
 
@@ -132,7 +132,7 @@ Here are some popular naming conventions for variables:
 
 It's essential to choose a naming convention and stick with it throughout the project to maintain consistency. Additionally, follow any specific guidelines or conventions set by your team or organization.
 
-### 5. Precedence and Associativity Table
+### 5. Read precedence and associativity table.
 
 **Answer:**
 
