@@ -82,8 +82,55 @@
     a. She was ________ tired. (completely/utterly)  
     b. The cake tasted ________ sweet. (extremely/heavily)  
 
-### **Mixed Practice (Advanced)**  
-17. Correct the sentence: "The childrens are playing with sheeps."  
-18. Convert to abstract noun: "Brave" → ________.  
-19. Write two meanings of "bank" and use them in sentences.  
-20. Identify the collective noun: "The jury announced the verdict."  
+### **Practice Questions**  
+1. Identify as phrase (P) or sentence (S): *Barking dogs at night.*  
+2. Underline the abstract noun: *Her honesty impressed everyone.*  
+3. Choose the correct homophone: *The sun’s rays are too (week/weak) today.*  
+4. Complete with a subject: *________ builds nests in trees.*  
+5. Convert to plural: *The child → ________.*  
+6. Correct the sentence: *She gave me a good advise.*  
+7. Use "bank" in two sentences with different meanings.  
+8. Identify the collective noun: *A flock of birds flew south.*  
+9. Fill in the collocation: *________ a phone call (do/make).*  
+10. Split into subject and predicate: *The students solved the puzzle.*  
+11. Circle the common noun: *Delhi is the capital of India.*  
+12. Choose the correct word: *I (threw/through) the ball.*  
+13. Convert to abstract noun: *Brave → ________.*  
+14. Correct the sentence: *The cattles are grazing.*  
+15. Identify the homograph: *The wind will wind the clock.*  
+16. Fill in the collocation: *She ________ into tears (burst/broke).*  
+17. Underline the proper noun: *Rahul visited the Taj Mahal.*  
+18. Use "bat" in two sentences (animal/sports).  
+19. Choose the correct plural: *Ox → (oxes/oxen).*  
+20. Identify the phrase: *In the morning.*  
+
+21. Fill in the collective noun: *A ________ of soldiers.*  
+22. Correct the sentence: *The scissors is sharp.*  
+23. Choose the homophone: *I need to (write/right) an essay.*  
+24. Convert to plural: *Tooth → ________.*  
+25. Complete the collocation: *________ a mistake (do/make).*  
+26. Split into subject/predicate: *My mother baked a cake.*  
+27. Identify the abstract noun: *His courage saved lives.*  
+28. Use "fair" in two sentences (appearance/event).  
+29. Correct the sentence: *Sheeps are grazing.*  
+30. Choose the correct word: *The (berth/birth) was booked.*  
+31. Underline the uncountable noun: *Sugar is sweet.*  
+32. Fill in the collocation: *________ a goal (score/achieve).*  
+33. Convert to plural: *Mouse → ________.*  
+34. Identify the homophone: *The (sea/see) is calm today.*  
+35. Complete with a subject: *________ is shining brightly.*  
+36. Correct the sentence: *The furnitures are new.*  
+37. Use "close" in two sentences (shut/near).  
+38. Identify the phrase: *Under the table.*  
+39. Choose the collective noun: *A ________ of fish.*  
+40. Split into subject/predicate: *The gardener watered the plants.*  
+41. Underline the proper noun: *Ganga is a holy river.*  
+42. Fill in the collocation: *________ homework (do/make).*  
+43. Convert to plural: *Deer → ________.*  
+44. Correct the sentence: *The news are good.*  
+45. Use "lead" in two sentences (metal/guide).  
+46. Identify the homograph: *The bass fish vs. bass guitar.*  
+47. Choose the correct word: *He (rode/road) a bicycle.*  
+48. Complete the abstract noun: *Happy → ________.*  
+49. Split into subject/predicate: *The sun rises in the east.*  
+50. Correct the sentence: *She gave me two breads.*  
