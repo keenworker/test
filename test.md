@@ -1,136 +1,315 @@
-### **Chapter 1: Sentences**  
-**Exercise 1 – Sentences vs. Phrases**  
-1. Identify if the following are sentences (S) or phrases (P):  
-   a. Under the bed.  
-   b. The moon shines brightly.  
-   c. A flock of sheep.  
-   d. She solved the puzzle.  
+Here’s the full “Managing Files and Folders” and “Working with Graphics in Word” worksheet laid out in the same structured format:
 
-**Exercise 2 – Subject & Predicate**  
-2. Split into subject and predicate:  
-   a. The teacher explained the lesson.  
-   b. My brother plays cricket every evening.  
+# COMPUTER: Managing Files and Folders
 
-**Exercise 3 – Completing Sentences**  
-3. Add a subject to complete:  
-   a. ________ is dancing on the stage.  
-   b. ________ won the match yesterday.  
+## Part 1: Operating System & Windows 10
 
-### **Chapter 2: Nouns**  
-**Exercise 1 – Common & Proper Nouns**  
-4. Underline proper nouns and circle common nouns:  
-   a. Mahatma Gandhi was born in Gujarat.  
-   b. The Ganga flows through India.  
+1. **What is an operating system?** (1 mark)
+   **Answer:** An operating system is a system software that manages computer hardware and software and provides common services for computer programs.
 
-**Exercise 2 – Abstract Nouns**  
-5. Identify abstract nouns:  
-   a. Kindness is a virtue.  
-   b. Her bravery saved the child.  
+2. **Name any two versions of the Windows operating system introduced by Microsoft.** (1 mark)
+   **Answer:** Examples include Windows 7 and Windows 8.1.
 
-**Exercise 3 – Collective Nouns**  
-6. Fill in the blanks with collective nouns:  
-   a. A ________ of bees.  
-   b. A ________ of ships.  
+3. **Who developed Windows 10?** (1 mark)
+   **Answer:** Windows 10 was developed by Microsoft Corporation.
 
-**Exercise 4 – Countable & Uncountable**  
-7. Classify as countable (C) or uncountable (UC):  
-   a. Happiness  
-   b. Chairs  
+4. **When was Windows 10 released?** (1 mark)
+   **Answer:** Windows 10 was released on July 29, 2015.
 
-### **Chapter 3: Nouns – Number**  
-**Exercise 1 – Singular & Plural**  
-8. Convert to plural:  
-   a. Child → ________  
-   b. Tooth → ________  
+5. **List two features of Windows 10.** (2 marks)
+   **Answer:**
 
-**Exercise 2 – Irregular Plurals**  
-9. Correct the sentences:  
-   a. The mouses are running.  
-   b. She bought two loafs of bread.  
+   * The desktop has a more user‑friendly look with live tiles.
+   * It works on various devices like phones, tablets, and PCs.
 
-**Exercise 3 – Tricky Nouns**  
-10. Identify if the sentence is correct (✓) or incorrect (✗):  
-    a. The news are shocking.  
-    b. Mathematics is my favorite subject.  
+6. **Explain one main difference between Windows 10 and earlier versions.** (3 marks)
+   **Answer:** The main difference is the redesigned desktop with live tiles and the ability to run on multiple device types—such as tablets and phones—making it more flexible than previous versions.
 
-### **Chapter 4: Homonyms, Homophones, Homographs**  
-**Exercise 1 – Homophones**  
-11. Choose the correct word:  
-    a. The knight rode a horse / hoarse.  
-    b. I ate eight / ate apples.  
+7. **Describe how an operating system manages computer hardware and software.** (4 marks)
+   **Answer:** The operating system loads into memory during booting, then controls hardware (CPU, memory, disk) by allocating resources, and runs software by providing necessary services like file management, user interface, and security.
 
-**Exercise 2 – Homographs**  
-12. Use "bow" in two sentences with different meanings.  
+### Fill in the Blanks
 
-**Exercise 3 – Homonyms**  
-13. Differentiate:  
-    a. Bat (animal) vs. Bat (sports equipment).  
+1. An **operating system** is system software that manages computer hardware and software.
+2. Windows 10 was released on **July 29, 2015**.
+3. The small pictures on the desktop are called **icons**.
+4. The bar at the bottom of the desktop is the **task bar**.
+5. Double‑clicking on an icon is used to **open** it.
 
-### **Chapter 5: Collocations**  
-**Exercise 1 – Correct Collocations**  
-14. Fill in the blanks:  
-    a. ________ a mistake (do/make).  
-    b. ________ a goal (score/achieve).  
+## Part 2: Starting Windows 10 & Desktop
 
-**Exercise 2 – Verb + Noun Pairs**  
-15. Match:  
-    a. Land → (deal/job)  
-    b. Forgive → (debt/mistake)  
+1. **What is “booting”?** (1 mark)
+   **Answer:** Booting is the process of loading the operating system into the computer’s memory when the computer is switched on.
 
-**Exercise 3 – Adverb + Adjective**  
-16. Complete:  
-    a. She was ________ tired. (completely/utterly)  
-    b. The cake tasted ________ sweet. (extremely/heavily)  
+2. **What appears on the monitor after booting?** (1 mark)
+   **Answer:** The Windows desktop appears on the monitor after booting.
 
-### **Practice Questions**  
-1. Identify as phrase (P) or sentence (S): *Barking dogs at night.*  
-2. Underline the abstract noun: *Her honesty impressed everyone.*  
-3. Choose the correct homophone: *The sun’s rays are too (week/weak) today.*  
-4. Complete with a subject: *________ builds nests in trees.*  
-5. Convert to plural: *The child → ________.*  
-6. Correct the sentence: *She gave me a good advise.*  
-7. Use "bank" in two sentences with different meanings.  
-8. Identify the collective noun: *A flock of birds flew south.*  
-9. Fill in the collocation: *________ a phone call (do/make).*  
-10. Split into subject and predicate: *The students solved the puzzle.*  
-11. Circle the common noun: *Delhi is the capital of India.*  
-12. Choose the correct word: *I (threw/through) the ball.*  
-13. Convert to abstract noun: *Brave → ________.*  
-14. Correct the sentence: *The cattles are grazing.*  
-15. Identify the homograph: *The wind will wind the clock.*  
-16. Fill in the collocation: *She ________ into tears (burst/broke).*  
-17. Underline the proper noun: *Rahul visited the Taj Mahal.*  
-18. Use "bat" in two sentences (animal/sports).  
-19. Choose the correct plural: *Ox → (oxes/oxen).*  
-20. Identify the phrase: *In the morning.*  
+3. **Define an icon.** (1 mark)
+   **Answer:** An icon is a small picture or symbol on the desktop that represents a file, folder, or program.
 
-21. Fill in the collective noun: *A ________ of soldiers.*  
-22. Correct the sentence: *The scissors is sharp.*  
-23. Choose the homophone: *I need to (write/right) an essay.*  
-24. Convert to plural: *Tooth → ________.*  
-25. Complete the collocation: *________ a mistake (do/make).*  
-26. Split into subject/predicate: *My mother baked a cake.*  
-27. Identify the abstract noun: *His courage saved lives.*  
-28. Use "fair" in two sentences (appearance/event).  
-29. Correct the sentence: *Sheeps are grazing.*  
-30. Choose the correct word: *The (berth/birth) was booked.*  
-31. Underline the uncountable noun: *Sugar is sweet.*  
-32. Fill in the collocation: *________ a goal (score/achieve).*  
-33. Convert to plural: *Mouse → ________.*  
-34. Identify the homophone: *The (sea/see) is calm today.*  
-35. Complete with a subject: *________ is shining brightly.*  
-36. Correct the sentence: *The furnitures are new.*  
-37. Use "close" in two sentences (shut/near).  
-38. Identify the phrase: *Under the table.*  
-39. Choose the collective noun: *A ________ of fish.*  
-40. Split into subject/predicate: *The gardener watered the plants.*  
-41. Underline the proper noun: *Ganga is a holy river.*  
-42. Fill in the collocation: *________ homework (do/make).*  
-43. Convert to plural: *Deer → ________.*  
-44. Correct the sentence: *The news are good.*  
-45. Use "lead" in two sentences (metal/guide).  
-46. Identify the homograph: *The bass fish vs. bass guitar.*  
-47. Choose the correct word: *He (rode/road) a bicycle.*  
-48. Complete the abstract noun: *Happy → ________.*  
-49. Split into subject/predicate: *The sun rises in the east.*  
-50. Correct the sentence: *She gave me two breads.*  
+4. **What is the desktop?** (2 marks)
+   **Answer:** The desktop is the first screen that appears on the monitor, showing icons and the task bar.
+
+5. **Describe the steps to start Windows 10.** (3 marks)
+   **Answer:**
+
+   1. Switch on the computer.
+   2. The system BIOS loads and performs checks.
+   3. Windows 10 loads into memory (booting).
+   4. The desktop appears after Windows finishes loading.
+
+6. **What is the Start button used for?** (1 mark)
+   **Answer:** The Start button opens the Start Menu, which displays apps, settings, and power options.
+
+7. **Name three options shown in the Start Menu.** (3 marks)
+   **Answer:**
+
+   * Most used (recently opened apps)
+   * File Explorer
+   * Settings
+
+8. **How do you open Settings from the Start Menu?** (2 marks)
+   **Answer:** Click the Start button, then select **Settings** from the menu.
+
+## Part 3: File Explorer
+
+1. **What is File Explorer?** (1 mark)
+   **Answer:** File Explorer is an application that gives detailed information about files, folders, and drives.
+
+2. **Write one way to open File Explorer using the mouse.** (1 mark)
+   **Answer:** Click the Start button and select **File Explorer**.
+
+3. **What keyboard shortcut opens File Explorer?** (1 mark)
+   **Answer:** Press **Windows key + E**.
+
+4. **List four tasks you can perform in File Explorer.** (4 marks)
+   **Answer:** You can view, create, delete, and rename files and folders.
+
+5. **Explain two methods to create a new folder in Windows 10.** (3 marks)
+   **Answer:**
+
+   * Right‑click in the location, choose **New → Folder**, name it, and press **Enter**.
+   * In File Explorer’s Home tab, click **New Folder**, name it, and press **Enter**.
+
+6. **Describe the information File Explorer shows about drives.** (2 marks)
+   **Answer:** It shows the drive letter, name, and available free space for each drive.
+
+## Part 4: Files and Folders
+
+1. **Define a file.** (1 mark)
+   **Answer:** A file is a collection of related information, identified by an extension at the end of its name.
+
+2. **Define a folder.** (1 mark)
+   **Answer:** A folder is a container that can hold one or more files or subfolders.
+
+3. **What is a subfolder?** (1 mark)
+   **Answer:** A subfolder is a folder created inside another folder.
+
+4. **Explain one difference between a file and a folder.** (2 marks)
+   **Answer:** A file stores data or programs, while a folder organizes and holds files or other folders.
+
+5. **Give two examples of file extensions.** (2 marks)
+   **Answer:** Examples include **.docx** and **.jpg**.
+
+6. **Why are folders important for organizing files?** (2 marks)
+   **Answer:** Folders help keep related files together, making it easier to find and manage them.
+
+7. **How do you name a new folder?** (3 marks)
+   **Answer:** After creating the folder, type the name you want in the text box and press **Enter**.
+
+## Part 5: Saving a File
+
+1. **What does “saving a file” mean?** (1 mark)
+   **Answer:** Saving a file means sending it to a storage location like a hard drive or pen drive for future use.
+
+2. **Name two methods to save a file.** (2 marks)
+   **Answer:**
+
+   * Click the **Save** icon.
+   * Press **Ctrl + S** on the keyboard.
+
+3. **Describe the steps to save a file using the Save icon.** (3 marks)
+   **Answer:**
+
+   1. Click the **File** menu.
+   2. Click the **Save** icon.
+   3. Choose the location, enter the file name, and click **Save**.
+
+4. **How do you save a file using the keyboard shortcut?** (2 marks)
+   **Answer:** Hold down **Ctrl** and press **S**, then choose the location, name the file, and click **Save**.
+
+5. **Why should you save your work frequently?** (3 marks)
+   **Answer:** Frequent saving prevents data loss if the computer shuts down unexpectedly or if there is a power failure.
+
+6. **Explain how to save a file to a specific folder.** (4 marks)
+   **Answer:**
+
+   1. Click **File → Save** (or press **Ctrl + S**).
+   2. In the dialog, navigate to the desired folder.
+   3. Type a name in the File name box.
+   4. Click **Save**.
+
+## Part 6: Opening, Renaming & Deleting
+
+1. **How do you open a file or folder?** (1 mark)
+   **Answer:** You open it by double‑clicking on its icon.
+
+2. **What does “renaming” mean?** (1 mark)
+   **Answer:** Renaming means changing the name of an existing file or folder.
+
+3. **List the steps to rename a file or folder.** (3 marks)
+   **Answer:**
+
+   1. Select the file or folder.
+   2. Right‑click and choose **Rename**.
+   3. Type the new name and press **Enter**.
+
+4. **Describe the steps to delete a file or folder.** (3 marks)
+   **Answer:**
+
+   1. Select the file or folder.
+   2. Right‑click and choose **Delete**.
+   3. The item moves to the Recycle Bin.
+
+5. **What happens to a file when you delete it?** (2 marks)
+   **Answer:** The deleted file moves to the Recycle Bin, where it is stored temporarily.
+
+6. **What is the use of a shortcut?** (2 marks)
+   **Answer:** A shortcut lets you open a program or file quickly without navigating to its original location.
+
+# COMPUTER: Working with Graphics in Word
+
+## Part 1: Inserting a Picture
+
+1. **What is MS Word?** (1 mark)
+   **Answer:** MS Word is word‑processing software used to create, edit, format, save and print documents.
+
+2. **Which tab and group do you use to insert a picture from your device?** (1 mark)
+   **Answer:** Click the **Insert** tab, then in the **Illustrations** group choose **Pictures → This Device**.
+
+3. **List the steps to insert a picture from your computer.** (6 marks)
+   **Answer:**
+
+   1. Click the **Insert** tab.
+   2. In the **Illustrations** group click **Pictures → This Device**.
+   3. In the Insert Picture dialog box, browse to your image.
+   4. Select the picture.
+   5. Click **Insert**.
+   6. The picture appears and the **Picture Format** tab opens.
+
+4. **What special tab appears when you insert a picture, and what is its use?** (3 marks)
+   **Answer:** The **Picture Format** tab appears; it provides tools to change picture appearance (apply effects, adjust size, add borders).
+
+## Part 2: Inserting Online Pictures
+
+1. **What are Online Pictures?** (2 marks)
+   **Answer:** Online Pictures are images searched and inserted directly from the Internet (via Bing).
+
+2. **Which menu path lets you insert an online picture?** (1 mark)
+   **Answer:** **Insert** tab → **Illustrations** group → **Pictures → Online Pictures**.
+
+3. **Describe how to insert an online picture in five steps.** (5 marks)
+   **Answer:**
+
+   1. Click the **Insert** tab.
+   2. In the **Illustrations** group select **Pictures → Online Pictures**.
+   3. In the Online Pictures dialog, enter a keyword in Bing Image Search.
+   4. Browse and select the desired image.
+   5. Click **Insert** to add it to the document.
+
+## Part 3: Inserting Shapes
+
+1. **Define a shape in MS Word.** (1 mark)
+   **Answer:** A shape is a drawn object—such as a line, rectangle, arrow, or banner—that you add for illustration.
+
+2. **Through which tab and group do you insert shapes?** (1 mark)
+   **Answer:** **Insert** tab, **Illustrations** group, **Shapes**.
+
+3. **List the categories of shapes available.** (3 marks)
+   **Answer:** Lines, Rectangles, Block Arrows, Equation Shapes, Basic Shapes, Flowchart, Stars and Banners, Callouts, etc.
+
+4. **Explain the four steps to insert a shape.** (4 marks)
+   **Answer:**
+
+   1. Click the **Insert** tab.
+   2. In the **Illustrations** group click **Shapes**.
+   3. From the dropdown, choose your shape.
+   4. Drag on the page to draw it.
+
+5. **How do you add text inside a shape?** (2 marks)
+   **Answer:** Click the shape and start typing, or right‑click the shape, choose **Add Text**, then type.
+
+## Part 4: Inserting a Text Box
+
+1. **What is a text box?** (2 marks)
+   **Answer:** A text box is a movable graphical element in which you can type and format text independently of the main page text.
+
+2. **Which tab and group contain the Text Box option?** (1 mark)
+   **Answer:** **Insert** tab, **Text** group, **Text Box**.
+
+3. **Describe the steps to insert and adjust a text box.** (5 marks)
+   **Answer:**
+
+   1. Click the **Insert** tab.
+   2. In the **Text** group click **Text Box**.
+   3. Choose a built‑in style (e.g., **Simple Text Box**).
+   4. Type your text; it auto‑fits the box.
+   5. Drag the handles to resize or move the text box.
+
+4. **Which tab appears for formatting a text box, and what can you do with it?** (2 marks)
+   **Answer:** The **Format** tab appears; you can change fill, outline, effects, and size of the text box.
+
+## Part 5: Inserting a Table
+
+1. **What is a table?** (1 mark)
+   **Answer:** A table is a grid of rows and columns used to organise data.
+
+2. **Which two methods are used to insert a table?** (1 mark)
+   **Answer:** Table grid method and Insert Table dialog box.
+
+3. **Explain how to insert a table using the grid.** (4 marks)
+   **Answer:**
+
+   1. Click **Insert** tab → **Tables** group → **Table**.
+   2. Hover over grid cells to select rows and columns.
+   3. Click to insert the table of that size.
+   4. Table appears in the document.
+
+4. **Explain how to insert a table using the dialog box.** (4 marks)
+   **Answer:**
+
+   1. Click **Insert** tab → **Tables** group → **Insert Table**.
+   2. In the dialog box set number of columns and rows.
+   3. Click **OK**.
+   4. Table appears with specified size.
+
+5. **Which method is quickest for a simple table and why?** (2 marks)
+   **Answer:** The Table grid method, because you can insert with a single hover‑and‑click without entering numbers.
+
+## Part 6: Adding Text in a Table
+
+1. **List the steps to add text into a table cell.** (4 marks)
+   **Answer:**
+
+   1. Click in the desired cell.
+   2. Type the text using the keyboard.
+   3. Press **Tab** to move to the next cell to the right.
+   4. Press **Down Arrow** to move to the cell below.
+
+2. **How do you move to the next row after the last column?** (1 mark)
+   **Answer:** Press **Tab** in the last cell to create a new row.
+
+## Part 7: Formatting a Table
+
+1. **What tab appears when a table is selected, and what group lets you choose styles?** (2 marks)
+   **Answer:** The **Table Design** tab appears; in its **Table Styles** group click **More** to pick a style.
+
+2. **Outline the four steps to apply a built‑in style to a table.** (4 marks)
+   **Answer:**
+
+   1. Click to select the table.
+   2. Click the **Table Design** tab.
+   3. In the **Table Styles** group click **More**.
+   4. Choose and click the desired style.
+
+Let me know if you’d like any further edits or additions!
