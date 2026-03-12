@@ -1,135 +1,527 @@
-## Chapter 2: Managing Files and Folders
+# MATH- WORKSHEET.md
 
----
+# MATH- WORKSHEET.md
 
-### Part 1: Starting Windows 10
+# MATH- WORKSHEET.md
 
-**Detailed Explanation**
+# MATH- WORKSHEET.md
+# MATH- WORKSHEET.md
 
-* You can start Windows 10 by switching on a computer.
-* Windows operating system starts loading into the computer’s memory, which is called **booting**.
-* After booting, the **Windows desktop** appears on the monitor. The desktop contains **icons**, which are the small pictures or symbols representing files or programs.
-* The **Start button** is the most frequently used button on the Windows desktop. When you click it, the **Start Menu** appears, displaying options like Most used apps, File Explorer, Settings and Power.
+# MATH- WORKSHEET.md
 
----
+# MATH- WORKSHEET.md
 
-#### Important Questions
+# MATH- WORKSHEET.md
 
-1. **What is the process called when Windows 10 loads into the computer’s memory?** (1)
-   **Answer:** The process is called **booting**.
+# MATH- WORKSHEET.md
 
-2. **Name two things you see on the desktop after Windows 10 has booted.** (2)
-   **Answer:** After booting, you see **icons** and the **Start button** on the desktop.
+# MATH- WORKSHEET.md
 
-3. **List three options displayed in the Start Menu.** (3)
-   **Answer:** The Start Menu displays **Most used**, **File Explorer**, and **Settings**.
+# MATH- WORKSHEET.md
 
-4. **Explain the function of the Start button in Windows 10.** (4)
-   **Answer:** The Start button opens the **Start Menu**, which allows you to access commonly used applications, settings, file explorer, and power options.
+# MATH- WORKSHEET.md
+# MATH- WORKSHEET.md
 
-5. **Describe what an icon is and how you open an application using it.** (5)
-   **Answer:** An icon is a small picture or symbol on the desktop that represents a file or program. You open the application by **selecting** (clicking) its icon.
+# MATH- WORKSHEET.md
 
-6. **Outline the steps from switching on the computer to seeing the desktop in Windows 10.** (6)
-   **Answer:** First, switch on the computer. Then Windows 10 begins **booting**, loading the operating system into memory. After booting completes, the **Windows desktop** appears with icons and the Start button ready for use.
+# MATH- WORKSHEET.md
 
-**Fill in the Blanks**
+## Section C: Multiplications
 
-1. The first screen that appears on the monitor is called the **desktop**.
-2. The process of loading the operating system into memory is called **booting**.
-3. The small pictures or symbols on the desktop are called **icons**.
-4. Clicking the **Start button** opens the Start Menu.
+### Three-Digit × One-Digit Multiplications (50 Questions):
 
----
+**1\.** 783 × 1 = _____
+**2\.** 679 × 3 = _____
+**3\.** 898 × 2 = _____
+**4\.** 753 × 7 = _____
+**5\.** 340 × 4 = _____
+**6\.** 188 × 4 = _____
+**7\.** 266 × 6 = _____
+**8\.** 843 × 9 = _____
+**9\.** 452 × 9 = _____
+**10\.** 832 × 7 = _____
+**11\.** 545 × 9 = _____
+**12\.** 958 × 6 = _____
+**13\.** 974 × 4 = _____
+**14\.** 985 × 6 = _____
+**15\.** 821 × 2 = _____
+**16\.** 470 × 8 = _____
+**17\.** 235 × 4 = _____
+**18\.** 629 × 2 = _____
+**19\.** 749 × 5 = _____
+**20\.** 263 × 3 = _____
+**21\.** 871 × 9 = _____
+**22\.** 310 × 3 = _____
+**23\.** 947 × 3 = _____
+**24\.** 628 × 6 = _____
+**25\.** 132 × 1 = _____
 
-### Part 2: Opening Files and Folders
 
-**Detailed Explanation**
+**26\.** 998 × 5 = _____
+**27\.** 861 × 4 = _____
+**28\.** 646 × 9 = _____
+**29\.** 507 × 3 = _____
+**30\.** 421 × 9 = _____
+**31\.** 277 × 9 = _____
+**32\.** 917 × 4 = _____
+**33\.** 977 × 7 = _____
+**34\.** 368 × 4 = _____
+**35\.** 862 × 3 = _____
+**36\.** 893 × 6 = _____
+**37\.** 168 × 5 = _____
+**38\.** 916 × 3 = _____
+**39\.** 972 × 3 = _____
+**40\.** 258 × 1 = _____
+**41\.** 717 × 3 = _____
+**42\.** 121 × 3 = _____
+**43\.** 823 × 8 = _____
+**44\.** 506 × 5 = _____
+**45\.** 918 × 5 = _____
+**46\.** 670 × 7 = _____
+**47\.** 741 × 3 = _____
+**48\.** 556 × 7 = _____
+**49\.** 177 × 4 = _____
+**50\.** 388 × 9 = _____
 
-* You can open a **file** or **folder** by **double‑clicking** on it.
-* A **file** is a collection of related information identified by an extension at the end of its name.
-* A **folder** (or directory) can contain one or more files. Folders help to organize files on the hard disk.
-* **File Explorer** is an application which gives detailed information about files, folders and drives. It allows us to access, edit, manage and organize our files and folders.
+### Four-Digit × Two-Digit Multiplications (50 Questions):
 
----
+**1\.** 2847 × 20 = _____
+**2\.** 3895 × 75 = _____
+**3\.** 5661 × 84 = _____
+**4\.** 4123 × 91 = _____
+**5\.** 3478 × 97 = _____
+**6\.** 9492 × 13 = _____
+**7\.** 5600 × 36 = _____
+**8\.** 6317 × 29 = _____
+**9\.** 8192 × 22 = _____
+**10\.** 6630 × 47 = _____
+**11\.** 6907 × 95 = _____
+**12\.** 4343 × 71 = _____
+**13\.** 2477 × 98 = _____
+**14\.** 8078 × 91 = _____
+**15\.** 5876 × 19 = _____
+**16\.** 6180 × 31 = _____
+**17\.** 5381 × 59 = _____
+**18\.** 6012 × 13 = _____
+**19\.** 9219 × 83 = _____
+**20\.** 6485 × 57 = _____
+**21\.** 1309 × 15 = _____
+**22\.** 6814 × 22 = _____
+**23\.** 9550 × 72 = _____
+**24\.** 2843 × 69 = _____
+**25\.** 3604 × 42 = _____
 
-#### Important Questions
 
-1. **How do you open a file or folder in Windows 10?** (1)
-   **Answer:** You open a file or folder by **double‑clicking** on it.
+**26\.** 6937 × 73 = _____
+**27\.** 9192 × 22 = _____
+**28\.** 1222 × 87 = _____
+**29\.** 2352 × 40 = _____
+**30\.** 7425 × 29 = _____
+**31\.** 5222 × 86 = _____
+**32\.** 8882 × 96 = _____
+**33\.** 7239 × 34 = _____
+**34\.** 9568 × 49 = _____
+**35\.** 4555 × 18 = _____
+**36\.** 9897 × 38 = _____
+**37\.** 5163 × 46 = _____
+**38\.** 9629 × 38 = _____
+**39\.** 3637 × 91 = _____
+**40\.** 4011 × 67 = _____
+**41\.** 4530 × 53 = _____
+**42\.** 9039 × 82 = _____
+**43\.** 4089 × 17 = _____
+**44\.** 5980 × 70 = _____
+**45\.** 1834 × 97 = _____
+**46\.** 3600 × 21 = _____
+**47\.** 2506 × 48 = _____
+**48\.** 6501 × 89 = _____
+**49\.** 9344 × 65 = _____
+**50\.** 2825 × 65 = _____
 
-2. **Define a file.** (2)
-   **Answer:** A file is a **collection of related information** and is identified by a short extension at the end of its name.
+### Five-Digit × Three-Digit Multiplications (50 Questions):
 
-3. **What is a folder and what is another name for it?** (2)
-   **Answer:** A folder is a container that can hold files and is also called a **directory**.
+**1\.** 15795 × 215 = _____
+**2\.** 10509 × 739 = _____
+**3\.** 56491 × 193 = _____
+**4\.** 23594 × 377 = _____
+**5\.** 39975 × 430 = _____
+**6\.** 44600 × 440 = _____
+**7\.** 13148 × 701 = _____
+**8\.** 34659 × 109 = _____
+**9\.** 47241 × 438 = _____
+**10\.** 70772 × 630 = _____
+**11\.** 43107 × 925 = _____
+**12\.** 76728 × 233 = _____
+**13\.** 21553 × 973 = _____
+**14\.** 65831 × 125 = _____
+**15\.** 59255 × 897 = _____
+**16\.** 65619 × 979 = _____
+**17\.** 97514 × 586 = _____
+**18\.** 55110 × 142 = _____
+**19\.** 86738 × 251 = _____
+**20\.** 67422 × 238 = _____
+**21\.** 40210 × 519 = _____
+**22\.** 81210 × 369 = _____
+**23\.** 28219 × 103 = _____
+**24\.** 42838 × 349 = _____
+**25\.** 86792 × 901 = _____
 
-4. **Explain the purpose of File Explorer.** (3)
-   **Answer:** File Explorer lets you **view**, **create**, **delete**, **copy**, **move**, **rename**, and **search** files and folders on your computer.
 
-5. **List two ways to open File Explorer in Windows 10.** (4)
-   **Answer:**
+**26\.** 15936 × 610 = _____
+**27\.** 78286 × 717 = _____
+**28\.** 98099 × 785 = _____
+**29\.** 56238 × 615 = _____
+**30\.** 35153 × 510 = _____
+**31\.** 85167 × 756 = _____
+**32\.** 32160 × 724 = _____
+**33\.** 96672 × 703 = _____
+**34\.** 68951 × 577 = _____
+**35\.** 19424 × 642 = _____
+**36\.** 82697 × 239 = _____
+**37\.** 32397 × 651 = _____
+**38\.** 69374 × 713 = _____
+**39\.** 47738 × 895 = _____
+**40\.** 57316 × 140 = _____
+**41\.** 89798 × 996 = _____
+**42\.** 37926 × 230 = _____
+**43\.** 10134 × 690 = _____
+**44\.** 48729 × 389 = _____
+**45\.** 41661 × 159 = _____
+**46\.** 37200 × 277 = _____
+**47\.** 62011 × 329 = _____
+**48\.** 21046 × 654 = _____
+**49\.** 94905 × 589 = _____
+**50\.** 53368 × 301 = _____
 
-   * Click the **Start button** and select **File Explorer**.
-   * Press **Windows key + E** on the keyboard.
+## Section D: Divisions
 
-6. **Describe the steps to create a new folder using the ribbon Home tab.** (6)
-   **Answer:** First, navigate to the location where you want the folder. Then click the **New Folder** option in the **Home** tab. A new folder appears—type the name you want and press **Enter**.
+### Three-Digit ÷ One-Digit Divisions (50 Questions):
 
-**Fill in the Blanks**
+**1\.** 276 ÷ 3 = _____
+**2\.** 504 ÷ 4 = _____
+**3\.** 219 ÷ 8 = _____
+**4\.** 269 ÷ 6 = _____
+**5\.** 450 ÷ 9 = _____
+**6\.** 236 ÷ 5 = _____
+**7\.** 845 ÷ 3 = _____
+**8\.** 936 ÷ 8 = _____
+**9\.** 664 ÷ 3 = _____
+**10\.** 355 ÷ 9 = _____
+**11\.** 345 ÷ 3 = _____
+**12\.** 469 ÷ 7 = _____
+**13\.** 325 ÷ 5 = _____
+**14\.** 920 ÷ 7 = _____
+**15\.** 182 ÷ 7 = _____
+**16\.** 714 ÷ 6 = _____
+**17\.** 560 ÷ 4 = _____
+**18\.** 322 ÷ 7 = _____
+**19\.** 564 ÷ 8 = _____
+**20\.** 906 ÷ 3 = _____
+**21\.** 618 ÷ 6 = _____
+**22\.** 774 ÷ 9 = _____
+**23\.** 371 ÷ 8 = _____
+**24\.** 855 ÷ 5 = _____
+**25\.** 576 ÷ 8 = _____
 
-1. To open File Explorer using the keyboard, press **Windows key + E**.
-2. A folder created inside another folder is called a **subfolder**.
-3. To open File Explorer from the Start Menu, click Start and select **File Explorer**.
-4. A file’s name is followed by a short **extension**.
 
----
+**26\.** 480 ÷ 5 = _____
+**27\.** 465 ÷ 4 = _____
+**28\.** 116 ÷ 6 = _____
+**29\.** 289 ÷ 4 = _____
+**30\.** 127 ÷ 3 = _____
+**31\.** 858 ÷ 6 = _____
+**32\.** 241 ÷ 7 = _____
+**33\.** 975 ÷ 3 = _____
+**34\.** 456 ÷ 6 = _____
+**35\.** 704 ÷ 8 = _____
+**36\.** 824 ÷ 8 = _____
+**37\.** 430 ÷ 2 = _____
+**38\.** 116 ÷ 8 = _____
+**39\.** 868 ÷ 7 = _____
+**40\.** 752 ÷ 2 = _____
+**41\.** 709 ÷ 3 = _____
+**42\.** 691 ÷ 5 = _____
+**43\.** 626 ÷ 4 = _____
+**44\.** 226 ÷ 9 = _____
+**45\.** 361 ÷ 7 = _____
+**46\.** 917 ÷ 8 = _____
+**47\.** 193 ÷ 7 = _____
+**48\.** 992 ÷ 5 = _____
+**49\.** 661 ÷ 6 = _____
+**50\.** 969 ÷ 7 = _____
 
-### Part 3: Deleting Files and Folders
+### Four-Digit ÷ One-Digit Divisions (50 Questions):
 
-**Detailed Explanation**
+**1\.** 2072 ÷ 5 = _____
+**2\.** 6282 ÷ 9 = _____
+**3\.** 6759 ÷ 7 = _____
+**4\.** 6641 ÷ 7 = _____
+**5\.** 7584 ÷ 4 = _____
+**6\.** 8424 ÷ 9 = _____
+**7\.** 5734 ÷ 7 = _____
+**8\.** 3088 ÷ 4 = _____
+**9\.** 2646 ÷ 9 = _____
+**10\.** 6778 ÷ 9 = _____
+**11\.** 9594 ÷ 9 = _____
+**12\.** 2575 ÷ 9 = _____
+**13\.** 7929 ÷ 9 = _____
+**14\.** 5144 ÷ 8 = _____
+**15\.** 3006 ÷ 2 = _____
+**16\.** 2779 ÷ 4 = _____
+**17\.** 7624 ÷ 8 = _____
+**18\.** 9228 ÷ 9 = _____
+**19\.** 2125 ÷ 5 = _____
+**20\.** 7697 ÷ 8 = _____
+**21\.** 1245 ÷ 5 = _____
+**22\.** 1064 ÷ 7 = _____
+**23\.** 2975 ÷ 7 = _____
+**24\.** 9820 ÷ 5 = _____
+**25\.** 1764 ÷ 7 = _____
 
-* To **delete** a file or folder, **select** it, **right‑click**, and choose **Delete**.
-* The deleted item moves to the **Recycle Bin**, a special folder where files and folders are stored temporarily.
-* You can also delete by selecting the file and pressing the **Delete key** on the keyboard.
-* A **shortcut** is an icon that provides quick access to a program or file without deleting the original.
 
----
+**26\.** 4828 ÷ 9 = _____
+**27\.** 8106 ÷ 5 = _____
+**28\.** 4137 ÷ 7 = _____
+**29\.** 9264 ÷ 2 = _____
+**30\.** 4848 ÷ 8 = _____
+**31\.** 5082 ÷ 7 = _____
+**32\.** 1531 ÷ 8 = _____
+**33\.** 7971 ÷ 5 = _____
+**34\.** 4047 ÷ 9 = _____
+**35\.** 8235 ÷ 2 = _____
+**36\.** 1729 ÷ 4 = _____
+**37\.** 6329 ÷ 8 = _____
+**38\.** 3302 ÷ 5 = _____
+**39\.** 8621 ÷ 2 = _____
+**40\.** 7399 ÷ 9 = _____
+**41\.** 1818 ÷ 7 = _____
+**42\.** 4010 ÷ 5 = _____
+**43\.** 1948 ÷ 4 = _____
+**44\.** 8194 ÷ 4 = _____
+**45\.** 9235 ÷ 5 = _____
+**46\.** 2817 ÷ 9 = _____
+**47\.** 2816 ÷ 5 = _____
+**48\.** 5059 ÷ 9 = _____
+**49\.** 6963 ÷ 4 = _____
+**50\.** 5396 ÷ 4 = _____
 
-#### Important Questions
+### Five-Digit ÷ One-Digit Divisions (50 Questions):
 
-1. **What happens to a file when you delete it in Windows 10?** (1)
-   **Answer:** The deleted file moves to the **Recycle Bin**.
+**1\.** 88450 ÷ 5 = _____
+**2\.** 21150 ÷ 9 = _____
+**3\.** 37387 ÷ 4 = _____
+**4\.** 89188 ÷ 9 = _____
+**5\.** 15913 ÷ 8 = _____
+**6\.** 17433 ÷ 5 = _____
+**7\.** 78227 ÷ 9 = _____
+**8\.** 64224 ÷ 8 = _____
+**9\.** 57448 ÷ 8 = _____
+**10\.** 33700 ÷ 4 = _____
+**11\.** 76598 ÷ 5 = _____
+**12\.** 79955 ÷ 5 = _____
+**13\.** 63143 ÷ 7 = _____
+**14\.** 83256 ÷ 7 = _____
+**15\.** 18944 ÷ 4 = _____
+**16\.** 22909 ÷ 2 = _____
+**17\.** 43155 ÷ 4 = _____
+**18\.** 84960 ÷ 9 = _____
+**19\.** 25656 ÷ 4 = _____
+**20\.** 10055 ÷ 9 = _____
+**21\.** 71815 ÷ 5 = _____
+**22\.** 24395 ÷ 7 = _____
+**23\.** 49846 ÷ 3 = _____
+**24\.** 46200 ÷ 5 = _____
+**25\.** 56439 ÷ 2 = _____
 
-2. **Describe two ways to delete a file or folder.** (2)
-   **Answer:**
 
-   * Right‑click the file or folder and select **Delete**.
-   * Select the file or folder and press the **Delete key** on the keyboard.
+**26\.** 66285 ÷ 9 = _____
+**27\.** 43263 ÷ 4 = _____
+**28\.** 23945 ÷ 5 = _____
+**29\.** 92616 ÷ 3 = _____
+**30\.** 25024 ÷ 4 = _____
+**31\.** 42885 ÷ 9 = _____
+**32\.** 84417 ÷ 5 = _____
+**33\.** 67909 ÷ 4 = _____
+**34\.** 12355 ÷ 7 = _____
+**35\.** 50696 ÷ 4 = _____
+**36\.** 60365 ÷ 5 = _____
+**37\.** 15641 ÷ 5 = _____
+**38\.** 38312 ÷ 5 = _____
+**39\.** 10949 ÷ 2 = _____
+**40\.** 89429 ÷ 4 = _____
+**41\.** 98790 ÷ 4 = _____
+**42\.** 27696 ÷ 2 = _____
+**43\.** 27171 ÷ 8 = _____
+**44\.** 19784 ÷ 2 = _____
+**45\.** 43792 ÷ 8 = _____
+**46\.** 23452 ÷ 4 = _____
+**47\.** 60176 ÷ 9 = _____
+**48\.** 82339 ÷ 7 = _____
+**49\.** 94381 ÷ 5 = _____
+**50\.** 69884 ÷ 2 = _____
 
-3. **What is the Recycle Bin?** (2)
-   **Answer:** The Recycle Bin is a folder that stores deleted files and folders temporarily before they are permanently removed.
 
-4. **Explain what a shortcut is and why it is useful.** (3)
-   **Answer:** A shortcut is an icon that links to a program, file, or folder. It allows quick access without moving or deleting the original item.
+### Three-Digit ÷ Two-Digit Divisions (50 Questions):
 
-5. **Outline the steps to rename and then delete a folder.** (4)
-   **Answer:**
+**1\.** 522 ÷ 18 = _____
+**2\.** 794 ÷ 19 = _____
+**3\.** 819 ÷ 13 = _____
+**4\.** 442 ÷ 13 = _____
+**5\.** 972 ÷ 14 = _____
+**6\.** 150 ÷ 15 = _____
+**7\.** 847 ÷ 15 = _____
+**8\.** 136 ÷ 20 = _____
+**9\.** 266 ÷ 14 = _____
+**10\.** 629 ÷ 17 = _____
+**11\.** 893 ÷ 19 = _____
+**12\.** 668 ÷ 13 = _____
+**13\.** 128 ÷ 12 = _____
+**14\.** 952 ÷ 14 = _____
+**15\.** 948 ÷ 12 = _____
+**16\.** 600 ÷ 15 = _____
+**17\.** 548 ÷ 14 = _____
+**18\.** 568 ÷ 19 = _____
+**19\.** 120 ÷ 12 = _____
+**20\.** 692 ÷ 17 = _____
+**21\.** 136 ÷ 19 = _____
+**22\.** 531 ÷ 19 = _____
+**23\.** 978 ÷ 19 = _____
+**24\.** 342 ÷ 19 = _____
+**25\.** 627 ÷ 19 = _____
 
-   1. **Rename**: Select the folder, right‑click and choose **Rename**, type the new name and press **Enter**.
-   2. **Delete**: Select the renamed folder, right‑click and choose **Delete**.
 
-6. **Write the detailed sequence of actions to safely remove a file and explain each step.** (6)
-   **Answer:**
+**26\.** 135 ÷ 14 = _____
+**27\.** 858 ÷ 11 = _____
+**28\.** 794 ÷ 13 = _____
+**29\.** 144 ÷ 12 = _____
+**30\.** 310 ÷ 12 = _____
+**31\.** 406 ÷ 14 = _____
+**32\.** 884 ÷ 13 = _____
+**33\.** 885 ÷ 15 = _____
+**34\.** 637 ÷ 11 = _____
+**35\.** 510 ÷ 11 = _____
+**36\.** 522 ÷ 13 = _____
+**37\.** 879 ÷ 15 = _____
+**38\.** 879 ÷ 13 = _____
+**39\.** 823 ÷ 18 = _____
+**40\.** 180 ÷ 18 = _____
+**41\.** 660 ÷ 12 = _____
+**42\.** 628 ÷ 15 = _____
+**43\.** 663 ÷ 13 = _____
+**44\.** 480 ÷ 20 = _____
+**45\.** 471 ÷ 12 = _____
+**46\.** 779 ÷ 19 = _____
+**47\.** 350 ÷ 14 = _____
+**48\.** 499 ÷ 18 = _____
+**49\.** 561 ÷ 11 = _____
+**50\.** 680 ÷ 12 = _____
 
-   1. **Select** the file you want to remove.
-   2. **Right‑click** the selected file to open the context menu.
-   3. Click **Delete** to move it to the **Recycle Bin**.
-   4. If you change your mind, open the Recycle Bin, select the file, and choose **Restore** to return it to its original location.
+### Four-Digit ÷ Two-Digit Divisions (50 Questions):
 
-**Fill in the Blanks**
+**1\.** 9856 ÷ 22 = _____
+**2\.** 5953 ÷ 25 = _____
+**3\.** 4367 ÷ 11 = _____
+**4\.** 2405 ÷ 13 = _____
+**5\.** 1476 ÷ 18 = _____
+**6\.** 8076 ÷ 12 = _____
+**7\.** 5396 ÷ 19 = _____
+**8\.** 4389 ÷ 19 = _____
+**9\.** 4380 ÷ 15 = _____
+**10\.** 5024 ÷ 16 = _____
+**11\.** 9954 ÷ 13 = _____
+**12\.** 8030 ÷ 15 = _____
+**13\.** 8334 ÷ 18 = _____
+**14\.** 2705 ÷ 18 = _____
+**15\.** 7788 ÷ 12 = _____
+**16\.** 4200 ÷ 13 = _____
+**17\.** 8671 ÷ 19 = _____
+**18\.** 3872 ÷ 16 = _____
+**19\.** 6148 ÷ 17 = _____
+**20\.** 6036 ÷ 11 = _____
+**21\.** 5453 ÷ 18 = _____
+**22\.** 7157 ÷ 23 = _____
+**23\.** 8801 ÷ 16 = _____
+**24\.** 1531 ÷ 12 = _____
+**25\.** 5768 ÷ 25 = _____
 
-1. When you delete an item, it moves to the **Recycle Bin**.
-2. A quick way to delete is to select and press the **Delete key**.
-3. Renaming an item changes only its **name**, not its contents.
-4. A **shortcut** does not delete the original file or folder.
+
+**26\.** 1415 ÷ 18 = _____
+**27\.** 1619 ÷ 22 = _____
+**28\.** 3339 ÷ 21 = _____
+**29\.** 4200 ÷ 25 = _____
+**30\.** 7171 ÷ 12 = _____
+**31\.** 8000 ÷ 25 = _____
+**32\.** 4178 ÷ 21 = _____
+**33\.** 4774 ÷ 21 = _____
+**34\.** 8023 ÷ 16 = _____
+**35\.** 4095 ÷ 21 = _____
+**36\.** 6275 ÷ 15 = _____
+**37\.** 7775 ÷ 16 = _____
+**38\.** 5688 ÷ 18 = _____
+**39\.** 5520 ÷ 23 = _____
+**40\.** 7032 ÷ 19 = _____
+**41\.** 5005 ÷ 11 = _____
+**42\.** 9597 ÷ 21 = _____
+**43\.** 3344 ÷ 16 = _____
+**44\.** 8177 ÷ 17 = _____
+**45\.** 2990 ÷ 13 = _____
+**46\.** 6703 ÷ 11 = _____
+**47\.** 9270 ÷ 21 = _____
+**48\.** 6048 ÷ 18 = _____
+**49\.** 3407 ÷ 18 = _____
+**50\.** 3870 ÷ 18 = _____
+
+### Five-Digit ÷ Two-Digit Divisions (50 Questions):
+
+**1\.** 45019 ÷ 12 = _____
+**2\.** 33383 ÷ 17 = _____
+**3\.** 19121 ÷ 15 = _____
+**4\.** 32094 ÷ 12 = _____
+**5\.** 64981 ÷ 23 = _____
+**6\.** 14375 ÷ 16 = _____
+**7\.** 62663 ÷ 16 = _____
+**8\.** 88383 ÷ 17 = _____
+**9\.** 84600 ÷ 20 = _____
+**10\.** 78860 ÷ 20 = _____
+**11\.** 75274 ÷ 12 = _____
+**12\.** 20051 ÷ 13 = _____
+**13\.** 26478 ÷ 18 = _____
+**14\.** 96144 ÷ 12 = _____
+**15\.** 30398 ÷ 25 = _____
+**16\.** 91732 ÷ 19 = _____
+**17\.** 49702 ÷ 20 = _____
+**18\.** 32590 ÷ 19 = _____
+**19\.** 55853 ÷ 15 = _____
+**20\.** 98389 ÷ 18 = _____
+**21\.** 81875 ÷ 18 = _____
+**22\.** 17480 ÷ 20 = _____
+**23\.** 35816 ÷ 19 = _____
+**24\.** 68474 ÷ 14 = _____
+**25\.** 44123 ÷ 23 = _____
+**26\.** 36175 ÷ 15 = _____
+**27\.** 10975 ÷ 25 = _____
+**28\.** 73965 ÷ 15 = _____
+**29\.** 94666 ÷ 14 = _____
+**30\.** 46335 ÷ 15 = _____
+
+
+**31\.** 19764 ÷ 18 = _____
+**32\.** 66240 ÷ 18 = _____
+**33\.** 53028 ÷ 12 = _____
+**34\.** 80864 ÷ 16 = _____
+**35\.** 80688 ÷ 12 = _____
+**36\.** 71369 ÷ 23 = _____
+**37\.** 71805 ÷ 15 = _____
+**38\.** 75142 ÷ 20 = _____
+**39\.** 42849 ÷ 23 = _____
+**40\.** 78804 ÷ 22 = _____
+**41\.** 76520 ÷ 20 = _____
+**42\.** 55497 ÷ 13 = _____
+**43\.** 65399 ÷ 17 = _____
+**44\.** 95167 ÷ 18 = _____
+**45\.** 16720 ÷ 19 = _____
+**46\.** 96904 ÷ 20 = _____
+**47\.** 26755 ÷ 22 = _____
+**48\.** 24482 ÷ 17 = _____
+**49\.** 12912 ÷ 16 = _____
+**50\.** 71427 ÷ 20 = _____
