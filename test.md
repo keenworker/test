@@ -121,21 +121,13 @@
 
 
 
-**1.** What should be added to 58,474 to get 2,00,000? 
-
-**2.** The sum of two numbers is 7,35,842. If one number is 3,89,567, find the other number. 
-
-**3.** What should be subtracted from 4,50,00,000 to get 2,37,48,500? 
-
-**4.** Solve: 9,43,58,210 − 80,54,320 + 67,43,900.
+**1.** What should be added to 58,474 to get 2,00,000? **2.** The sum of two numbers is 7,35,842. If one number is 3,89,567, find the other number. **3.** What should be subtracted from 4,50,00,000 to get 2,37,48,500? **4.** Solve: 9,43,58,210 − 80,54,320 + 67,43,900.
 
 ### Section B: Fill in the Missing Digits
 
 
 
-**1.** `5_374 + _2419 = 74793` — Fill in the missing digits. 
-
-**2.** `90_84 − _2246 = 67538` — Fill in the missing digits.
+**1.** `5_374 + _2419 = 74793` — Fill in the missing digits. **2.** `90_84 − _2246 = 67538` — Fill in the missing digits.
 
 ### Section C: Estimate the Difference
 
