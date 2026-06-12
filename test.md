@@ -141,17 +141,13 @@
 
 
 
-**1.** Estimate 63,840 − 29,475 to the nearest thousand. 
-
-**2.** Estimate 5,847 − 2,369 to the nearest hundred.
+**1.** Estimate 63,840 − 29,475 to the nearest thousand.  **2.** Estimate 5,847 − 2,369 to the nearest hundred.
 
 ### Section D: Estimate Each Sum
 
 
 
-**1.** Estimate 23,647 + 54,812 to the nearest thousand. 
-
-**2.** Estimate 4,573 + 2,846 to the nearest hundred.
+**1.** Estimate 23,647 + 54,812 to the nearest thousand.  **2.** Estimate 4,573 + 2,846 to the nearest hundred.
 
 ### Section E: Solve the Story Sums
 
