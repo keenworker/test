@@ -21,7 +21,7 @@
 
 # MATH- WORKSHEET.md
 
-## Class 5 ENGLISH1: Subject and Predicate [Unit]
+## ENGLISH1: Subject and Predicate [Unit]
 
 ### Part A - Divide the Sentences into Subject and Predicate
 
@@ -34,25 +34,3 @@
 ### Part C — Add Suitable Subjects to the Following Predicates
 
 **40.** Add a suitable Subject to each of the following Predicates and write the complete sentence in your answer sheet. **(a)** \_\_\_\_\_\_\_\_\_\_\_\_ lies to the south of India. **(b)** \_\_\_\_\_\_\_\_\_\_\_\_ take care of my health. **(c)** \_\_\_\_\_\_\_\_\_\_\_\_ are hard-working people. **(d)** \_\_\_\_\_\_\_\_\_\_\_\_ has its own charm.
-
-## Class 5 MATH2 : Addition and Subtraction [Unit]
-
-### Section A: Solve
-
-**1.** What should be added to 58,474 to get 2,00,000? **2.** The sum of two numbers is 7,35,842. If one number is 3,89,567, find the other number. **3.** What should be subtracted from 4,50,00,000 to get 2,37,48,500? **4.** Solve: 9,43,58,210 − 80,54,320 + 67,43,900.
-
-### Section B: Fill in the Missing Digits
-
-**1.** `5_374 + _2419 = 74793` — Fill in the missing digits. **2.** `90_84 − _2246 = 67538` — Fill in the missing digits.
-
-### Section C: Estimate the Difference
-
-**1.** Estimate 63,840 − 29,475 to the nearest thousand. **2.** Estimate 5,847 − 2,369 to the nearest hundred.
-
-### Section D: Estimate Each Sum
-
-**1.** Estimate 23,647 + 54,812 to the nearest thousand. **2.** Estimate 4,573 + 2,846 to the nearest hundred.
-
-### Section E: Solve the Story Sums
-
-**1.** Mohan earns ₹76,340 every month. In one month, he spent ₹48,720. Estimate the amount of money he had saved in that month. **2.** A school library had 56,43,200 books. In March, 34,825 books were issued to students and 18,640 books to teachers. How many books were still in the library? **3.** A wholesale dealer had 3,86,450 kg of rice. He sold 1,54,320 kg in the first week and 42,850 kg in the second week. How many kg did he sell in all in these two weeks? How many kg were left?
