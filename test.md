@@ -45,13 +45,17 @@
 
 
 
-**39.** Add a suitable Predicate to each of the following Subjects and write the complete sentence in your answer sheet. **(a)** The Statue of Liberty \_\_\_\_\_. **(b)** My painting \_\_\_\_\_. **(c)** The snake \_\_\_\_\_. **(d)** A good student \_\_\_\_\_.
+**39.** Add a suitable Predicate to each of the following Subjects and write the complete sentence in your answer sheet. 
+
+**(a)** The Statue of Liberty \_\_\_\_\_. **(b)** My painting \_\_\_\_\_. **(c)** The snake \_\_\_\_\_. **(d)** A good student \_\_\_\_\_.
 
 ### Part C — Add Suitable Subjects to the Following Predicates
 
 
 
-**40.** Add a suitable Subject to each of the following Predicates and write the complete sentence in your answer sheet. **(a)** \_\_\_\_\_\_\_\_\_\_\_\_ lies to the south of India. **(b)** \_\_\_\_\_\_\_\_\_\_\_\_ take care of my health. **(c)** \_\_\_\_\_\_\_\_\_\_\_\_ are hard-working people. **(d)** \_\_\_\_\_\_\_\_\_\_\_\_ has its own charm.
+**40.** Add a suitable Subject to each of the following Predicates and write the complete sentence in your answer sheet. 
+
+**(a)** \_\_\_\_\_\_\_\_\_\_\_\_ lies to the south of India. **(b)** \_\_\_\_\_\_\_\_\_\_\_\_ take care of my health. **(c)** \_\_\_\_\_\_\_\_\_\_\_\_ are hard-working people. **(d)** \_\_\_\_\_\_\_\_\_\_\_\_ has its own charm.
 
 ## Math 2 : Addition and Subtraction [Unit]
 
