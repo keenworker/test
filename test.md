@@ -21,7 +21,7 @@
 
 # MATH- WORKSHEET.md
 
-## ENGLISH1: Subject and Predicate [Unit]
+## CLASS 5 ENGLISH 1: Subject and Predicate [Unit]
 
 ### Part A - Divide the Sentences into Subject and Predicate
 
@@ -57,7 +57,7 @@
 
 **(a)** \_\_\_\_\_\_\_\_\_\_\_\_ lies to the south of India. **(b)** \_\_\_\_\_\_\_\_\_\_\_\_ take care of my health. **(c)** \_\_\_\_\_\_\_\_\_\_\_\_ are hard-working people. **(d)** \_\_\_\_\_\_\_\_\_\_\_\_ has its own charm.
 
-## Math 2 : Addition and Subtraction [Unit]
+## CLASS 5 MATH 2 : Addition and Subtraction [Unit]
 
 ### Section A: Solve
 
