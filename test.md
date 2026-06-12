@@ -71,6 +71,18 @@
 
 **4.** Solve: 9,43,58,210 − 80,54,320 + 67,43,900.
 
+**5.** What should be added to 3,74,856 to get 10,00,000? 
+
+**6.** The sum of two numbers is 45,63,829. If one number is 28,94,756, find the other number. 
+
+**7.** What should be subtracted from 8,00,00,000 to get 5,43,27,615? 
+
+**8.** Solve: 5,63,47,820 + 84,36,179 − 2,47,58,630. 
+
+**9.** What should be added to 9,84,365 to get 50,00,000? 
+
+**10.** The difference of two numbers is 3,48,927. If the larger number is 8,74,315, find the smaller number.
+
 ### Section B: Fill in the Missing Digits
 
 
@@ -78,6 +90,14 @@
 **1.** `5_374 + _2419 = 74793` — Fill in the missing digits. 
 
 **2.** `90_84 − _2246 = 67538` — Fill in the missing digits.
+
+**3.** `7_548 + _4327 = 91875` — Fill in the missing digits. 
+
+**4.** `8_432 − _5267 = 37165` — Fill in the missing digits. 
+
+**5.** `6_845 − _2394 = 45451` — Fill in the missing digits. 
+
+**6.** `3_572 + 4_839 = 81411` — Fill in the missing digits.
 
 ### Section C: Estimate the Difference
 
@@ -104,3 +124,13 @@
 **2.** A school library had 56,43,200 books. In March, 34,825 books were issued to students and 18,640 books to teachers. How many books were still in the library? 
 
 **3.** A wholesale dealer had 3,86,450 kg of rice. He sold 1,54,320 kg in the first week and 42,850 kg in the second week. How many kg did he sell in all in these two weeks? How many kg were left?
+
+**4.** In 2022, a company earned ₹4,85,32,650. It spent ₹2,37,54,820 on salaries and ₹48,75,340 on other expenses. How much profit did the company make? 
+
+**5.** The population of City A is 38,45,720 and of City B is 24,83,956. What is the total population of both cities? By how much is the population of City A more than the population of City B? 
+
+**6.** A factory produced 72,54,380 units in January and 58,43,270 units in February. In March, it produced 14,82,650 units less than in January. Find the total production in all three months. 
+
+**7.** A reservoir had 9,84,35,600 litres of water. During summer, 3,47,82,450 litres evaporated and 85,43,720 litres were used for irrigation. How many litres of water were left in the reservoir? 
+
+**8.** On a holiday, 38,472 men and 24,638 women visited a zoo. Estimate the total number of visitors to the nearest thousand. Also find the exact total number of visitors.
