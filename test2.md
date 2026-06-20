@@ -30,7 +30,7 @@
 # MATH- WORKSHEET.md
 
 
-## ENG-II: Robinson Crusoe 
+## ENG-II: Robinson Crusoe
 
 ### Section A: Fill in the Blanks
 
@@ -39,11 +39,15 @@
 **3.** Defoe's father was a **butcher.**
 **4.** Daniel Defoe began writing at the age of **forty.**
 **5.** Robinson Crusoe is considered the first great English **novel.**
+
+
 **6.** About twelve days into the voyage, a violent **tornado** came from the north.
 **7.** Robinson Crusoe was a good **swimmer** and battled in the sea for an hour and a half.
 **8.** Crusoe slept in a **tree** on his first night on the island.
 **9.** Crusoe made a **raft** out of cut masts and ropes to carry supplies from the ship.
 **10.** Crusoe found **gold** and **silver** coins inside one of the wooden boxes.
+
+
 **11.** Crusoe built a **stockade** around his house to keep out wild animals.
 **12.** He used one of the **sails** from the ship as the roof of his house.
 **13.** Crusoe found **wild** grapes and limes in the valley on the other side of the island.
@@ -57,11 +61,15 @@
 **3.** Daniel Defoe wrote Robinson Crusoe when he was nearly sixty years old. — **True.**
 **4.** Robinson Crusoe is the first great English novel. — **True.**
 **5.** A violent tornado came from the south about twelve days into the voyage. — **False.** The tornado came from the **north.**
+
+
 **6.** Two members of the crew were washed overboard. — **True.**
 **7.** Robinson Crusoe swam to the shore in thirty minutes. — **False.** Robinson Crusoe battled in the stormy sea for **an hour and a half.**
 **8.** Crusoe climbed a tree and slept there on his first night. — **True.**
 **9.** Crusoe found gold and silver coins inside a wooden box on the ship. — **True.**
 **10.** Crusoe built a weak stockade around his house. — **False.** Crusoe built a **strong stockade** around his house.
+
+
 **11.** Crusoe used a sail from the ship as the roof of his house. — **True.**
 **12.** Crusoe was a poor swimmer. — **False.** Crusoe was a **good swimmer.**
 **13.** Robinson Crusoe found wild grapes and limes on the island. — **True.**
@@ -168,11 +176,15 @@
 **3.** Mary Kom was born in a village called **Kangathei** in the state of **Manipur.**
 **4.** Manipur is one of the **Seven** Sister states of India.
 **5.** Mary's parents worked as **manual labourers** in the fields.
+
+
 **6.** Mary was inspired to become a boxer by **Dingko Singh,** who won gold in boxing at the Asian Games.
 **7.** Mary trained at the boxing academy in **Imphal.**
 **8.** In 2001 Mary came **second** at the Women's World Amateur Boxing Championship.
 **9.** In 2002 she entered again and came **first.**
 **10.** Mary Kom is often called **Magnificent** Mary.
+
+
 **11.** Women's boxing was allowed at the Olympics for the first time in **2012** in London.
 **12.** Mary Kom won the **bronze** medal at the 2012 Summer Olympics.
 **13.** At the 2014 Asian Games in South Korea, Mary won the **gold** medal.
@@ -186,11 +198,15 @@
 **3.** Mary was inspired by Dingko Singh who won gold in boxing. — **True.**
 **4.** Mary trained at the boxing academy in Shillong. — **False.** Mary trained at the boxing academy in **Imphal.**
 **5.** Women's boxing was allowed at the Olympics for the first time in 2012. — **True.**
+
+
 **6.** Mary Kom won a gold medal at the 2012 London Olympics. — **False.** Mary Kom won a **bronze** medal at the 2012 London Olympics.
 **7.** Mary Kom has been the World Amateur Boxing Champion five times. — **True.**
 **8.** Mary was awarded the Padma Bhushan in 2010. — **False.** Mary was awarded the Padma Bhushan in **2013.** She was awarded the **Padma Shree in 2010.**
 **9.** Mary got married in 2005 and has three sons. — **True.**
 **10.** Mary Kom's autobiography is called Unstoppable. — **False.** Mary Kom's autobiography is called **Unbreakable.**
+
+
 **11.** Mary promotes animal rights and encourages community service. — **True.**
 **12.** The Rajiv Gandhi Khel Ratna is India's most prestigious sports award. — **True.**
 **13.** Mary teaches disadvantaged children how to play cricket. — **False.** Mary teaches disadvantaged children how to **box.**
@@ -278,11 +294,15 @@
 **3.** Frost was a poet, a teacher and also a **farmer.**
 **4.** Robert Frost won **two** Pulitzer Prizes for his poetry.
 **5.** The traveller stops to watch the woods fill up with **snow.**
+
+
 **6.** The owner of the woods lives in the **village.**
 **7.** There is no **farmhouse** near the place where the traveller stops.
 **8.** The lake beside the woods was **frozen.**
 **9.** The horse shook his **harness** bells.
 **10.** The poet describes the woods as lovely, **dark** and **deep.**
+
+
 **11.** The poet says the evening was the **darkest** evening of the year.
 **12.** The only sounds in the woods were the easy wind and the downy **flake.**
 **13.** The traveller says he has **promises** to keep and miles to go before he sleeps.
@@ -303,6 +323,8 @@
 **8.** The last line of the poem is repeated twice. — **True.**
 **9.** The traveller decides to stay in the woods for the night. — **False.** The traveller **decides to move on** because he has promises to keep and miles to go before he sleeps.
 **10.** The only sounds heard in the woods are easy wind and downy flake. — **True.**
+
+
 **11.** Robert Frost was born in New York. — **False.** Robert Frost was born in **San Francisco.**
 **12.** The owner of the woods will see the traveller stopping there. — **False.** The owner **will not see** the traveller stopping, as his house is in the village.
 **13.** The horse thinks it is strange to stop without a farmhouse near. — **True.**
@@ -316,8 +338,6 @@
 **3. flake** — A small piece of snow; a fleck.
 **4. harness** — The leather straps and belts used to control a horse.
 **5. sweep** — A movement caused by the brushing of a broom; a gentle sweeping motion.
-
-
 **6. frozen** — Turned into ice; very cold.
 **7. lovely** — Beautiful; very pleasant.
 **8. promises** — Commitments or duties that one has given one's word to fulfill.
@@ -397,11 +417,15 @@
 **3.** A famous Indian book of fables is called the **Panchatantra.**
 **4.** The fox saw a vine with lovely grapes that were rich, ripe and **purple-red.**
 **5.** Reynard is the proper name for a **fox** in French fables.
+
+
 **6.** The fox could not reach the grapes because they were too **high.**
 **7.** The fox heaved a deep **sigh** when he could not reach the grapes.
 **8.** The fox **curled** his nose and called the grapes mean and common.
 **9.** The fox said he was sure the grapes were **sour.**
 **10.** The word 'Tis in the poem means **It is.**
+
+
 **11.** The word 'pow'r' in the poem stands for **power.**
 **12.** The word 'thro'' in the poem stands for **through.**
 **13.** In the poem, the fox was **eager** as he tried to snatch the fruit.
@@ -415,11 +439,15 @@
 **3.** The grapes were described as small and green. — **False.** The grapes were described as **rich, ripe and purple-red.**
 **4.** Reynard is the proper name for a fox in French fables. — **True.**
 **5.** The fox said the grapes were sweet and juicy. — **False.** The fox said the grapes were **sour and mean and common.**
+
+
 **6.** The fox curled his nose after failing to reach the grapes. — **True.**
 **7.** The Panchatantra is a famous Indian book of fables. — **True.**
 **8.** The grapes were described as rich, ripe and purple-red. — **True.**
 **9.** The fox succeeded in getting the grapes on his second attempt. — **False.** The fox **never succeeded** in getting the grapes.
 **10.** The poem has five stanzas. — **False.** The poem has **four** stanzas.
+
+
 **11.** The moral of the poem is about never giving up. — **False.** The moral of the poem is that **people blame or criticise what they cannot have** as a way to hide their failure.
 **12.** The poet uses the word 'on' instead of 'along' to keep the line short. — **True.**
 **13.** The fox heaved a deep sigh when he could not reach the grapes. — **True.**
@@ -510,26 +538,36 @@
 **3.** Bones are mainly made up of minerals such as **calcium** and **phosphorus.**
 **4.** The rigid framework of bones present in our body is called the **skeleton.**
 **5.** The skull covers and protects the **brain.**
+
+
 **6.** The **stapes** is the smallest bone in the human body and is present in the **ear.**
 **7.** The skull is made up of a total of **22** bones.
 **8.** The backbone is also known as the **vertebral column** or **spine.**
 **9.** The backbone is made up of **33** small ring-like bones.
 **10.** The individual small bones of the backbone are called **vertebra.**
+
+
 **11.** The ribcage is made up of **12** pairs of thin curved bones called **ribs.**
 **12.** The long flat bone present at the centre of the chest that holds the ribs together in front is called the **sternum.**
 **13.** The last two pairs of ribs that are not attached to the sternum are called **floating ribs.**
 **14.** The longest bone in the human body is the **femur,** also known as the **thigh bone.**
 **15.** The bone present in the upper arm is called the **humerus.**
+
+
 **16.** Bones are held together at the joints with the help of **ligament.**
 **17.** **Cartilage** is a strong, elastic, yellowish or white-coloured tissue present around the joints.
 **18.** The thin chord-like structures that connect bones with muscles are called **tendons.**
 **19.** Muscles whose movements can be controlled by us are called **voluntary** muscles.
 **20.** Muscles whose movements cannot be controlled by us are called **involuntary** muscles.
+
+
 **21.** The involuntary muscles present inside the walls of the heart are called **cardiac** muscles.
 **22.** The involuntary muscles present inside the walls of internal organs like the stomach are called **smooth** muscles.
 **23.** The shoulder girdle is made up of the **shoulder blade** and the **collar bone.**
 **24.** There are over **600** different muscles in the human body.
 **25.** **Ball-and-socket** joint allows movement in all directions and is found at the shoulder and hip.
+
+
 **26.** **Hinge** joint allows only back and forth movements and is found in the knees and elbows.
 **27.** Bone marrow present inside the bones produces **red blood cells.**
 **28.** Animals with a backbone are called **vertebrates,** while animals without a backbone are called **invertebrates.**
@@ -541,16 +579,22 @@
 **3.** The stapes is the largest bone in the human body. — **False.** The stapes is the **smallest** bone in the human body.
 **4.** The backbone is made up of 33 small ring-like bones. — **True.**
 **5.** Eight bones of the skull form the part that protects the brain. — **True.**
+
+
 **6.** The last two pairs of ribs are called the floating ribs. — **True.**
 **7.** The femur is the shortest bone in the human body. — **False.** The femur is the **longest** bone in the human body.
 **8.** All the bones of the skull are movable. — **False.** All the bones of the skull are **fixed and immovable, except the lower jaw.**
 **9.** A joint is a place in the skeleton where two or more bones connect. — **True.**
 **10.** Cartilage is a hard and inflexible material. — **False.** Cartilage is a **strong, elastic** material that can bend.
+
+
 **11.** The shoulder and hip joints are examples of hinge joints. — **False.** The shoulder and hip joints are examples of **ball-and-socket joints.**
 **12.** Hinge joints are found in the knees, elbows, fingers, and toes. — **True.**
 **13.** Pivot joints are found in the bones of the wrist and ankle. — **False.** Pivot joints are found **between the first and second vertebrae of the neck region.** Gliding joints are found in the wrist and ankle.
 **14.** Voluntary muscles are those whose movements cannot be controlled by us. — **False.** Voluntary muscles are those whose movements **can be controlled** by us.
 **15.** Cardiac muscles are a type of voluntary muscle. — **False.** Cardiac muscles are a type of **involuntary** muscle.
+
+
 **16.** The human body needs 6 to 8 hours of sleep every day. — **True.**
 **17.** Animals with a backbone are called invertebrates. — **False.** Animals with a backbone are called **vertebrates.**
 **18.** Tendons are thin chord-like structures that connect bones with muscles. — **True.**
@@ -571,6 +615,8 @@
 **8.** The type of muscles whose movements can be controlled by us — **Voluntary muscles.**
 **9.** The smallest bone in the human body — **Stapes.**
 **10.** The longest bone in the human body — **Femur (thigh bone).**
+
+
 **11.** The involuntary muscles present inside the walls of the heart — **Cardiac muscles.**
 **12.** The long flat bone at the centre of the chest that holds the ribs together — **Sternum.**
 
@@ -591,6 +637,8 @@
 **3.** Food items rich in vitamin C — **Oranges** and **tomatoes.**
 **4.** Food items rich in vitamin D — **Fatty fish** and **egg yolks.**
 **5.** Physical activities good for the health of bones and joints — **Walking** and **playing football.**
+
+
 **6.** Vertebrate animals — **Humans** and **tigers.**
 **7.** Invertebrate animals — **Earthworms** and **snails.**
 
@@ -616,6 +664,8 @@
 
 - **Answer:** **Voluntary muscles** are muscles whose movements **can be controlled** by us. Example: the muscles in our arms and legs. **Involuntary muscles** are muscles whose movements **cannot be controlled** by us — they work on their own. Example: the cardiac muscles of the heart.
 
+
+
 **6.** What is cartilage? What is its function in the body?
 
 - **Answer:** **Cartilage** is a strong, elastic, yellowish or white-coloured tissue present around the joints. Its function is to **protect the bones from getting damaged** due to the constant movements at the joints. Organs like the nose and ears also have cartilage.
@@ -635,6 +685,8 @@
 **10.** Write any two important points related to the care of bones and joints.
 
 - **Answer:** Two important points for the care of bones and joints are: first, we should **eat food rich in calcium** (like milk, curd, cheese) as it helps in the formation and strength of bones; second, we should **exercise regularly** by walking, running or playing sports to keep the bones and joints healthy and strong.
+
+
 
 **11.** What is the importance of joints in the human body?
 
@@ -665,21 +717,29 @@
 **3.** The undigested portion of plant food that includes most fibres is called **roughage.**
 **4.** A diet that contains all the components of food in the right proportions for healthy functioning is called a **balanced diet.**
 **5.** Junk food contains a high amount of **sugar** and **fat,** but a low amount of other nutrients and fibres.
+
+
 **6.** Diseases caused by bad food habits and an unhealthy lifestyle are called **lifestyle** diseases.
 **7.** **Obesity** is defined as abnormal or excessive fat accumulation that increases the risk of health problems.
 **8.** High blood pressure is also known as **hypertension.**
 **9.** Diabetes is a condition in which the **sugar** levels in the blood become too high.
 **10.** **Anaemia** is caused when there is a deficiency of red blood cells in the blood, resulting in pale skin and tiredness.
+
+
 **11.** Deficiency of vitamin A causes **night blindness,** which is the inability to see at night or in poor light.
 **12.** Deficiency of vitamin D causes **rickets,** which leads to softening of bones and bowlegs.
 **13.** Deficiency of vitamin C causes **scurvy,** which causes swollen gums that bleed easily.
 **14.** Deficiency of iodine in the diet causes **goitre,** characterized by swelling of the front portion of the neck.
 **15.** Deficiency of vitamin B1 causes **beriberi.**
+
+
 **16.** Deficiency of proteins in children causes **kwashiorkor.**
 **17.** Deficiency of both proteins and carbohydrates causes **marasmus.**
 **18.** The addition of unwanted and unsafe substances to food items is called **food adulteration.**
 **19.** The unwanted substances added to food items are called **adulterants.**
 **20.** In India, the **Food Safety and Standards Authority of India (FSSAI)** keeps a check on food adulteration.
+
+
 **21.** Vitamin C helps in repairing the **cartilages** in joints.
 **22.** Vitamin D helps the body to absorb **calcium** present in food.
 **23.** **Roughage** helps in the easy passage of food through the digestive system and prevents constipation.
@@ -691,16 +751,22 @@
 **3.** Roughage helps in the easy passage of food through our digestive system. — **True.**
 **4.** Junk food contains high amounts of nutrients and fibres. — **False.** Junk food contains **high amounts of sugar and fat** but **low amounts** of other nutrients and fibres.
 **5.** Eating junk food regularly leads to weight gain and poor health. — **True.**
+
+
 **6.** Fat around the waist is considered healthy for the body. — **False.** Fat around the waist is considered **very bad** and may lead to heart diseases.
 **7.** Diabetes is caused due to excess of iron in the blood. — **False.** Diabetes is caused due to **high sugar levels** in the blood, often linked to obesity, lack of exercise and stress.
 **8.** Anaemia is caused due to lack of iron in the diet. — **True.**
 **9.** Rickets is caused due to deficiency of vitamin C. — **False.** Rickets is caused due to deficiency of **vitamin D.**
 **10.** Scurvy is caused due to deficiency of vitamin C. — **True.**
+
+
 **11.** Goitre is caused due to lack of iodine in the diet. — **True.**
 **12.** Food adulteration is a punishable act by law in India. — **True.**
 **13.** Growing children need less protein in their diet compared to adults. — **False.** Growing children need **more protein** in their diet than adults to help in their growth and development.
 **14.** Kwashiorkor is caused due to deficiency of proteins. — **True.**
 **15.** Night blindness is the inability to see at night or in poor light. — **True.**
+
+
 **16.** Iodized salt can be used to prevent goitre. — **True.**
 
 ### Section C: Name the Following
@@ -710,6 +776,8 @@
 **3.** The disease caused by deficiency of vitamin A — **Night blindness.**
 **4.** The disease caused by deficiency of vitamin D that leads to softening of bones — **Rickets.**
 **5.** The disease caused by deficiency of vitamin C that causes swollen and bleeding gums — **Scurvy.**
+
+
 **6.** The disease caused by deficiency of iodine, characterized by swelling in the front of the neck — **Goitre.**
 **7.** The organization in India that keeps a check on food adulteration — **Food Safety and Standards Authority of India (FSSAI).**
 **8.** The unwanted substances added to food items to increase their quantity — **Adulterants.**
@@ -739,6 +807,8 @@
 **3.** Sources of fats — **Oil** and **butter.**
 **4.** Junk food items — **Burgers** and **salted potato chips.**
 **5.** Lifestyle diseases — **Obesity** and **diabetes.**
+
+
 **6.** Deficiency diseases — **Night blindness** and **rickets.**
 **7.** Food items rich in calcium — **Milk** and **almonds.**
 **8.** Common food adulterants — **Chalk powder** and **marble chips.**
@@ -767,6 +837,8 @@
 
 - **Answer:** **Roughage** is the undigested portion of plant food, which includes most fibres. It is largely present in whole grains and in various fruits and vegetables. Its main function is to help in the **easy passage of food through the digestive system** and to **prevent constipation.**
 
+
+
 **6.** What are lifestyle diseases? Name two with their causes.
 
 - **Answer:** **Lifestyle diseases** are diseases caused by **bad food habits** (eating junk food) and an **unhealthy lifestyle** (little or no physical activity). Two examples are: **Obesity** — caused by eating large amounts of junk food and lack of physical exercise; **Diabetes** — caused by obesity, lack of exercise and stress.
@@ -786,6 +858,8 @@
 **10.** State any three ways to make our diet healthier.
 
 - **Answer:** Three ways to make our diet healthier are: first, **use less sugar, salt and oil** while cooking food; second, **eat fruits like apples, oranges and guavas daily** for vitamins; third, **eat lots of green vegetables** and add fibre to the diet by using whole grains instead of polished cereals.
+
+
 
 **11.** How can we prevent lifestyle diseases? Give any two points.
 
@@ -816,16 +890,22 @@
 **3.** The swollen end of the pedicel is called the **thalamus.**
 **4.** A flower generally contains four parts called the four **whorls** of a flower.
 **5.** The outermost whorl of a flower is called the **calyx,** which consists of green leaf-like structures called **sepals.**
+
+
 **6.** The second whorl of a flower is called the **corolla,** which consists of brightly coloured structures called **petals.**
 **7.** The third whorl of a flower is called the **androecium,** which is the collection of stamens.
 **8.** The long, slender stalk of a stamen is called the **filament.**
 **9.** **Anthers** are present at the tip of the stamen and produce dust-like particles called **pollen grains.**
 **10.** Pollen grains contain the **male gametes (male reproductive cells)** of the plant.
+
+
 **11.** The fourth and innermost whorl of a flower is called the **gynoecium,** which is the collection of female reproductive units called **carpels or pistils.**
 **12.** The sticky, swollen tip of the pistil is called the **stigma.**
 **13.** The thin, long tube-like structure that connects the stigma to the ovary is called the **style.**
 **14.** The swollen base of the pistil that contains ovules is called the **ovary.**
 **15.** Flowers that contain both male and female reproductive parts are called **bisexual** flowers.
+
+
 **16.** Flowers that contain only one reproductive part are called **monosexual** or **unisexual** flowers.
 **17.** The transfer of pollen grains from the anther to the stigma by various agents is called **pollination.**
 **18.** When pollen grains fall on the stigma of the same flower or same plant, it is called **self-pollination.**
@@ -839,11 +919,15 @@
 **3.** The stamen is the male reproductive unit of a flower. — **True.**
 **4.** Pollen grains contain the male gametes of the plant. — **True.**
 **5.** The stigma is responsible for releasing pollen grains. — **False.** The stigma is responsible for **receiving** pollen grains. It is the **anther** that releases pollen grains.
+
+
 **6.** The ovary contains ovules, which in turn contain the female gametes. — **True.**
 **7.** Tulip is an example of a monosexual flower. — **False.** Tulip is an example of a **bisexual** flower.
 **8.** Pumpkin flower is an example of a bisexual flower. — **False.** Pumpkin flower is an example of a **monosexual (unisexual)** flower.
 **9.** Self-pollination is commonly seen in pea plants. — **True.**
 **10.** Wind, water, birds, and insects are examples of agents of pollination. — **True.**
+
+
 **11.** The androecium is the female reproductive part of a flower. — **False.** The androecium is the **male** reproductive part of a flower. The **gynoecium** is the female reproductive part.
 **12.** After fertilization, the ovary forms the seed of the plant. — **False.** After fertilization, the ovary forms the **fruit** of the plant, and the **ovule** forms the seed.
 
@@ -854,6 +938,8 @@
 **3.** The whorl that protects the flower in its bud stage — **Calyx (Sepals).**
 **4.** The long and slender stalk of the stamen — **Filament.**
 **5.** The tip of the stamen that produces pollen grains — **Anther.**
+
+
 **6.** The female reproductive unit of the gynoecium — **Carpel or Pistil.**
 **7.** The three parts of a pistil — **Stigma, Style, and Ovary.**
 **8.** The type of pollination seen in pea plants — **Self-pollination.**
@@ -897,6 +983,8 @@
 
 - **Answer:** The **androecium** is the third whorl of a flower and is the **collection of stamens** — the male reproductive units of the flower. Each stamen has two parts: a long slender stalk called the **filament** and an **anther** at the tip, which produces **pollen grains** containing the male gametes. The function of the androecium is to produce and release pollen grains for pollination.
 
+
+
 **6.** What is the gynoecium? Name all its parts.
 
 - **Answer:** The **gynoecium** is the fourth and innermost whorl of a flower. It is the **collection of female reproductive units called carpels or pistils.** A pistil has three parts: **stigma** (the sticky, swollen tip that receives pollen grains), **style** (the thin tube-like structure that connects the stigma to the ovary), and **ovary** (the swollen base that contains the ovules).
@@ -917,6 +1005,8 @@
 
 - **Answer:** After fertilization, the **ovary becomes the fruit** of the plant, and the **ovule becomes the seed.** The seed contains the embryo, which grows into a new plant. The fruit protects the seed and helps in its dispersal.
 
+
+
 **11.** What are pollen grains? What do they contain?
 
 - **Answer:** **Pollen grains** are tiny, dust-like particles produced by the **anther** of a stamen. They contain the **male gametes (male reproductive cells)** of the plant. During pollination, pollen grains are transferred from the anther to the stigma by various agents like wind, water, insects and birds.
@@ -934,6 +1024,8 @@
 **3.** The process in which the male and female gametes fuse to form a zygote is called **fertilization.**
 **4.** The fertilized cell formed after fertilization is called the **zygote.**
 **5.** After fertilization, the ovary becomes the **fruit** and the ovule becomes the **seed.**
+
+
 **6.** The outer covering of a seed is called the **seed coat.**
 **7.** The seed leaves that store food for the young plant are called **cotyledons.**
 **8.** The process by which a seed grows into a young plant is called **germination.**
@@ -946,6 +1038,8 @@
 **13.** Seeds of the coconut palm are dispersed by **water.**
 **14.** Cocklebur seeds are dispersed by animals because they have **hooks** that stick to the bodies of animals.
 **15.** Pea and balsam seeds are dispersed by the **explosion** of the fruit.
+
+
 **16.** New plants growing from other parts of the plant such as stems, leaves, and roots is called **vegetative reproduction.**
 **17.** The special structures called **eyes** on the surface of a potato can grow into a new plant.
 **18.** The leaves of **Bryophyllum** have several buds along their margins that can grow into new plants.
@@ -959,11 +1053,15 @@
 **3.** The male and female gametes fuse together to form the cotyledon. — **False.** The male and female gametes fuse together to form the **zygote.**
 **4.** All seeds grow into new plants. — **False.** All seeds **do not** grow into new plants because some are eaten by animals, some get destroyed by rain or wind, and some get insufficient air, water or warmth.
 **5.** A seed needs air, water, light, and warmth to germinate. — **True.**
+
+
 **6.** Coconut seeds are dispersed by wind. — **False.** Coconut seeds are dispersed by **water.**
 **7.** Dandelion seeds are dispersed by wind. — **True.**
 **8.** Pea seeds are dispersed by water. — **False.** Pea seeds are dispersed by the **explosion of the fruit.**
 **9.** Cocklebur seeds are dispersed by animals. — **True.**
 **10.** Bryophyllum reproduces through its leaves. — **True.**
+
+
 **11.** The sweet potato is a root that can grow into new plants. — **True.**
 **12.** Mosses reproduce through spores. — **True.**
 **13.** Fertilization and pollination are the same process. — **False.** Pollination is the **transfer of pollen grains** from the anther to the stigma. Fertilization is the **fusion of male and female gametes** to form a zygote. They are two different processes.
@@ -977,6 +1075,8 @@
 **3.** The seed leaves that store food for the young plant — **Cotyledons.**
 **4.** The young plant that emerges after the germination of a seed — **Seedling.**
 **5.** The special structures on the surface of a potato that can grow into new plants — **Eyes.**
+
+
 **6.** The plant whose leaves have buds along their margins that grow into new plants — **Bryophyllum.**
 **7.** The type of reproduction in which new plants grow from stems, leaves, or roots — **Vegetative reproduction.**
 **8.** The special reproductive structures produced by mosses and ferns — **Spores.**
@@ -1006,6 +1106,8 @@
 **3.** Seeds dispersed by animals — **Cocklebur** and **nuts (carried by squirrels).**
 **4.** Seeds dispersed by the explosion of fruit — **Pea** and **balsam.**
 **5.** Plants that can grow from stems — **Potato** and **ginger.**
+
+
 **6.** Plants that can grow from roots — **Sweet potato** and **carrot.**
 **7.** Plants that reproduce through spores — **Mosses** and **ferns.**
 **8.** Plants that reproduce through leaves — **Bryophyllum** and **cactus.**
@@ -1032,6 +1134,8 @@
 
 - **Answer:** Seeds dispersed by wind are generally **light in weight** and have special structures to help them float. **Dandelion seeds** have hair-like structures that act like a **parachute,** allowing them to float in the air. **Maple seeds** have **wing-like structures** that help the wind carry them away from the parent plant to new locations.
 
+
+
 **6.** Describe how seeds are dispersed by animals with two examples.
 
 - **Answer:** Animals help in dispersing seeds in two ways. Some animals and birds eat fruits and **throw away the seeds,** which then grow into new plants. Some seeds have **hooks, stiff hair or spines** that stick to the bodies of animals. For example, **cocklebur seeds** have hooks that attach to animal fur and are carried away. **Squirrels** eat nuts and the seeds pass through their bodies or are carried to new places.
@@ -1051,6 +1155,8 @@
 **10.** Why do all seeds not grow into new plants? Give two reasons.
 
 - **Answer:** All seeds do not grow into new plants because: first, **some seeds are eaten by animals** and do not get a chance to germinate; second, **some seeds get insufficient air, water, or warmth** and therefore cannot germinate properly. Some seeds also get destroyed by rain or wind.
+
+
 
 **11.** Describe the stages of germination of a seed briefly.
 
@@ -1081,21 +1187,29 @@
 **3.** **Blaise Pascal** invented the first mechanical calculator known as the Pascaline in the 17th century.
 **4.** The Leibniz Calculator was built in the year **1673.**
 **5.** Charles Babbage built the **Difference Engine** in 1822 to compute mathematical tables.
+
+
 **6.** The Analytical Engine was first described in the year **1837.**
 **7.** The first generation of computers used **vacuum tubes** as the main electronic component.
 **8.** Second-generation computers replaced vacuum tubes with **transistors.**
 **9.** Third-generation computers used **Integrated Circuits (ICs)** which replaced transistors.
 **10.** Fourth-generation computers used **Very Large Scale Integrated (VLSI)** circuits, which are also called microprocessors.
+
+
 **11.** Fifth-generation computers use **Artificial Intelligence (AI)** technology to make computers think like human beings.
 **12.** ULSI stands for **Ultra Large Scale Integration.**
 **13.** The world's first computer programmer was **Augusta Ada,** also known as Ada Lovelace.
 **14.** The **Tabulating** machine was used to process and analyse data from the 1890 US Census.
 **15.** Computers are divided into **five** generations.
+
+
 **16.** **Supercomputers** are the most powerful and fastest computers available.
 **17.** Mainframe computers are commonly used in large organisations such as **banks** and **universities.**
 **18.** A computer never gets tired or bored — this characteristic is called **Diligent.**
 **19.** Heuristics is the ability to **learn** from past mistakes.
 **20.** VLSI stands for **Very Large Scale Integration.**
+
+
 **21.** The characteristic of a computer that allows it to perform different types of tasks at a time is called **Versatile.**
 **22.** ENIAC stands for **Electronic Numerical Integrator and Computer** and UNIVAC stands for **Universal Automatic Computer.**
 **23.** Charles Babbage is popularly known as the **Father of the Modern Computer.**
@@ -1109,16 +1223,22 @@
 **3.** Abacus is believed to have been invented between 2700 and 2300 BC. — **True.**
 **4.** Pascaline could perform addition, subtraction, multiplication, and division. — **False.** Pascaline could perform only **addition and subtraction.**
 **5.** Charles Babbage designed the Difference Engine in 1822. — **True.**
+
+
 **6.** The Analytical Engine was first described in the year 1837. — **True.**
 **7.** Vacuum tubes were used in second-generation computers. — **False.** Vacuum tubes were used in **first-generation** computers. Second-generation computers used **transistors.**
 **8.** Third-generation computers used Integrated Circuits instead of transistors. — **True.**
 **9.** VLSI circuits are used in fourth-generation computers. — **True.**
 **10.** Supercomputers are used for weather forecasting. — **True.**
+
+
 **11.** Minicomputers are more powerful than mainframe computers. — **False.** **Mainframe computers** are larger and more powerful than minicomputers.
 **12.** A computer can learn from experience just like humans. — **False.** A computer **cannot learn from experience.** It has no heuristics.
 **13.** Computers are classified into four major types. — **True.**
 **14.** Herman Hollerith developed the Tabulating Machine. — **True.**
 **15.** Ada Lovelace is known as the world's first computer programmer. — **True.**
+
+
 **16.** The Leibniz Calculator could perform only addition and subtraction. — **False.** The Leibniz Calculator could perform **addition, subtraction, multiplication and division.**
 **17.** Abacus originally made with beans or stones was later replaced by wooden bamboo frames with beads on wires. — **True.**
 **18.** IBM 360 is an example of a third-generation computer. — **True.**
@@ -1132,11 +1252,15 @@
 **3.** UNIVAC — **Universal Automatic Computer**
 **4.** VLSI — **Very Large Scale Integration**
 **5.** ULSI — **Ultra Large Scale Integration**
+
+
 **6.** AI — **Artificial Intelligence**
 **7.** IC — **Integrated Circuit**
 **8.** MS-DOS — **Microsoft Disk Operating System**
 **9.** IBM — **International Business Machines**
 **10.** PC — **Personal Computer**
+
+
 **11.** IQ — **Intelligence Quotient**
 **12.** PARAM — **Parallel Machine** _(India's supercomputer series)_
 
@@ -1194,6 +1318,8 @@
 
 - **Answer:** A **supercomputer** is the most powerful and fastest type of computer, used for complex scientific calculations, weather forecasting and simulations. A **mainframe computer** is a large, high-performance computer designed for handling extensive data processing tasks and serving **multiple users simultaneously.** Mainframes are used in banks and universities, while supercomputers are used for scientific research.
 
+
+
 **6.** Name any three examples of first-generation computers and mention one feature of that generation.
 
 - **Answer:** Three examples of first-generation computers are **ENIAC, EDVAC,** and **UNIVAC 1.** One feature of first-generation computers is that they used **vacuum tubes** as the main electronic component, which made them very large, expensive and produced a lot of heat.
@@ -1213,6 +1339,8 @@
 **10.** Name any two characteristics of fourth-generation computers.
 
 - **Answer:** Two characteristics of fourth-generation computers are: first, they used **Very Large Scale Integrated (VLSI) circuits** called microprocessors, which could fit thousands of integrated circuits onto a single chip; second, they were **more powerful, smaller in size, reliable and affordable,** and could process millions of instructions in a fraction of a second.
+
+
 
 **11.** How is the fifth-generation different from the fourth-generation of computers?
 
@@ -1243,16 +1371,22 @@
 **3.** The default page size of a document in Word is **A4.**
 **4.** The default line spacing in Word is **1.15.**
 **5.** A Microsoft Word document is set in **Single (one)** column by default.
+
+
 **6.** **Margin** refers to the amount of white space between the page edges and the text.
 **7.** **Watermark** is a light and faded image that appears behind the main content of the document.
 **8.** The Mail Merge command is found under the **Mailings** tab.
 **9.** There are **three** types of indents.
 **10.** Header and Footer options are found under the **Insert** tab.
+
+
 **11.** **Paragraph** spacing refers to the amount of white space between paragraphs.
 **12.** A **Column** break sends text after the cursor to the beginning of the next column.
 **13.** The Watermark option is available under the **Design** tab.
 **14.** In Mail Merge, the **Data Source** contains information that will change, such as names and addresses.
 **15.** The process of combining a letter with multiple addresses is called **Mail Merge.**
+
+
 **16.** The **Negative** indent allows the text to extend beyond the margins.
 **17.** The **Hanging** indent is a little inwards from the first line of the text.
 **18.** **Landscape** orientation prints the document horizontally across the page.
@@ -1266,11 +1400,15 @@
 **3.** Line space is the amount of vertical space in a paragraph between text lines. — **True.**
 **4.** Header and Footer options are available in the Home Tab. — **False.** Header and Footer options are available in the **Insert** tab.
 **5.** Watermark helps in maintaining document security. — **True.**
+
+
 **6.** Watermark appears behind the main content of the document. — **True.**
 **7.** Mail Merge is not the process of combining a document with a list of addresses. — **False.** Mail Merge **is** the process of combining a letter/document with multiple addresses.
 **8.** The Insert Tab contains the Mail Merge command. — **False.** The **Mailings** tab contains the Mail Merge command.
 **9.** The default page orientation in Microsoft Word is Portrait. — **True.**
 **10.** Landscape orientation prints the document vertically across the page. — **False.** Landscape orientation prints the document **horizontally** across the page.
+
+
 **11.** The Margin option is available under the Layout tab. — **True.**
 **12.** The end of a page is indicated by a page break. — **True.**
 **13.** Landscape is the default orientation view in Microsoft Word. — **False.** **Portrait** is the default orientation view in Microsoft Word.
@@ -1336,6 +1474,8 @@
 
 - **Answer:** In **Portrait** orientation, the document is **printed vertically** across the page — the page is taller than it is wide. In **Landscape** orientation, the document is **printed horizontally** across the page — the page is wider than it is tall. The default page orientation in Microsoft Word is **Portrait.**
 
+
+
 **6.** What is indentation? Name its three types.
 
 - **Answer:** **Indentation** is used to set a paragraph apart or to make it easier to read by adding extra space at the beginning or sides of a paragraph. The three types of indentation are: **Positive Indent** (text is narrower than the margin space), **Negative Indent** (text extends into the margins), and **Hanging Indent** (first line at normal margin, subsequent lines indented inward).
@@ -1355,6 +1495,8 @@
 **10.** What is meant by a Data Source in the Mail Merge process? Give an example.
 
 - **Answer:** In Mail Merge, the **Data Source** is the file or list that contains the information that will **change or vary** for each recipient — such as names, addresses or phone numbers. For example, a company invitation may contain a Data Source with columns for Title, First Name, Last Name, Company Name and Address of different functional heads.
+
+
 
 **11.** Ritu wants to add a watermark saying 'Do Not Copy' to her Word document. How can she do it?
 
@@ -1385,16 +1527,22 @@
 **3.** **WordArt** is a gallery of special or decorative effects for text.
 **4.** The **Font** group in the Home tab is used to change the font style, size, and colour of text.
 **5.** To insert a shape, click on the **Insert** tab and then click on the **Illustrations** group.
+
+
 **6.** The **Bullets** option in the Paragraph group is used to create an unordered list.
 **7.** The **Numbering** option is used to create an ordered list in a slide.
 **8.** To insert a Text Box, click on the **Drawing** group in the Home tab.
 **9.** The keyboard shortcut for Italic is **Ctrl+I.**
 **10.** The keyboard shortcut for Underline is **Ctrl+U.**
+
+
 **11.** **Justify** aligns text from both the left and right margins of the page.
 **12.** To insert a picture from file, click on the **Insert** tab, then the **Images** group.
 **13.** On inserting a picture in a slide, the **Format** tab appears.
 **14.** You can move a placeholder by **dragging** and dropping it to the desired location.
 **15.** The keyboard shortcut for Align Left is **Ctrl+L** and for Align Right is **Ctrl+R.**
+
+
 **16.** The **Font Size** command changes the size of the selected font.
 **17.** The **Bold** command increases the thickness of the selected text to make it dark.
 **18.** Keyboard shortcut for Justify is **Ctrl+J.**
@@ -1408,11 +1556,15 @@
 **3.** Numbering option is present in the Paragraph group of the Home tab. — **True.**
 **4.** On inserting a picture into a slide, the Design tab appears. — **False.** On inserting a picture, the **Format** tab appears.
 **5.** The Insert tab is used to insert or draw a shape on the slide. — **True.**
+
+
 **6.** The Format ribbon contains various commands for formatting pictures. — **True.**
 **7.** On inserting WordArt, two new tabs appear on the ribbon. — **False.** On inserting WordArt, **no additional tabs** appear separately — it uses the existing **Format** tab options.
 **8.** We cannot change the case of selected text in PowerPoint. — **False.** We **can** change the case of selected text using the **Change Case** command in the Font group.
 **9.** You can move a placeholder by dragging and dropping it. — **True.**
 **10.** The Text Box option is available in the Drawing group of the Home tab. — **True.**
+
+
 **11.** WordArt is used to change the appearance of text to make it look attractive. — **True.**
 **12.** The Decrease Font Size button makes the selected text appear larger. — **False.** The **Decrease Font Size** button makes the selected text appear **smaller.** The **Increase Font Size** button makes it larger.
 **13.** The Italic command makes selected text appear slanting. — **True.**
@@ -1472,6 +1624,8 @@
 
 - **Answer:** **Bullets** are used to create an **unordered list** — each item is marked with a bullet symbol (•) and there is no sequence. **Numbering** is used to create an **ordered list** — each item is assigned a number (1, 2, 3…) in sequence. Bullets are used for general points, while Numbering is used when the order of items matters.
 
+
+
 **6.** What are placeholders in PowerPoint 2019?
 
 - **Answer:** **Placeholders** are pre-defined areas on a slide that display default text such as "Click to add title" or "Click to add text." They allow us to add **titles, subtitles and main text** to our slides in an organised manner. A placeholder can be moved to any position on the slide by dragging and dropping it.
@@ -1491,6 +1645,8 @@
 **10.** Write the keyboard shortcuts for Bold, Italic, Underline, Align Left, Align Right, Center Align, and Justify.
 
 - **Answer:** **Bold** — Ctrl+B, **Italic** — Ctrl+I, **Underline** — Ctrl+U, **Align Left** — Ctrl+L, **Align Right** — Ctrl+R, **Center Align** — Ctrl+E, **Justify** — Ctrl+J.
+
+
 
 **11.** Sauvik wants to create a comic strip with dialogues in PowerPoint. Which shape should he use and why?
 
@@ -1523,16 +1679,22 @@
 **3.** Iron ploughs used during the Iron Age were called **ards.**
 **4.** The **rotary quern** was used for grinding grains to make flour.
 **5.** Nails and **rivets** helped in fixing iron plates.
+
+
 **6.** The process of taking metal from ore is called **smelting.**
 **7.** Hammering of a piece of iron to give it a required shape is called **smithing.**
 **8.** The Celts of Britain made **round** houses.
 **9.** During the Iron Age, civilisations flourished in Greece, Türkiye, Italy and ancient **India.**
 **10.** Rye and **oats** were introduced as new crops during the Iron Age.
+
+
 **11.** Iron fragments showing the use of carbon steel were found in excavations in **Türkiye.**
 **12.** The skin of sheep or goat used in the past to write is called **parchment.**
 **13.** Surplus grains were stored in **granaries** to protect them from weather and rodents.
 **14.** Steel is made by mixing iron with a small amount of **carbon.**
 **15.** One of the earliest daggers with an iron blade was found in a Hattic tomb in **Anatolia** in modern Türkiye.
+
+
 **16.** The widespread use of iron started between **1,200** and **1,000** BCE.
 **17.** The life of people during the Iron Age was centred around agriculture, which is called an **agrarian** lifestyle.
 **18.** Large rooms used for storage are called **vaults.**
@@ -1544,11 +1706,15 @@
 **3.** Ards helped in fixing iron plates. — **False.** **Nails and rivets** helped in fixing iron plates. **Ards** were iron ploughs used to till heavy soil.
 **4.** People started living in small communities towards the end of the Iron Age. — **False.** People started living in **larger** communities towards the end of the Iron Age.
 **5.** Coins were introduced and often used in most trades during the Iron Age. — **True.**
+
+
 **6.** The Iron Age is the most technologically advanced of all ancient ages. — **True.**
 **7.** Steel is stronger and more flexible than iron. — **True.**
 **8.** The widespread use of iron started between 1,200 and 1,000 BCE. — **True.**
 **9.** The rotary quern was used for harvesting crops. — **False.** The rotary quern was used for **grinding grains to make flour.** Iron sickles were used for harvesting.
 **10.** Meat and fish were preserved by salting and smoking during the Iron Age. — **True.**
+
+
 **11.** Thatched roofs helped in waterproofing the Celtic houses. — **True.**
 **12.** The prehistoric era ended with the end of the Iron Age. — **True.**
 **13.** Festivals in the Iron Age were mostly based on the political year. — **False.** Festivals in the Iron Age were mostly based on the **agricultural year** — from sowing to harvesting grains.
@@ -1561,11 +1727,15 @@
 **3.** Name the process of extracting metal from ore by heating — **Smelting.**
 **4.** Name the place where one of the earliest iron daggers was found — **Hattic tomb in Anatolia, modern Türkiye.**
 **5.** Name the people who made round houses in Britain during the Iron Age — **Celts.**
+
+
 **6.** Name the stronger metal formed by mixing iron with carbon — **Steel.**
 **7.** Name the two new crops introduced during the Iron Age — **Rye** and **Oats.**
 **8.** Name the process of hammering iron to give it a required shape — **Smithing.**
 **9.** Name any two countries where civilisations flourished during the Iron Age — **Greece** and **Türkiye (Asia Minor).**
 **10.** Name the two methods used to preserve meat and fish in the Iron Age — **Salting** and **smoking.**
+
+
 **11.** Name the age that came before the Iron Age — **Bronze Age.**
 **12.** Name the type of roof used by the Celts to make their houses waterproof — **Thatched roof.**
 
@@ -1613,6 +1783,8 @@
 
 - **Answer:** The earliest evidences of steel manufacturing were found in **iron fragments discovered in excavations in Türkiye.** These pieces showed the use of **carbon steel** and are the earliest known evidence of steel manufacturing.
 
+
+
 **6.** How was iron different from bronze? Give two points.
 
 - **Answer:** Two ways in which iron was different from bronze are: first, iron was **much harder than bronze** and could be made into **finer and sharper objects;** second, although iron could be found easily, it would **melt only at a very high temperature** and required smelting, heating and hammering, whereas bronze was easier to work with at lower temperatures.
@@ -1632,6 +1804,8 @@
 **10.** What were the uses of horses and dogs in the Iron Age?
 
 - **Answer:** During the Iron Age, **horses** were used to **pull carts and chariots,** making transportation much easier and faster. **Dogs** were used for **herding livestock** (keeping animals together) and for **hunting.** Both animals were very useful and played important roles in the daily life and economy of the Iron Age people.
+
+
 
 **11.** Why did trade flourish during the Iron Age?
 
@@ -1658,16 +1832,22 @@
 **3.** Dr BR Ambedkar was the Chairman of the **Drafting** Committee.
 **4.** The Constitution of India came into effect on **26 January 1950.**
 **5.** The Preamble declares India as a sovereign, socialist, secular and a **democratic** republic.
+
+
 **6.** The three words added to the Preamble by the 42nd amendment in 1976 were **socialist, secular** and **integrity.**
 **7.** **Sovereign** means that India is an independent country free from interference of other countries.
 **8.** All children in the age group of **6** to **14** years have the right to free and compulsory education.
 **9.** The rule by the people, of the people and for the people is called **democracy.**
 **10.** Practices like untouchability are **punishable** by law.
+
+
 **11.** The Right to Education Act was passed in the year **2009.**
 **12.** **Dr Rajendra Prasad** was the first President of independent India.
 **13.** India has the **longest** written Constitution in the world.
 **14.** The Parliamentary System in the Indian Constitution was borrowed from **the United Kingdom.**
 **15.** Under the Right to Education Act, all private schools must reserve **25** per cent of seats for underprivileged children.
+
+
 **16.** The **Preamble** is a brief introduction which lays down the guiding principles of the Constitution.
 **17.** India celebrates 26 January each year as **Republic Day.**
 **18.** The Fundamental Rights and Fundamental Duties of citizens are mentioned in the **Constitution of India.**
@@ -1679,11 +1859,15 @@
 **3.** We must protect the unity and integrity of our nation. — **True.**
 **4.** There were 299 members in the Constituent Assembly who prepared the draft of the Constitution. — **True.**
 **5.** The rights guaranteed by the Constitution are called Fundamental Rights. — **True.**
+
+
 **6.** The Constitution of India came into effect on 15 August 1947. — **False.** The Constitution of India came into effect on **26 January 1950.**
 **7.** Monaco has the longest written Constitution in the world. — **False.** Monaco has the **shortest** written Constitution in the world. **India** has the **longest** written Constitution.
 **8.** The Directive Principles of State Policy were borrowed from Ireland. — **True.**
 **9.** Every citizen can be forced to work against his or her wish. — **False.** No citizen can be made to **work against his or her wish.** This is protected by the **Right against Exploitation.**
 **10.** The Right to Education Act gives all children from 6 to 14 years free and compulsory education. — **True.**
+
+
 **11.** The Ideals of Liberty, Equality and Fraternity were borrowed from France. — **True.**
 **12.** Republic means all offices including the President are elected for a fixed time period. — **True.**
 
@@ -1694,11 +1878,11 @@
 **3.** Name the first President of independent India — **Dr Rajendra Prasad.**
 **4.** Name the date on which the Indian Constitution came into effect — **26 January 1950.**
 **5.** Name the country from which India borrowed the Parliamentary System — **The United Kingdom.**
+
+
 **6.** Name the country from which India borrowed the concept of Fundamental Rights — **The United States of America.**
 **7.** Name the six Fundamental Rights guaranteed by the Indian Constitution — **Right to Equality**, **Right to Freedom**, **Right against Exploitation**, **Right to Freedom of Religion**, **Cultural and Educational Rights**, **Right to Constitutional Remedies.**
 **8.** Name any three Fundamental Duties of Indian citizens — Every citizen must **obey the Constitution** and follow the laws of the country. It is the duty of every Indian to **respect the national flag and the national anthem.** We must **protect the unity and integrity** of our nation.
-
-
 **9.** Name the brief introduction that lays down the guiding principles of the Constitution — **The Preamble.**
 **10.** Name the country that has the shortest written Constitution — **Monaco.**
 
@@ -1751,6 +1935,8 @@
 
 - **Answer:** **Republic** means that all offices, even the **President of the country,** are **elected for a fixed time period** by the people. No position in the country is hereditary — everyone holding an important office must be elected by the people through a democratic process.
 
+
+
 **6.** Who was the first President of independent India?
 
 - **Answer:** **Dr Rajendra Prasad** was the first President of independent India. Dr BR Ambedkar presented the final draft of the Constitution to Dr Rajendra Prasad, who accepted it on behalf of the nation.
@@ -1770,6 +1956,8 @@
 **10.** Why is India called a Democratic Republic?
 
 - **Answer:** India is called a **Democratic Republic** because it is governed by the principle of **democracy** — the rule by the people, of the people and for the people — meaning citizens elect their own representatives. It is also a **Republic** because all offices, including that of the President, are **elected for a fixed period** and are not hereditary.
+
+
 
 **11.** From which two countries did India borrow features for its Constitution? Name the features borrowed.
 
@@ -1800,16 +1988,22 @@
 **3.** The vertical lines on a globe are called **longitudes.**
 **4.** The equator is **0°** latitude.
 **5.** The end points of the Earth's axis are called **North Pole** and **South Pole.**
+
+
 **6.** There are **181** latitudes altogether.
 **7.** There are **360** degrees of longitudes.
 **8.** The Earth's axis is tilted at an angle of **23.5°** to the vertical.
 **9.** The **0°** meridian is called the Prime Meridian.
 **10.** All circles of meridians form the **Great Circles.**
+
+
 **11.** The 180° meridian is called the **International Date Line.**
 **12.** The distance between two consecutive meridians is approximately **111** km at the equator.
 **13.** The time difference between two consecutive meridians is **4** minutes.
 **14.** The Arctic Circle is located at **66½°N.**
 **15.** The Tropic of Cancer is located at **23½°N** and the Tropic of Capricorn is at **23½°S.**
+
+
 **16.** The Prime Meridian passes through the **Greenwich Royal Observatory** near London.
 **17.** When we cross the International Date Line to the west, we **gain/add** a day.
 **18.** Lines of longitude are also called **meridians.**
@@ -1821,11 +2015,15 @@
 **3.** All latitudes are of the same length. — **False.** All latitudes are **not** of the same length. The equator is the longest and the lengths **decrease** as we move towards the poles.
 **4.** Longitudes are used to calculate time. — **True.**
 **5.** The time difference between two consecutive meridians is 4 minutes. — **True.**
+
+
 **6.** The International Date Line is a perfectly straight line. — **False.** The International Date Line is **not a perfectly straight line** — it bends so that all regions of a country remain on the same day.
 **7.** The Prime Meridian passes through the Greenwich Royal Observatory near London. — **True.**
 **8.** All meridians form Great Circles. — **True.**
 **9.** The equator is the longest parallel. — **True.**
 **10.** Lines of latitude are also known as meridians. — **False.** Lines of latitude are also known as **parallels.** Lines of longitude are known as meridians.
+
+
 **11.** The Antarctic Circle is located at 66½°S. — **True.**
 **12.** The Earth completes one rotation in 24 hours. — **True.**
 
@@ -1836,6 +2034,8 @@
 **3.** Name the 0° meridian — **Prime Meridian.**
 **4.** Name the 180° meridian — **International Date Line.**
 **5.** Name the five most important latitudes of the Earth — **Arctic Circle (66½°N)**, **Tropic of Cancer (23½°N)**, **Equator (0°)**, **Tropic of Capricorn (23½°S)**, **Antarctic Circle (66½°S).**
+
+
 **6.** Name the phenomenon when the Sun does not set at all in polar regions during summer — **Midnight Sun.**
 **7.** Name the standard clock time used at the Prime Meridian all year round — **Greenwich Mean Time (GMT).**
 **8.** Name the route followed by ships and aircraft because it gives the shortest distance between two places — **Great Circle route.**
@@ -1898,6 +2098,8 @@
 
 - **Answer:** When we cross the **International Date Line (180° longitude) to the west,** we **gain or add a day** — the calendar moves one day forward. When we cross it **to the east,** we **lose or subtract a day** — the calendar moves one day backward. This is done to ensure all regions of a country remain on the same calendar day.
 
+
+
 **6.** What are latitudes and longitudes? Mention one difference between them.
 
 - **Answer:** **Latitudes** are imaginary lines that run in the **east-west direction** and are also called parallels. **Longitudes** are imaginary lines that run from the **North Pole to the South Pole** and are also called meridians. One difference: latitudes are **not all equal in length** (the equator is the longest and the poles are just dots), while all longitudes are **equal in length.**
@@ -1918,6 +2120,8 @@
 
 - **Answer:** The length of parallels decreases as we move from the equator to the poles because **the Earth is spherical (round) in shape.** The equator is at the widest part of the Earth, so it is the **longest parallel.** As we move towards the poles, the Earth narrows, so the circles formed by the parallels become **smaller and smaller.** At the poles (90°N and 90°S), the parallels are just **dots.**
 
+
+
 **11.** How many latitudes and longitudes are there in total?
 
 - **Answer:** There are **181 latitudes** in total — 1° to 90° in the northern hemisphere, 1° to 90° in the southern hemisphere, and 0° (the equator). There are **360 degrees of longitudes** in total — 0° to 179°E (eastern meridians), 0° to 179°W (western meridians), and the 180° meridian (International Date Line).
@@ -1935,16 +2139,22 @@
 **3.** Permanently frozen regions near the poles are called **Polar Ice Caps.**
 **4.** The height of a place above sea level is called **altitude.**
 **5.** More clouds are formed when there is more **humidity (water vapour)** in the atmosphere.
+
+
 **6.** The atmosphere is held in place by the Earth's **gravity.**
 **7.** The torrid zone lies between the Tropic of Cancer and the **Tropic of Capricorn.**
 **8.** The temperate zone in the north lies between the Tropic of Cancer and the **Arctic** Circle.
 **9.** The frigid zone in the north extends from the Arctic Circle to the **North Pole.**
 **10.** The highest temperature ever recorded on Earth was **56.7°C** in Death Valley, USA in 1913.
+
+
 **11.** The coldest temperature ever recorded was **-89.2°C** in Antarctica in 1983.
 **12.** The beautiful light phenomenon seen in the night sky of the northern polar region is called **Aurora Borealis.**
 **13.** The influence of the sea on nearby land is called **maritime** influence.
 **14.** Hot and dry winds blowing from the north-west of India are called **Loo.**
 **15.** The **Torrid** zone is also known as the tropical region.
+
+
 **16.** Animals of temperate regions **hibernate** during winter, while some like the Siberian crane **migrate** to warmer places.
 
 ### Section B: True or False
@@ -1954,11 +2164,15 @@
 **3.** The Northern Hemisphere has more land than the Southern Hemisphere. — **True.**
 **4.** The scarlet macaw is a migratory bird. — **False.** The scarlet macaw is found in the **tropical region** and is **not** described as a migratory bird. The **Siberian crane** is a migratory bird.
 **5.** Loo is a very cool and pleasant wind. — **False.** Loo is a **hot and dry** wind blowing from the north-west of India that **raises the temperature.**
+
+
 **6.** The torrid zone receives vertical sunrays throughout the year. — **True.**
 **7.** Areas with low humidity, such as deserts, have more cloud cover. — **False.** Areas with low humidity have **smaller amount of cloud cover** and intense heat during the day.
 **8.** The annual rainfall in the frigid zone is between 15 cm to 30 cm. — **True.**
 **9.** Cities closer to seas and oceans have equable climate. — **True.**
 **10.** Penguins are found in the Arctic region. — **False.** Penguins are found in **Antarctica** (the southern polar region).
+
+
 **11.** Climate is the average weather data collected over 30 years. — **True.**
 **12.** Aurora Australis is seen in the southern polar region. — **True.**
 
@@ -1969,11 +2183,15 @@
 **3.** Name the two latitudes that mark the northern boundary of the temperate zone — **Tropic of Cancer (23.5°N)** and **Arctic Circle (66.5°N).**
 **4.** Name the three hot deserts found in the torrid zone — **Sahara Desert (Africa), Great Victoria Desert (Australia),** and **Arabian Desert (Middle East).**
 **5.** Name a popular large animal found in the torrid zone — **Gorilla.**
+
+
 **6.** Name the light phenomenon seen in the night sky of the southern polar region — **Aurora Australis.**
 **7.** Name any two animals found in the temperate zone — **Giant panda** and **grizzly bear.**
 **8.** Name any two animals or birds found in the frigid zone — **Polar bears** (Arctic) and **penguins** (Antarctica).
 **9.** Name two grasslands found in the temperate zone — **Prairies** and **Steppes.**
 **10.** Name any four elements common to both weather and climate — **Temperature, humidity, rainfall,** and **wind.**
+
+
 **11.** Name the bird that migrates from temperate regions to warmer places during winter — **Siberian crane.**
 **12.** Name any two trees found in the temperate forests — **Maple** and **oak.**
 
@@ -2041,6 +2259,8 @@
 
 - **Answer:** Most of the temperate forests are found in the **northern hemisphere** because **very little land area** is present in the southern hemisphere beyond **30°S latitude.** The forests in the temperate zone occupy large areas of **North America, Europe and Asia,** all of which are in the northern hemisphere. Only some parts of New Zealand, Chile and Tasmania have temperate forests in the south.
 
+
+
 **6.** How does altitude affect the temperature of a place?
 
 - **Answer:** **Altitude** is the height of a place above sea level. The higher we go, the **cooler it gets.** This is because most of the atmosphere containing water vapour and gases is found closer to the Earth's surface, where they absorb more heat. At higher altitudes, the air is **thinner** and absorbs **less heat,** causing the temperature to drop. That is why people go to the hills during summers as higher altitudes are cooler than the plains.
@@ -2060,6 +2280,8 @@
 **10.** What is the difference between weather and climate? Give two points.
 
 - **Answer:** Two differences between weather and climate are: first, **weather** is the state of the atmosphere for a **short period** (hours, days or months), while **climate** is the **average** of weather conditions collected over **30 years;** second, weather is generally for a **small area** and changes frequently, while climate applies to a **large part of the globe** and is more stable and predictable.
+
+
 
 **11.** Why does temperature decrease as we move from the equator to the poles?
 
