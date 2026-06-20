@@ -1686,6 +1686,8 @@
 **3.** Name the first President of independent India — **Dr Rajendra Prasad.**
 **4.** Name the date on which the Indian Constitution came into effect — **26 January 1950.**
 **5.** Name the country from which India borrowed the Parliamentary System — **The United Kingdom.**
+
+
 **6.** Name the country from which India borrowed the concept of Fundamental Rights — **The United States of America.**
 **7.** Name the six Fundamental Rights guaranteed by the Indian Constitution — **Right to Equality**, **Right to Freedom**, **Right against Exploitation**, **Right to Freedom of Religion**, **Cultural and Educational Rights**, **Right to Constitutional Remedies.**
 **8.** Name any three Fundamental Duties of Indian citizens — Every citizen must **obey the Constitution** and follow the laws of the country. It is the duty of every Indian to **respect the national flag and the national anthem.** We must **protect the unity and integrity** of our nation.
