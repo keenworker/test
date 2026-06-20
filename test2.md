@@ -296,6 +296,8 @@
 **3.** The lake beside the woods was frozen. — **True.**
 **4.** The horse shook his harness bells. — **True.**
 **5.** The woods are described as lovely, bright and deep. — **False.** The woods are described as lovely, **dark** and deep.
+
+
 **6.** The poem is set on a summer evening. — **False.** The poem is set on a **winter/snowy evening.**
 **7.** Robert Frost won three Pulitzer Prizes. — **False.** Robert Frost won **two** Pulitzer Prizes.
 **8.** The last line of the poem is repeated twice. — **True.**
@@ -314,6 +316,8 @@
 **3. flake** — A small piece of snow; a fleck.
 **4. harness** — The leather straps and belts used to control a horse.
 **5. sweep** — A movement caused by the brushing of a broom; a gentle sweeping motion.
+
+
 **6. frozen** — Turned into ice; very cold.
 **7. lovely** — Beautiful; very pleasant.
 **8. promises** — Commitments or duties that one has given one's word to fulfill.
@@ -560,6 +564,8 @@
 **3.** The type of joint that allows movement in all directions — **Ball-and-socket joint.**
 **4.** The type of joint found in the knees and elbows that allows only back and forth movement — **Hinge joint.**
 **5.** The type of joint found in the neck region that allows us to move our head sideways — **Pivot joint.**
+
+
 **6.** The type of joint found in the bones of the wrist and ankle that allows bones to glide against each other — **Gliding joint.**
 **7.** The thin chord-like structure that connects bones with muscles — **Tendon.**
 **8.** The type of muscles whose movements can be controlled by us — **Voluntary muscles.**
@@ -933,6 +939,8 @@
 **8.** The process by which a seed grows into a young plant is called **germination.**
 **9.** The young plant that emerges from a germinating seed is called a **seedling.**
 **10.** The process by which seeds are scattered away from the parent plant is called **seed dispersal.**
+
+
 **11.** Dandelion seeds have hair-like structures that act like a **parachute,** helping them to be dispersed by **wind.**
 **12.** Maple seeds have **wing-like** structures that help them to be carried away by wind.
 **13.** Seeds of the coconut palm are dispersed by **water.**
