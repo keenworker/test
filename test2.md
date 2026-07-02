@@ -2173,11 +2173,11 @@
 
 **1.** Name the three major heat zones of the Earth — **Torrid Zone, Temperate Zone,** and **Frigid Zone.**
 **2.** Name the two latitudes that mark the boundaries of the torrid zone — **Tropic of Cancer (23.5°N)** and **Tropic of Capricorn (23.5°S).**
+
+
 **3.** Name the two latitudes that mark the northern boundary of the temperate zone — **Tropic of Cancer (23.5°N)** and **Arctic Circle (66.5°N).**
 **4.** Name the three hot deserts found in the torrid zone — **Sahara Desert (Africa), Great Victoria Desert (Australia),** and **Arabian Desert (Middle East).**
 **5.** Name a popular large animal found in the torrid zone — **Gorilla.**
-
-
 **6.** Name the light phenomenon seen in the night sky of the southern polar region — **Aurora Australis.**
 **7.** Name any two animals found in the temperate zone — **Giant panda** and **grizzly bear.**
 **8.** Name any two animals or birds found in the frigid zone — **Polar bears** (Arctic) and **penguins** (Antarctica).
