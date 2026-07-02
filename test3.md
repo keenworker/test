@@ -89,6 +89,8 @@
 **3. resolved** — She resolved to study harder after failing the test.
 **4. toiled** — The farmer toiled in the fields from morning to evening.
 **5. plunged** — The diver plunged into the deep blue sea without any fear.
+
+
 **6. raging** — The raging storm destroyed many houses in the village.
 **7. stockade** — The soldiers built a strong stockade around the camp to stay safe.
 **8. ammunition** — The soldiers were running low on ammunition during the battle.
