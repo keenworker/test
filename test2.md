@@ -2031,8 +2031,6 @@
 **3.** Name the 0° meridian — **Prime Meridian.**
 **4.** Name the 180° meridian — **International Date Line.**
 **5.** Name the five most important latitudes of the Earth — **Arctic Circle (66½°N)**, **Tropic of Cancer (23½°N)**, **Equator (0°)**, **Tropic of Capricorn (23½°S)**, **Antarctic Circle (66½°S).**
-
-
 **6.** Name the phenomenon when the Sun does not set at all in polar regions during summer — **Midnight Sun.**
 **7.** Name the standard clock time used at the Prime Meridian all year round — **Greenwich Mean Time (GMT).**
 **8.** Name the route followed by ships and aircraft because it gives the shortest distance between two places — **Great Circle route.**
