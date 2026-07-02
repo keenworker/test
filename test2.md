@@ -2166,8 +2166,6 @@
 **8.** The annual rainfall in the frigid zone is between 15 cm to 30 cm. — **True.**
 **9.** Cities closer to seas and oceans have equable climate. — **True.**
 **10.** Penguins are found in the Arctic region. — **False.** Penguins are found in **Antarctica** (the southern polar region).
-
-
 **11.** Climate is the average weather data collected over 30 years. — **True.**
 **12.** Aurora Australis is seen in the southern polar region. — **True.**
 
