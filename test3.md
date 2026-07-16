@@ -279,20 +279,20 @@
 **205.** She (pick) up the flowers from the floor.
 
 
-## CLASS 5 — ENGLISH GRAMMAR QUESTION PAPER
-#### **Maximum Marks: 30** |   **Time Allowed: 1 Hour**
+### **Class 5 - ENG1 | Total Marks: 20 | Time: 45 minutes**
 
-#### SECTION A (10 marks)
-*Answer all the following in one word, one phrase, or a short blank. Each question carries 1 mark.*
+#### Section A (5 Marks)
 
-**1.** Fill in the blank with the correct comparative form of the word sweet: Honey is \_\_\_\_\_ than sugar. **b.** Divide the following sentence into Subject and Predicate: Mary has finished her homework. **c.** Write the Past form of the verb choose. **d.** Fill in the blank with the correct antonym, using a suitable prefix, of the word tidy: The room was rather small and \_\_\_\_\_. **e.** Choose the correct option to complete the sentence: Tom is \_\_\_\_\_ boy in the class, from more naughty, the naughtiest, or most naughtiest. **f.** Identify the Subject in the following sentence: The singing of birds delights me. **g.** Write the Past Participle form of the verb swim. **h.** Fill in the blank with the correct antonym, using a suitable prefix, of the word patient: Don't be so \_\_\_\_\_. **i.** Fill in the blank with the correct superlative form of the word interesting: Ronnie is the \_\_\_\_\_ person I have ever met. **j.** Add a suitable Predicate to the following Subject: The doctor \_\_\_\_\_.
+**1.** Answer the following in one word or a short phrase. **a.** Divide the sentence "Bees make honey" into Subject and Predicate. **b.** Write the comparative degree of the adjective "tall". **c.** Write the past participle form of the verb "choose". **d.** Form the antonym of the word "polite" using a suitable prefix. **e.** Divide the sentence "The teacher is explaining the lesson" into Subject and Predicate.
 
-#### SECTION B (10 marks)
-*Answer all the following. Each question carries 2 marks.*
+#### Section B (5 Marks)
 
-**2.** Rewrite the following sentence after correcting the error in it: Priyanka's house is more bigger than mine. **b.** Write the Present, Past, and Past Participle forms of the verb bring. **c.** Rewrite the following exclamatory sentence as a statement, and then divide it into Subject and Predicate: What a beautiful garden this is! **d.** Fill in the blanks with the correct antonyms, using suitable prefixes, of the words courteous and polite: Gargi's \_\_\_\_\_ and \_\_\_\_\_ conduct at the meeting shocked us all. **e.** Rewrite the following sentence in normal order and then divide it into Subject and Predicate: Under the tree sat a wise old man.
+**2.** Complete the following sentences correctly. **a.** Fill in the blank with the correct superlative form: Ronnie is the ___ person I have ever met (interesting). **b.** Rewrite in normal order and divide into Subject and Predicate: Under the tree sat a wise old man. **c.** Fill in the blank with the correct antonym of the word "sufficient" using a suitable prefix: I think the food will be ___ for fifty people. **d.** Write the past and past participle forms of the verb "bring". **e.** Choose the correct option to complete the sentence: A tiger is ___ as a lion, choosing from as ferocious, more ferocious, or most ferocious.
 
-#### SECTION C (10 marks)
-*Answer all the following. Each question carries 2 marks.*
+#### Section C (5 Marks)
 
-**3.** Write the comparative and superlative degrees of the following adjectives: **a.** tall, **b.** brave, **c.** heavy, **d.** important. **4.** Write the Present, Past, and Past Participle forms of the following verbs: **a.** forget, **b.** catch, **c.** think, **d.** watch. **5.** Divide each of the following sentences into Subject and Predicate: **a.** The blue whale is the largest animal on earth. **b.** Bees make honey. **6.** Fill in each blank with the correct antonym, formed using a suitable prefix, of the word given in brackets: **a.** Everyone in the office \_\_\_\_\_ (agree) with the most \_\_\_\_\_ (logical) suggestion of the manager. **b.** I shop regularly at this store. Things are \_\_\_\_\_ (expensive) here. **7.** Convert the following interrogative sentence into a statement, and then identify its Subject: Did she complete her work?
+**3.** Attempt the following questions. **a.** Rewrite the sentence after correcting the error in it: Gandhi was a greatest man. **b.** Add a suitable Subject to the following Predicate: ___ is the king of the jungle. **c.** Write the comparative and superlative degrees of the adjective "busy". **d.** Fill in the blank with the correct antonym of the word "legible" using a suitable prefix: It was difficult to read Timothy's notes since his handwriting was ___. **e.** Write the missing forms of the verb "sing", giving its past and past participle.
+
+#### Section D (5 Marks)
+
+**4.** Answer the following questions. **a.** Identify the Subject in the sentence: The singing of birds delights me. **b.** Write the comparative and superlative degrees of the irregular adjective "good". **c.** Fill in the blank with the correct antonym of the word "courteous" using a suitable prefix: Gargi's ___ conduct at the meeting shocked us all. **d.** Convert the following interrogative sentence into a statement: Did she complete her work? **e.** Write the present and past participle forms of the verb whose past form is "caught".
