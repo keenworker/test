@@ -33,10 +33,6 @@
 ### **Forms of Verbs - Sentence Practice (Present, Past, Past Participle):** Rewrite each sentence in the Present, Past, and Past Participle forms of the verb given in brackets. 
 
 **1.** Poonam (write) a letter to her grandmother.
-**Present Forms:** Poonam writes a letter to her grandmother.
-**Past Forms:** Poonam wrote a letter to her grandmother.
-**Past Participle Forms:** Poonam has written a letter to her grandmother.
-
 **2.** The glass (burst) into pieces.
 **3.** The dog (dig) a hole in the garden.
 **4.** She (divide) the sweets among her friends.
