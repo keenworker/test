@@ -19,9 +19,6 @@
 
 # MATH- WORKSHEET.md
 
-# MATH- WORKSHEET.md
-
-# MATH- WORKSHEET.md
 
 
 # Question Paper — Chapter: Growing Up
