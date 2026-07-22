@@ -21,7 +21,7 @@
 
 
 
-# Question Paper — Chapter: Growing Up
+# Class 3 Question Paper — Chapter: Growing Up
 **Total Marks: 30** | **Time: 1 Hour**
 
 **Instructions:** All questions are compulsory. Read each question carefully before answering. Marks are indicated against each question.
