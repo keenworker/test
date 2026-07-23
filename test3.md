@@ -29,7 +29,7 @@
 # MATH- WORKSHEET.md
 
 
-
+# 006. 1stSEM_ENG-II&MATH&SCI&COMP&MSC&SST_PracticeExercise
 
 ## ENG-II: The Flint — by Christina Georgina Rossetti
 
@@ -265,6 +265,7 @@ _Value Taught: Self-Confidence | Life Skills Developed: Self-Awareness, Critical
 
 **30.** Cotton and jute are — **a. cereal crops** / **b. cash crops** / **c. food crops** _(1 mark)_ **31.** Wheat and pulses are — **a. cash crops** / **b. food crops** / **c. both (a) and (b)** _(1 mark)_ **32.** Elephants carry load in — **a. plains** / **b. deserts** / **c. forests** _(1 mark)_ **33.** India is the largest producer of — **a. coffee** / **b. pulses** / **c. cotton** _(1 mark)_ **34.** Staple food of North India is — **a. wheat** / **b. sugarcane** / **c. jowar** _(1 mark)_ **35.** Fill in the blank: \_\_\_ crops are also called winter crops. _(1 mark)_ **36.** Fill in the blank: Jowar needs \_\_\_ and \_\_\_ soil to grow. _(1 mark)_ **37.** Fill in the blank: Cotton requires \_\_\_ climate. _(1 mark)_ **38.** Fill in the blank: India is the \_\_\_ largest producer of tea in the world. _(1 mark)_ **39.** Fill in the blank: \_\_\_ and \_\_\_ provide us eggs. _(1 mark)_ **40.** Match the following. _(1 mark each)_ **Column A** — **a.** Linseed **b.** Sugarcane **c.** Paddy **d.** Rice, wheat **e.** Pulses | **Column B** — **i.** Alluvial soil **ii.** Legumes **iii.** Food crops **iv.** Kharif crop **v.** Oilseed
 
+# 007. 1stSEM_ENG1_WORKSHEET
 
 ## ENGLISH-GRAMMAR PRACTICE SET - 3
 
