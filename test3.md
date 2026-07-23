@@ -31,342 +31,263 @@
 
 
 
-# Class 3 Science - Questions & Answers
+## ENG-II: The Flint — by Christina Georgina Rossetti
 
-## Chapter 5: Plants in the Surroundings
+### Write the Meaning of the Words and make meaningful sentences of your own using the following words:
 
-**1.** Which of the following parts of a plant remains underground?
-* Answer: Root
+**1.** Emerald **2.** Ruby **3.** Sapphire **4.** Flint **5.** Diamond **6.** Brilliant **7.** Desire **8.** Opal **9.** Fiery **10.** Spark
 
-**2.** ____ bears leaves, branches, buds, flowers and fruits.
-* Answer: Stem
+### Comprehension Important Questions and Answers
 
-**3.** Which part of a plant has lamina?
-* Answer: Leaf
+#### Part A
 
-**4.** ____ changes into a fruit.
-* Answer: Flower
+**1.** Who wrote the poem "The Flint"? _(1 Mark)_ **2.** What is a flint? _(1 Mark)_ **3.** What is an opal? _(1 Mark)_ **4.** Name all the precious stones mentioned in the poem. _(2 Marks)_ **5.** Choose the correct option. What does the word "fiery" mean as used in the poem? **A) Cold and icy** / **B) Having a bright or burning appearance like flames** / **C) Soft and gentle** / **D) Wet and muddy** _(1 Mark)_ **6.** Fill in the blanks. **a.** An emerald is as green as \_\_\_. _(1 Mark)_ **b.** A ruby is as red as \_\_\_. _(1 Mark)_ **c.** A sapphire shines as blue as \_\_\_. _(1 Mark)_ **d.** A flint lies in the \_\_\_. _(1 Mark)_ **e.** A diamond is a \_\_\_ stone. _(1 Mark)_ **f.** An opal holds a \_\_\_ spark. _(1 Mark)_ **g.** But a flint holds \_\_\_. _(1 Mark)_ **7.** Mark as True (T) or False (F). Write the correct statement if the answer is False. **a.** Flint stones are found easily in nature. _(1 Mark)_ **b.** The ruby is described as red as a rose. _(1 Mark)_ **c.** A sapphire is compared to the colour of fire. _(1 Mark)_ **d.** A diamond is a valuable and desirable stone. _(1 Mark)_ **e.** A flint is described as shiny and bright. _(1 Mark)_ **f.** The poem suggests that flint has hidden power. _(1 Mark)_ **8.** What lesson does the poem teach us? _(2 Marks)_ **9.** Name any two poems and one Christmas carol written by Christina Georgina Rossetti. _(2 Marks)_ **10.** Write a short note on Christina Georgina Rossetti. _(3 Marks)_
 
-**5.** In germination, a ____ grows into a plant.
-* Answer: Seed
+#### Part B
 
-**6.** Beans, Grass, Wheat, Onion - find the odd one out.
-* Answer: Beans
+**1.** _"A sapphire shines as blue as heaven; / A flint lies in the mud."_ **a.** What is the poet trying to say with this comparison? _(2 Marks)_ **b.** How is one stone very different from the other? _(3 Marks)_ **2.** _"A diamond is a brilliant stone,"_ **a.** Why is the diamond called a brilliant stone? _(2 Marks)_ **b.** How is the diamond different from a flint? _(3 Marks)_ **3.** _"To catch the world's desire,"_ **a.** What does the world desire? _(1 Mark)_ **b.** Which stone is more useful to the world and why? _(3 Marks)_ **4.** _"But a flint holds fire."_ **a.** How does a flint hold fire? _(2 Marks)_ **b.** What does the poet compare the flint to in the poem? _(2 Marks)_ **5.** What is the central idea or theme of the poem "The Flint"? _(3 Marks)_ **6.** Choose the correct option. What does the poet mean by "A flint lies in the mud"? **A) The flint is buried deep underground** / **B) The flint is a very soft and fragile stone** / **C) The flint is plain and lies ignored unlike precious gems** / **D) The flint is a type of shining jewel** _(1 Mark)_ **7.** How does the flint prove itself to be greater than all the precious stones in the poem? _(4 Marks)_
 
-**7.** Mustard, Rice, Mango, Grass - find the odd one out.
-* Answer: Mango
+#### Part C
 
-**8.** Stomata, Trunk, Leaf Blade, Veins - find the odd one out.
-* Answer: Trunk
+**1.** What does the poem express about the difference between what we want and what we need? _(3 Marks)_ **2.** Which stone from the poem do you like the most and why? _(3 Marks)_ **3.** How does the poem challenge our understanding of value? _(4 Marks)_ **4.** Do you think inner value is more important than outer beauty? Use the poem to support your answer. _(5 Marks)_ **5.** Write a short note on what the poem "The Flint" is about and the important message it gives. _(3 Marks)_
 
-**9.** Carbon dioxide, Water, Sunlight, Dust - find the odd one out.
-* Answer: Dust
+## ENG-II: Arachne — The Weaver
 
-**10.** Mango, Watermelon, Papaya, Tomato - find the odd one out.
-* Answer: Tomato
+### Write the Meaning of the Words and Make meaningful sentences of your own using the following words:
 
-**11.** Warmth, Air, Water, Fire - find the odd one out.
-* Answer: Fire
+**1.** Tapestries **2.** Boastful **3.** Loom **4.** Spindle **5.** Shuttle **6.** Disguised **7.** Stern **8.** Depicted **9.** Scuttled **10.** Transparent **11.** Bated breath **12.** Eaves
 
-**12.** Name the part of a plant that grows under the soil.
-* Answer: Root
+### Comprehension Important Questions and Answers
 
-**13.** Name an example of a plant with a soft and green stem.
-* Answer: Rice
+#### Pre-reading
 
-**14.** Name a stem that stores food.
-* Answer: Potato
+**1.** How are the two answers of Juhi and Jolie different? _(2 Marks)_ **2.** How do you think Juhi will react if she loses? _(2 Marks)_ **3.** Do you think being confident and being proud are the same thing? Why or why not? _(3 Marks)_
 
-**15.** Name an example of taproot.
-* Answer: Peepal tree
+#### In-text Questions
 
-**16.** Name the green-coloured pigment in leaves.
-* Answer: Chlorophyll
+**1.** Is it possible to learn something entirely on your own? _(2 Marks)_ **2.** Did Arachne mean to challenge Athena? _(2 Marks)_ **3.** Do you think the gods would have voted for Arachne's tapestry? _(2 Marks)_ **4.** Arachne's reaction after losing the contest tells us that... _(2 Marks)_
 
-**17.** Name the types of roots. Also, give one example of each type.
-* Answer: There are two types of roots - Taproot and Fibrous root. Example of taproot: Mustard. Example of fibrous root: Rice.
+#### Part A
 
-**18.** Name any one plant which has a weak and thin stem.
-* Answer: Money plant.
+**1.** Who was Arachne? _(2 Marks)_ **2.** Who was Goddess Athena? _(2 Marks)_ **3.** Why did Arachne believe she was better at weaving than Athena? _(3 Marks)_ **4.** How did Athena react when she heard Arachne's boastful claims? _(3 Marks)_ **5.** What did Arachne weave on her tapestry? What does this tell us about her? _(3 Marks)_ **6.** Why did Athena win the weaving contest? _(3 Marks)_ **7.** How did Athena punish Arachne after the contest? _(3 Marks)_ **8.** What happened to Arachne at the end of the story? _(3 Marks)_ **9.** Fill in the blanks. **a.** The cloth Arachne wove was as soft as \_\_\_. _(1 Mark)_ **b.** Arachne's multicoloured \_\_\_ were truly works of art. _(1 Mark)_ **c.** Athena disguised herself as an \_\_\_ woman to visit Arachne. _(1 Mark)_ **d.** The contest between Arachne and Athena was a contest of \_\_\_. _(1 Mark)_ **e.** Athena wove with sunbeams, the sky, the fields, and the \_\_\_. _(1 Mark)_ **f.** Arachne's body shrank to the size of a tiny \_\_\_. _(1 Mark)_ **g.** Arachne was transformed into the world's first \_\_\_. _(1 Mark)_ **h.** Athena was the great goddess of wisdom and \_\_\_. _(1 Mark)_ **i.** Hundreds gathered to watch the contest, waiting with \_\_\_ breath. _(1 Mark)_ **10.** Mark as True (T) or False (F). Write the correct statement if the answer is False. **a.** Arachne's tapestries were dull and ordinary. _(1 Mark)_ **b.** Athena disguised herself as a young girl to visit Arachne. _(1 Mark)_ **c.** Arachne agreed to the weaving contest with Athena. _(1 Mark)_ **d.** Athena's tapestry showed the gods as foolish and angry. _(1 Mark)_ **e.** Arachne won the weaving contest. _(1 Mark)_ **f.** Arachne was transformed into a spider at the end of the story. _(1 Mark)_ **11.** Choose the correct option. Why did Athena disguise herself as an old woman? **A) To help Arachne improve her weaving skills** / **B) To warn Arachne and give her a chance to correct her pride** / **C) To immediately challenge Arachne to a weaving contest** / **D) To steal Arachne's weaving secrets** _(1 Mark)_ **12.** What were the terms of the weaving contest between Arachne and Athena? _(3 Marks)_ **13.** What did the audience observe during the weaving contest? _(2 Marks)_ **14.** What does the story of Arachne explain about the origin of spiders? _(3 Marks)_
 
-**19.** Why are stomata important?
-* Answer: Stomata are tiny pores on leaves which help the plant to breathe.
+#### Part B
 
-**20.** Name two fruits that contain one seed each.
-* Answer: Mango and Litchi.
+**1.** _"I taught myself how to weave," Arachne would reply, "the result of my hard work is that no one can weave better than me — not even Athena, who invented weaving!"_ **a.** What does this tell us about Arachne? _(2 Marks)_ **b.** Was it offensive to Goddess Athena? _(2 Marks)_ **c.** What does Arachne think about her own abilities? _(2 Marks)_ **2.** _"She has come," said the stranger. Suddenly, the old woman doubled in size. The wrinkles faded from her face."_ **a.** Who is the 'stranger' in this sentence? _(1 Mark)_ **b.** Why did she visit Arachne? _(2 Marks)_ **c.** How did she do this transformation? _(2 Marks)_ **3.** _"Oh, how can I live," she cried, "now that I must never use the loom or spindle or shuttle again?"_ **a.** Who is speaking in this line? _(1 Mark)_ **b.** Why is the speaker upset? _(2 Marks)_ **c.** Why did Athena transform her into a spider? _(3 Marks)_ **4.** What advice did the old woman (Athena in disguise) give to Arachne? _(2 Marks)_ **5.** How did Arachne respond to the old woman's advice? _(2 Marks)_ **6.** How was Athena's tapestry different from Arachne's? _(4 Marks)_ **7.** Choose the correct option. What did Athena's tapestry depict? **A) The gods as foolish and angry** / **B) The beauty of Arachne's cottage** / **C) The glory of the gods, the sky, the sea, and the earth** / **D) A weaving contest between two women** _(1 Mark)_
 
-**21.** Define photosynthesis.
-* Answer: The process by which leaves make food for the plant using water, air and sunlight is called photosynthesis.
+#### Part C
 
-**22.** Give one difference between main vein and side veins.
-* Answer: The main vein is called the midrib and runs in the centre of the leaf, while side veins are branches of the midrib that carry water and food.
+**1.** How does Arachne's attitude change from the beginning to the end of the story? _(4 Marks)_ **2.** How does this story relate to the origin of spiders? _(3 Marks)_ **3.** If you were Arachne, would you have challenged Athena? Why or why not? What would you have woven? _(5 Marks)_ **4.** What is the moral of the story "Arachne: The Weaver"? _(3 Marks)_ **5.** Do you think Athena was fair in her punishment of Arachne? Give reasons for your answer. _(4 Marks)_ **6.** Write a complete summary of the story "Arachne: The Weaver" in your own words. _(5 Marks)_
 
-**23.** Give one difference between flower and fruit.
-* Answer: A flower is the colourful part of the plant that grows from a bud, while a fruit is the fleshy part that grows from a flower and protects the seed.
+## SCIENCE: Interdependence in Living Beings — Plants and Animals
 
-**24.** Give one difference between seed leaves and embryo.
-* Answer: Seed leaves are called cotyledons which contain food for the baby plant, while the embryo is the baby plant inside the seed.
+#### Part A: Introduction and Interdependence
 
-**25.** Draw and label the structure of monocot and dicot seeds.
-* Answer: A dicot seed (example: kidney bean) has two cotyledons, a seed coat, and an embryo with a shoot and root. A monocot seed (example: corn) has only one cotyledon, a seed coat, and an embryo with a shoot and root.
+**1.** Name any five things that we get from plants. _(1 mark)_ **2.** Write any two ways in which we help plants. _(1 mark)_ **3.** How do animals help plants? _(2 marks)_ **4.** What is interdependence of plants and animals? _(2 marks)_ **5.** Why are plants the primary source of food for all animals? _(2 marks)_ **Fill in the Blank:** Plants and animals depend on each other to live. This is called \_\_\_ of plants and animals. **True or False:** Plants supply animals with oxygen, which is essential for their survival.
 
-**26.** Differentiate between the types of roots with examples.
-* Answer: Taproot has one main root that grows deep into the soil with smaller lateral roots, for example carrot, turnip, mango and radish. Fibrous root has no main root; many branching roots arise from one point at the base of the stem and spread within the soil, for example coconut tree, palm tree, wheat, onion and grass.
+#### Part B: Food Chain
 
-**27.** Explain the functions of a stem.
-* Answer: The stem supports the branches, leaves and other parts of the plant. It carries water and nutrients from the roots to various parts of the plant. The food made by leaves is distributed throughout the plant with the help of the stem. Some stems store food and grow underground, used as vegetables, for example ginger, turmeric and potato.
+**6.** What is a food chain? _(2 marks)_ **7.** Why do all food chains start with plants? _(2 marks)_ **8.** Why are plants called producers in a food chain? _(2 marks)_ **9.** Give an example of a three-step food chain. _(1 mark)_ **10.** Give an example of a four-step food chain. _(1 mark)_ **11.** Give an example of a five-step food chain. _(1 mark)_ **12.** Describe a typical food chain. _(3 marks)_ **MCQ:** In a food chain, the plant is the — **a) consumer** / **b) producer** / **c) decomposer** / **d) host** _(1 mark)_ **Fill in the Blank:** In a food chain, plants are called \_\_\_ because they produce their own food using sunlight. **True or False:** Every food chain starts with plants. **True or False:** Most food chains have more than five links.
 
-**28.** Is there any similarity between the leaves of a plant and the kitchen in our house?
-* Answer: Yes, leaves are like the kitchen of a plant because just as food is cooked in a kitchen, leaves prepare food for the plant through the process of photosynthesis, using water, air and sunlight.
+#### Part C: Consumers
 
-**29.** Explain the structure of a dicot seed.
-* Answer: A dicot seed has a hard outer covering called the seed coat that protects it. Inside are two seed leaves called cotyledons, which contain the food supply for the baby plant. The baby plant inside is called the embryo, which has a shoot and a root.
+**13.** What are consumers? Why are all animals called consumers? _(2 marks)_ **14.** What are herbivores? Give an example. _(1 mark)_ **15.** What are carnivores? Give an example. _(1 mark)_ **16.** What are secondary consumers? _(1 mark)_ **17.** What are tertiary consumers? _(1 mark)_ **18.** What are omnivores? Give an example. _(1 mark)_ **19.** Name and describe the three groups of consumers. _(3 marks)_ **20.** What is the difference between a primary consumer and a secondary consumer? _(3 marks)_ **MCQ:** Animals that eat only plants are — **a) primary consumers** / **b) secondary consumers** / **c) decomposers** / **d) producers** _(1 mark)_ **MCQ:** Carnivores that eat herbivores are called — **a) secondary consumers** / **b) primary consumers** / **c) tertiary consumers** / **d) producers** _(1 mark)_ **Fill in the Blank:** Animals that eat only plants are called \_\_\_ consumers. **Fill in the Blank:** Carnivores that eat herbivores are called \_\_\_ consumers. **Fill in the Blank:** Carnivores that eat other carnivores are called \_\_\_ consumers. **True or False:** In a food chain, an eagle is a primary consumer.
 
-**30.** How can you take care of plants at your home?
-* Answer: We should make sure plants get plenty of sunlight, leave space between two growing plants, water them regularly, add compost, manure and fertilisers every few months, rinse or spray water to clean dust off them, and weed out unwanted plants regularly.
+#### Part D: Scavengers and Decomposers
 
----
+**21.** What are scavengers? Give examples. _(2 marks)_ **22.** What are decomposers? Give examples. _(2 marks)_ **23.** What is the role of scavengers and decomposers in a food chain? _(3 marks)_ **MCQ:** Which of these are decomposers? — **a) Bacteria** / **b) Vultures** / **c) Snakes** / **d) Hyenas** _(1 mark)_ **Fill in the Blank:** Bacteria and fungi are \_\_\_. **True or False:** Vultures are decomposers.
 
-## Chapter 6: Food We Get from Plants
+#### Part E: Energy in Food Chains and Food Pyramid
 
-**1.** Which of these plants lives for many years?
-* Answer: Banyan
+**24.** How is energy passed through a food chain? _(3 marks)_ **25.** What percentage of energy does an animal pass on in a food chain? _(1 mark)_ **26.** What is a food pyramid? _(3 marks)_ **27.** Why do most food chains have no more than four or five links? _(2 marks)_ **True or False:** As we go higher in a food pyramid, the number of consumers increases.
 
-**2.** Which of the following plants needs support to climb?
-* Answer: Pea
+#### Part F: Food Web
 
-**3.** ____ creep along the ground.
-* Answer: Creepers
+**28.** What is a food web? _(2 marks)_ **29.** Why do food chains interconnect to form a food web? _(2 marks)_ **Fill in the Blank:** Different food chains often interconnect to form a large network called a \_\_\_.
 
-**4.** Lotus plant is a ____.
-* Answer: Herb
+#### Part G: Ecosystem and Biosphere
 
-**5.** Which of the following is a food grain?
-* Answer: Corn
+**30.** What is an ecosystem? _(2 marks)_ **31.** What is ecology? _(1 mark)_ **32.** What is the biosphere? _(2 marks)_ **33.** Write a note on the ecosystem. _(4 marks)_ **MCQ:** The environment where living things live and interact with abiotic factors is known as — **a) biotic system** / **b) economic system** / **c) ecosystem** / **d) biosphere** _(1 mark)_ **Fill in the Blank:** The earth's zone of air, water, and soil that has the capability of supporting life is known as \_\_\_. **True or False:** The biosphere reaches about 10 km into the atmosphere.
 
-**6.** ____ is an example of a nut that we eat.
-* Answer: Groundnut
+#### Part H: Balance in Nature and Causes of Ecological Imbalances
 
-**7.** I am a small and weak plant. (EHRB)
-* Answer: HERB
+**34.** What is ecological imbalance? _(1 mark)_ **35.** List the causes of ecological imbalances. _(5 marks)_ **36.** What are the effects of introducing man-made products into the environment? _(3 marks)_ **37.** How does throwing toxic waste into water bodies cause ecological imbalance? _(2 marks)_ **38.** What is the effect of introducing foreign species into a new area? Give an example. _(3 marks)_ **39.** What is the effect of removing predators from an ecosystem? Give an example. _(3 marks)_ **40.** What are global environmental problems? Name any three. _(3 marks)_ **41.** What are national environmental problems? Give examples. _(3 marks)_ **42.** What are community environmental problems? Give examples. _(2 marks)_ **Fill in the Blank:** Plants are known as \_\_\_. **True or False:** Acid rain is a global environmental issue. **True or False:** Removing a predator in the ecosystem may result in ecological imbalance. **43.** Match each item in Column I with its correct term in Column II. _(5 marks)_ **Column A** — **a.** Plants **b.** Fungi **c.** Carnivores **d.** Herbivores **e.** Hyena and vulture | **Column B** — **i.** Secondary consumers **ii.** Scavengers **iii.** Producers **iv.** Primary consumers **v.** Decomposers
 
-**8.** I live for many years. (TEER)
-* Answer: TREE
+## SCIENCE: Work and Energy
 
-**9.** My bark is used as a spice. (CNNIONAM)
-* Answer: CINNAMON
+#### Part A: Work
 
-**10.** I am used in making ice creams. (ASRGU)
-* Answer: SUGAR
+**1.** What is work in science? _(2 marks)_ **2.** Write the formula for work. _(1 mark)_ **3.** Give one example of work being done and one example where work is not done. _(2 marks)_ **4.** Why is holding a heavy bag without moving it not considered work in science? _(2 marks)_ **5.** What do you understand by work? _(3 marks)_ **6.** What is the difference between work and energy? _(3 marks)_ **MCQ:** Work = Force × — **a) distance** / **b) speed** / **c) energy** / **d) height** _(1 mark)_ **MCQ:** In which of the following activities is work not being done? — **a) Riding a bicycle** / **b) Typing on keyboard** / **c) Watching TV** / **d) Drawing a line on paper with pencil** _(1 mark)_ **Fill in the Blank:** To move an object over any distance requires \_\_\_. **True or False:** Work is done even when no movement takes place.
 
-**11.** You can get oil by crushing my seeds. (UMATRDS)
-* Answer: MUSTARD
+#### Part B: Energy and Types of Energy
 
-**12.** My leaves can be used to cure cold and cough. (TIUSL)
-* Answer: TULSI
+**7.** What is energy? _(1 mark)_ **8.** What is mechanical energy? Name its two types. _(2 marks)_ **9.** What is kinetic energy? Give an example. _(2 marks)_ **10.** What is potential energy? Give an example. _(2 marks)_ **11.** What is light energy? Give examples of sources. _(1 mark)_ **12.** What is heat energy? Name some sources. _(2 marks)_ **13.** What is electrical energy? Give an example from nature. _(2 marks)_ **14.** What is sound energy? How does it travel? _(2 marks)_ **15.** What is solar energy? How is it used? _(3 marks)_ **16.** What is wind energy? How is it used to generate electricity? _(3 marks)_ **17.** What is hydroelectric energy? How is electricity generated from it? _(3 marks)_ **18.** What is chemical energy? Give examples. _(2 marks)_ **19.** Name different forms of energy. _(3 marks)_ **20.** Identify the type of energy for each of the following. _(1 mark each)_ **a.** Ability to do work. **b.** Energy stored in a compressed spring. **c.** Energy produced due to vibration of an object. **d.** Organic material which has stored sunlight in the form of chemical energy. **MCQ:** Ability to do work is called — **a) force** / **b) power** / **c) energy** / **d) speed** _(1 mark)_ **MCQ:** A moving car possesses — **a) potential energy** / **b) kinetic energy** / **c) wind energy** / **d) hydroelectric energy** _(1 mark)_ **Fill in the Blank:** Potential energy and \_\_\_ energy are the two types of mechanical energy. **Fill in the Blank:** A battery is a source of \_\_\_ energy. **True or False:** Sound energy can travel through a vacuum. **True or False:** Lightning is an example of electrical energy in nature. **21.** Match each item in Column I with its correct type of energy in Column II. _(5 marks)_ **Column A** — **a.** Stretched rubber band **b.** Vibrating objects **c.** Wood and coal **d.** Burning wood **e.** Lightning | **Column B** — **i.** Sound energy **ii.** Electrical energy **iii.** Mechanical energy (potential energy) **iv.** Heat energy **v.** Chemical energy
 
-**13.** ____ is an example of a herb.
-* Answer: Mint
+#### Part C: Renewable and Non-Renewable Sources of Energy
 
-**14.** ____ have strong and thick roots.
-* Answer: Trees
+**22.** What are renewable sources of energy? Give examples. _(2 marks)_ **23.** What are non-renewable sources of energy? Give examples. _(2 marks)_ **24.** Differentiate between renewable and non-renewable sources of energy. _(3 marks)_ **25.** Why have renewable sources of energy become more important? _(3 marks)_ **26.** Name the important sources of renewable energy. _(1 mark)_ **27.** Name the important sources of non-renewable energy. _(1 mark)_ **28.** Why should we use non-renewable sources of energy carefully? _(2 marks)_ **MCQ:** Which of these is a non-renewable source of energy? — **a) Wind** / **b) Solar** / **c) Coal** / **d) Hydropower** _(1 mark)_ **Fill in the Blank:** Solar, wind, geothermal, biomass, and hydro are important \_\_\_ sources of energy. **Fill in the Blank:** Fossil fuels like oils, coal, and gas are \_\_\_ sources of energy. **True or False:** Solar energy is a non-renewable source of energy. **True or False:** Fossil fuels take millions of years to be formed.
 
-**15.** ____ is an example of a creeper.
-* Answer: Pumpkin
+## COMPUTER: Types of Software
 
-**16.** We use oil to make ____.
-* Answer: Shampoo
+#### Part 1: Software
 
-**17.** Cinnamon is the ____ of a plant.
-* Answer: Bark
+**1.** Define the term software. _(2 marks)_ **2.** What are the two main types of software? _(1 mark)_ **3.** Can software be touched or seen? Give a reason. _(1 mark)_ **4.** Fill in the blank: A software is a collection of programs, \_\_\_, and data that are used to perform a task. _(1 mark)_ **5.** Fill in the blank: \_\_\_ is a collection of programs stored and run on a computer. _(1 mark)_ **6.** True or False: A software can be touched and seen. If false, write the correct statement. _(1 mark)_
 
-**18.** Give two examples of fruits that are eaten as vegetables.
-* Answer: Cucumber, Tomato
+#### Part 2: System Software
 
-**19.** Give two examples of cereals.
-* Answer: Rice, Wheat
+**1.** What is system software? _(2 marks)_ **2.** What are the three types of system software? _(1 mark)_ **3.** When was the first software created and by whom? _(1 mark)_ **4.** Fill in the blank: There are \_\_\_ types of system software. _(1 mark)_ **5.** True or False: System software is independent of application software. If false, write the correct statement. _(1 mark)_
 
-**20.** Give two examples of plants that give us fibres.
-* Answer: Cotton, Jute
+#### Part 3: Operating System
 
-**21.** Give two examples of plants that give us oils.
-* Answer: Mustard, Coconut
+**1.** What is an operating system? _(2 marks)_ **2.** List any four functions of an operating system. _(4 marks)_ **3.** List all the functions of an operating system. _(6 marks)_ **4.** Name any four popular operating systems. _(1 mark)_ **5.** What is an Operations Support System (OSS)? _(2 marks)_ **6.** What is memory management as a function of the operating system? _(2 marks)_ **7.** What do you mean by process management in an operating system? _(1 mark)_ **8.** What do you mean by device management in an operating system? _(1 mark)_ **9.** What is the security function of an operating system? _(1 mark)_ **10.** (MCQ) All softwares on the computer work with the help of: **(a) Operating system** / **(b) Application** / **(c) Word** _(1 mark)_ **11.** True or False: The operating system is the first program that loads when a computer is turned on. If false, write the correct statement. _(1 mark)_ **12.** True or False: Utility software is the first software that loads when a computer is turned on. If false, write the correct statement. _(1 mark)_ **13.** Fill in the blank: The operating system is the interface between the \_\_\_ and the user. _(1 mark)_ **14.** Which software is used to run a computer? _(2 marks)_
 
-**22.** Give two examples of flowers used for making perfumes.
-* Answer: Jasmine, Sunflower
+#### Part 4: Utility Software
 
-**23.** Name two trees that you see every day. Can you think of a tree that does not have a thick strong trunk?
-* Answer: Two trees seen every day can be Neem and Gulmohar (answers may vary). Most trees have thick, strong trunks; a thick woody trunk is a defining feature of trees.
+**1.** What is utility software? _(2 marks)_ **2.** Name any four examples of utility software. _(2 marks)_ **3.** Write a note on Backup utility software. _(3 marks)_ **4.** What is defragmentation? _(2 marks)_ **5.** What is Disk Cleanup? _(2 marks)_ **6.** What is fragmentation? _(1 mark)_ **7.** What is a network utility? _(2 marks)_ **8.** What is a file manager utility? _(2 marks)_ **9.** What is disk management utility? _(2 marks)_ **10.** What is compression software? Give examples. _(2 marks)_ **11.** Write the steps to defragment the disk on a computer. _(3 marks)_ **12.** What should Shruti do if she has not saved a copy of her data anywhere else? _(2 marks)_ **13.** (MCQ) Which of the following is not a type of utility software? **(a) File management** / **(b) Disk Management** / **(c) Notebook management** _(1 mark)_ **14.** (MCQ) Which of the following is used to optimize a drive? **(a) Cleanup** / **(b) Defragmentation** / **(c) Compression** _(1 mark)_ **15.** True or False: Disk management utility takes backup of the computer system. If false, write the correct statement. _(1 mark)_ **16.** Fill in the blank: \_\_\_ utility keeps check on network connectivity. _(1 mark)_
 
-**24.** Name any two herbs and shrubs that are found in your surroundings.
-* Answer: Herbs: Mint, Coriander. Shrubs: Hibiscus, Bougainvillea.
+#### Part 5: Application Software
 
-**25.** Why do some plants need support to climb?
-* Answer: Some plants like climbers have weak and thin stems and cannot stand upright on their own, so they take the support of walls, sticks or other plants to grow upwards.
+**1.** Define application software. _(2 marks)_ **2.** What is general purpose software? Give examples. _(2 marks)_ **3.** What is customised or special purpose software? Give examples. _(2 marks)_ **4.** What is a word processor? Give examples. _(2 marks)_ **5.** Describe an Electronic Spreadsheet. Give examples. _(3 marks)_ **6.** What is presentation software? Give examples. _(2 marks)_ **7.** What is a Database Management System (DBMS)? Give examples. _(2 marks)_ **8.** What is Desktop Publishing software? Give examples. _(2 marks)_ **9.** What is Graphics software? Give examples. _(1 mark)_ **10.** What is Multimedia software? Give examples. _(1 mark)_ **11.** (MCQ) Which of the following is a DBMS software? **(a) Access** / **(b) Excess** / **(c) Excel** _(1 mark)_ **12.** (MCQ) Which of the following is not an application software? **(a) Windows** / **(b) Word** / **(c) Excel** _(1 mark)_ **13.** True or False: Graphics software is used to create videos. If false, write the correct statement. _(1 mark)_ **14.** True or False: PowerPoint is a system software. If false, write the correct statement. _(1 mark)_ **15.** Fill in the blank: Application programs are also called \_\_\_. _(1 mark)_ **16.** Fill in the blank: \_\_\_ software interfaces with the computer to complete a specific task for the user. _(1 mark)_
 
-**26.** Name any five vegetables that you like to eat.
-* Answer: Potato, Carrot, Spinach, Cauliflower, Brinjal (answers may vary).
+#### Part 6: System Software vs Application Software
 
-**27.** Write a short note on trees.
-* Answer: Trees are big and tall plants with brown, hard, thick, woody and strong stems called trunks, protected by bark. They have many branches bearing leaves, flowers and fruits, and strong roots that grow deep into the soil. Example: Gulmohar, banyan.
+**1.** Differentiate between System Software and Application Software. _(6 marks)_ **2.** Classify the following as System Software or Application Software: Paint, Linux, Mac, Flash, Wordpad, Windows 10, Word 2019. _(3 marks)_ **3.** Write whether the following is system software or application software: Network Utility, Multimedia software, Word Processor, Disk Cleanup. _(2 marks)_ **4.** Fill in the blank: \_\_\_ software is designed to provide support to other software. _(1 mark)_ **5.** True or False: System software controls the hardware of a computer. If false, write the correct statement. _(1 mark)_
 
-**28.** Write a short note on spices.
-* Answer: Spices are dried seeds, fruits, leaves, roots or barks of some plants that make food tastier and give it colour and aroma. Examples: Clove, Cinnamon, Cardamom.
+## COMPUTER: Advanced Features of Word 2016 and 2019 - I
 
-**29.** Write a short note on medicines from plants.
-* Answer: Some plants called medicinal plants give us medicines. For example, Tulsi leaves cure cough and cold, cloves treat toothache, and Neem cures skin infections.
+#### Part 1: Format Painter
 
-**30.** What are spices? Explain with examples.
-* Answer: Spices are things we add to food to make it tastier. They come from plants and can be dried seeds, fruits, leaves, roots or bark. They give colour and aroma to food. Examples: Clove is a flower bud, Cinnamon is bark, Cardamom is a fruit with seeds, Ginger and Turmeric are stems.
+**1.** What is Format Painter? _(2 marks)_ **2.** Explain the use of Format Painter. _(3 marks)_ **3.** Write the steps to use Format Painter. _(3 marks)_ **4.** Fill in the blank: \_\_\_ is used for copying formatting from one object to another. _(1 mark)_
 
----
+#### Part 2: Superscript and Subscript
 
-## Chapter 7: Forms of Matter: Solids, Liquids and Gases
+**1.** What is Superscript? Give an example. _(1 mark)_ **2.** What is Subscript? Give an example. _(1 mark)_ **3.** Write the steps to apply Superscript or Subscript to text in Word. _(3 marks)_ **4.** What is the keyboard shortcut for Subscript in Word? _(1 mark)_ **5.** What is the keyboard shortcut for Superscript in Word? _(1 mark)_ **6.** (MCQ) The shortcut to apply superscript is: **(a) Ctrl + -** / **(b) Ctrl + Shift + =** / **(c) Ctrl + Shift + +** _(1 mark)_ **7.** Help Simrat to add superscript and subscript in a Word document. _(3 marks)_ **8.** True or False: Superscript is used to write text below the line. If false, write the correct statement. _(1 mark)_ **9.** True or False: Superscript is used to write scripts. If false, write the correct statement. _(1 mark)_ **10.** Fill in the blank: \_\_\_ writes text below the line. _(1 mark)_ **11.** Fill in the blank: I need to write text above the line, so I will use \_\_\_. _(1 mark)_
 
-**1.** Everything around us is known as ____.
-* Answer: Matter
+#### Part 3: Shadow Text
 
-**2.** Which among the following is a gas?
-* Answer: Carbon dioxide
+**1.** What is Shadow Text in Word? _(1 mark)_ **2.** Write the steps to apply shadow to text in Word. _(2 marks)_
 
-**3.** Which of the following is an example of matter?
-* Answer: All of these (Water, Chapati, Car)
+#### Part 4: Header and Footer
 
-**4.** Which of the following changes into all three forms?
-* Answer: Water
+**1.** What is a header and footer in Word? _(2 marks)_ **2.** Briefly discuss the use of Header and Footer. _(3 marks)_ **3.** Write the steps to add a header or footer to a Word document. _(5 marks)_ **4.** (MCQ) The Header and Footer option is available in this tab: **(a) Home** / **(b) Insert** / **(c) Format** _(1 mark)_ **5.** Which tab is used to insert a header or footer in Word? _(1 mark)_ **6.** True or False: Header is the section at the bottom of each page. If false, write the correct statement. _(1 mark)_
 
-**5.** Identify the form of matter of a Book.
-* Answer: Solid
+#### Part 5: Find and Replace
 
-**6.** Identify the form of matter of a Tree.
-* Answer: Solid
+**1.** What is the Find and Replace feature in Word? _(2 marks)_ **2.** Describe the Find and Replace option in Word. _(4 marks)_ **3.** Write the steps to replace words in a document. _(4 marks)_ **4.** What is the use of the Go To option in the Find feature? _(2 marks)_ **5.** (MCQ) The tab of Advanced Find with the "Replace All" option is: **(a) Find** / **(b) Go To** / **(c) Replace** _(1 mark)_ **6.** (MCQ) The option used to navigate through sections of a document is: **(a) Navigation Pane** / **(b) Page Break** / **(c) Split View** _(1 mark)_ **7.** What is the keyboard shortcut to open Find in Word? _(1 mark)_ **8.** What is the keyboard shortcut to open Replace in Word? _(1 mark)_ **9.** True or False: The Replace option finds and replaces images. If false, write the correct statement. _(1 mark)_ **10.** Fill in the blank: Clicking on Find opens the \_\_\_ pane on the Word document. _(1 mark)_
 
-**7.** Identify the form of matter of Glass.
-* Answer: Solid
+#### Part 6: Working with Shapes
 
-**8.** Identify the form of matter of Kerosene.
-* Answer: Liquid
+**1.** How can you insert shapes in a Word document? _(3 marks)_ **2.** How can you insert shapes and add text to them in Word? _(5 marks)_ **3.** (MCQ) Which of the following is used to insert shapes? **(a) Home tab** / **(b) Shapes** / **(c) Insert tab** _(1 mark)_ **4.** How can Shruti add text to a star-shaped object in Word? _(2 marks)_ **5.** True or False: You can add text to shapes in Word. If false, write the correct statement. _(1 mark)_
 
-**9.** Identify the form of matter of Oxygen.
-* Answer: Gas
+#### Part 7: Border and Shading
 
-**10.** Identify the form of matter of an Eraser.
-* Answer: Solid
+**1.** What is the use of border and shading in Word? _(2 marks)_ **2.** Write the steps to add a border around a text or paragraph in Word. _(4 marks)_ **3.** True or False: You can add a border to the selected text. If false, write the correct statement. _(1 mark)_
 
-**11.** Identify the form of matter of Olive oil.
-* Answer: Liquid
+## MORAL SCIENCE: Feel Happy About Yourself
 
-**12.** Identify the form of matter of Lemonade.
-* Answer: Liquid
+_Value Taught: Self-Esteem | Life Skills Developed: Self-Awareness and Critical Thinking_
 
-**13.** Identify the form of matter of a Bus.
-* Answer: Solid
+#### Part 1: Core Concepts
 
-**14.** Define matter. Name the three different forms of matter.
-* Answer: Matter is anything that has mass and occupies space. The three forms of matter are Solid, Liquid and Gas.
+**1.** What is self-esteem? _(1 mark)_ **2.** What does high self-esteem mean? _(2 marks)_ **3.** What does low self-esteem mean? _(2 marks)_ **4.** What is at the root of self-esteem, and how does it develop? _(2 marks)_ **5.** How is positive thinking related to optimism and negative thinking related to pessimism? _(2 marks)_ **6.** What is the difference between optimism and pessimism? _(3 marks)_ **7.** What did Alexander regard as the greatest possession of mankind? What did he strongly believe about hope? _(2 marks)_ **8.** What did Helen Keller say to encourage people to look at the bright side? _(1 mark)_ **9.** What is the meaning of Helen Keller's famous words? _(2 marks)_ **10.** How does an optimistic person gain acceptance in society? _(3 marks)_ **11.** Who is Lisa Ray? What do you learn from her example? _(4 marks)_ **12.** So as to have an optimistic attitude, what should you do? _(3 marks)_ **13.** Choose the correct answer: What does self-esteem refer to? **a. Your feelings about others** / **b. Your feeling about yourself** / **c. Your achievements in life** / **d. Your confidence in others** _(1 mark)_ **14.** Choose the correct answer: Positive thinking is closely related to \_\_\_. **a. pessimism** / **b. despair** / **c. optimism** / **d. hopelessness** _(1 mark)_ **15.** Choose the correct answer: Who regarded 'hope' as the greatest possession of mankind? **a. Helen Keller** / **b. Lisa Ray** / **c. Alexander** / **d. Eleanor Roosevelt** _(1 mark)_ **16.** Fill in the blanks. _(1 mark each)_ **a.** Self-confidence is at the root of \_\_\_. **b.** Positive thinking is closely related to \_\_\_. **c.** Alexander regarded \_\_\_ as the greatest possession of mankind. **d.** Helen Keller encouraged people to always look at the \_\_\_ side. **e.** Lisa Ray is a famous Indo-Canadian actress and \_\_\_. **f.** Hopelessness leads to \_\_\_. **g.** Negative thinking is closely related to \_\_\_. **17.** State whether the following are True or False. Correct the false statements. _(1 mark each)_ **a.** Self-confidence comes from negative thinking. **b.** Helen Keller encouraged people to look at the dark side of things. **c.** Negative thinking is closely related to pessimism. **d.** A pessimistic person gains easy acceptance everywhere in society. **e.** Being hopeful leads to despair. **f.** Lisa Ray is a perfect example of a pessimistic person.
 
-**15.** Write any one difference between solids, liquids and gases.
-* Answer: Solids have a fixed shape and size and cannot flow, while liquids and gases do not have a fixed shape but take the shape of their container and can flow easily.
+#### Part 2: Story — The Glass of Water
 
-**16.** Explain the three different forms of matter.
-* Answer: Solids are things that have a fixed shape and size and cannot flow, for example table, chair and tree. Liquids do not have a fixed shape but take up a fixed space and can flow easily, taking the shape of their container, for example milk and water. Gases do not have a fixed shape or size and do not take up a fixed space; they flow easily and fill the entire container, for example water vapour.
+**1.** Who was Dr. Brown? _(1 mark)_ **2.** Who came to meet Dr. Brown and why? _(2 marks)_ **3.** What was the lady's problem in the story? _(2 marks)_ **4.** What did Dr. Brown ask the lady and the boy about the glass of water? What were their replies? _(3 marks)_ **5.** What is the moral of the story "The Glass of Water"? _(2 marks)_ **6.** What did Dr. Brown explain to the lady after the boy left? _(4 marks)_ **7.** Choose the correct answer: What did the boy reply when asked about the glass of water? **a. It is full** / **b. It is empty** / **c. It is half-empty** / **d. It is half-filled** _(1 mark)_ **8.** Fill in the blanks. _(1 mark each)_ **a.** Dr. Brown was a famous \_\_\_. **b.** The lady was under acute \_\_\_. **c.** The lady replied that the glass was \_\_\_. **d.** The boy immediately replied that the glass was \_\_\_. **e.** The lady decided to become \_\_\_ in life after listening to Dr. Brown. **9.** State whether the following are True or False. Correct the false statements. _(1 mark each)_ **a.** The lady was always cheerful and optimistic. **b.** The boy said the glass was half-empty. **c.** Dr. Brown advised the lady to become hopeful and confident in life. **d.** The boy was gloomy and hopeless. **e.** The glass of water was different for the lady and the boy.
 
-**17.** With the help of an activity, show that a liquid can flow and takes the shape of its container.
-* Answer: Take some water and pour it into a round bowl - it takes the round shape of the bowl. Now pour the same water into a square container - it takes the square shape of that container. This shows that a liquid does not have a fixed shape and flows to take the shape of whatever container holds it.
+## MORAL SCIENCE: Trust Yourself
 
----
+_Value Taught: Self-Confidence | Life Skills Developed: Self-Awareness, Critical Thinking and Creative Writing_
 
-## Chapter 8: Some Properties of Water
+#### Part 1: Core Concepts
 
-**1.** Give one word for frozen water.
-* Answer: Ice
+**1.** Define self-confidence. _(1 mark)_ **2.** What is the spirit of self-confidence? _(1 mark)_ **3.** What is the quality of a self-confident person? _(2 marks)_ **4.** Is self-confidence only an inborn quality? Explain. _(2 marks)_ **5.** Explain the importance of self-confidence in a person's life. _(3 marks)_ **6.** Choose the correct answer: Self-confidence is \_\_\_. **a. the trust a person has on others** / **b. the trust a person has on his/her own self** / **c. the feeling of happiness** / **d. the quality of being kind** _(1 mark)_ **7.** Choose the correct answer: A self-confident person is \_\_\_ in his decisions. **a. confused** / **b. weak** / **c. rock-solid** / **d. doubtful** _(1 mark)_ **8.** Fill in the blanks. _(1 mark each)_ **a.** Self-confidence is the trust that a person has on his/her own \_\_\_. **b.** Self-confidence is the spirit that gives a person the power to \_\_\_ what he/she wants. **c.** A self-confident person does not sway by the \_\_\_ of others. **d.** The foundation of all great success and achievement is \_\_\_. **9.** State whether the following are True or False. Correct the false statements. _(1 mark each)_ **a.** Self-confidence gives a person the power to achieve what he/she wants. **b.** A self-confident person always follows the opinions of others. **c.** Self-confidence is always an inborn quality and cannot be developed.
 
-**2.** Give one word for the most familiar form of water.
-* Answer: Liquid
+#### Part 2: Story — The Power of Self-confidence
 
-**3.** Give one word for the process in which ice melts into water.
-* Answer: Melting
+**1.** Who is J.D. Rockefeller? _(1 mark)_ **2.** Why was the businessman in a grave financial problem? _(2 marks)_ **3.** Where was the businessman sitting and what was he thinking? _(2 marks)_ **4.** What did the old man do to help the businessman? _(3 marks)_ **5.** What did the businessman do with the cheque? _(2 marks)_ **6.** How did the businessman save his business? _(3 marks)_ **7.** Why was the businessman stunned at the end of the story? _(3 marks)_ **8.** Discuss the moral of the story "The Power of Self-confidence". _(5 marks)_ **9.** Tick (✔) the correct statement and cross (✗) the wrong one. _(1 mark each)_ **a.** Self-confidence is the spirit that gives a person the power to achieve what he/she wants. **b.** The businessman was in a grave financial problem. **c.** The businessman encashed the cheque to pay his debts. **d.** The old man was J.D. Rockefeller. **e.** The old man was not insane. **10.** Choose the correct answer: What was the value of the cheque given to the businessman? **a. $50,000** / **b. $5,00,000** / **c. $5,000** / **d. $50,00,000** _(1 mark)_ **11.** Fill in the blanks. _(1 mark each)_ **a.** The cheque was signed by \_\_\_. **b.** The value of the cheque was $\_\_\_. **c.** The businessman kept the cheque in his \_\_\_. **d.** With great courage and \_\_\_, the businessman started his business dealings once again. **e.** A nurse told the businessman that the old man always ran away from the \_\_\_. **f.** The businessman was sitting on a bench in a \_\_\_. **12.** State whether the following are True or False. Correct the false statements. _(1 mark each)_ **a.** The old man wrote a cheque of $500,000 for the businessman. **c.** The businessman encashed the cheque immediately. **d.** The businessman recovered all his money within a short period of time. **e.** The businessman went to a different park to return the cheque after one year. **f.** The businessman realised that it was the cheque that gave him the power to succeed.
 
-**4.** Give one word for the reverse of melting.
-* Answer: Freezing
+## SOCIAL STUDIES: Indian Constitution
 
-**5.** Give one word for substances that do not form a solution when mixed in water.
-* Answer: Insoluble
+#### Part 1: What is Constitution?
 
-**6.** ____ does not have a fixed shape or size.
-* Answer: Steam
+**1.** Define the term "Constitution." _(1 mark)_ **2.** From which language does the term "Constitution" come, and what did it mean? _(1 mark)_ **3.** How is a Constitution similar to the rules of a school? _(2 marks)_
 
-**7.** The process in which a liquid changes into a solid is called ____.
-* Answer: Solidification
+#### Part 2: Indian Constitution
 
-**8.** A solute and a solvent together form a ____.
-* Answer: Solution
+**4.** When did India become independent? _(1 mark)_ **5.** What was the Constituent Assembly? _(1 mark)_ **6.** Who was elected as the President of the Constituent Assembly? _(1 mark)_ **7.** Who was the Chairman of the drafting committee of the Constitution? _(1 mark)_ **8.** How long did it take to frame the Constitution of India? _(1 mark)_ **9.** When did the new Constitution come into force? _(1 mark)_ **10.** Why was the Constituent Assembly formed? _(2 marks)_ **11.** What did India become when the Constitution came into force on January 26, 1950? _(2 marks)_ **12.** Write a short note on the making of the Indian Constitution. _(4 marks)_
 
-**9.** An object that weighs more than the water displaced by it ____ in water.
-* Answer: Sinks
+#### Part 3: Importance of our Constitution
 
-**10.** ____ is insoluble in water.
-* Answer: Oil
+**13.** What does the Constitution contain? _(1 mark)_ **14.** State any two points of importance of the Indian Constitution. _(2 marks)_ **15.** What is the importance of the Indian Constitution? _(3 marks)_
 
-**11.** Bigger things float in water. True or False?
-* Answer: False
+#### Part 4: Features of Indian Constitution
 
-**12.** The substance that dissolves in water is called the solvent. True or False?
-* Answer: False
+**16.** What is the Preamble? _(1 mark)_ **17.** How does the Preamble describe India? _(1 mark)_ **18.** What does "Sovereign" mean? _(2 marks)_ **19.** What does "Secular" mean? _(2 marks)_ **20.** What does "Democratic" mean? _(2 marks)_ **21.** What does "Socialist" mean? _(2 marks)_ **22.** What does "Republic" mean? _(2 marks)_ **23.** What is Universal Adult Franchise? _(1 mark)_ **24.** What does our Preamble state? _(3 marks)_ **25.** Explain the features of the Indian Constitution with reference to the Preamble. _(5 marks)_ **26.** Write a detailed note on the Preamble of the Indian Constitution and explain all its terms. _(6 marks)_
 
-**13.** Water exists in three different forms. True or False?
-* Answer: True
+#### Part 5: Amazing Facts about the Indian Constitution
 
-**14.** Evaporation is the process in which a liquid changes into a solid. True or False?
-* Answer: False
+**27.** Which is the largest Constitution in the world? _(1 mark)_ **28.** How many articles, schedules and amendments does the Indian Constitution currently have? _(2 marks)_ **29.** When was the Constitution of India adopted by the Constituent Assembly? _(1 mark)_ **30.** Why was January 26 especially chosen as the date for the Constitution to come into force? _(2 marks)_ **31.** What did the original text of the Constitution contain? _(1 mark)_ **32.** Was the Indian Constitution typed, photocopied or handwritten? _(1 mark)_
 
-**15.** A solution can be formed in less time if the solvent is cooled. True or False?
-* Answer: False
+#### Let's Check
 
-**16.** Unjumble NGITLME and define the term.
-* Answer: MELTING - The process in which a solid changes into a liquid on heating.
+**33.** India became independent on — **a. August 15, 1950** / **b. August 15, 1947** / **c. August 26, 1948** _(1 mark)_ **34.** The new Constitution came into force on — **a. January 26, 1947** / **b. January 26, 1950** / **c. August 15, 1948** _(1 mark)_ **35.** The Indian Constitution document was — **a. typed** / **b. photocopied** / **c. handwritten** _(1 mark)_ **36.** Fill in the blank: \_\_\_ was the President of the Constituent Assembly. _(1 mark)_ **37.** Fill in the blank: \_\_\_ is the introduction to the Constitution. _(1 mark)_ **38.** Fill in the blank: A \_\_\_ is ruled by the elected officials. _(1 mark)_ **39.** Fill in the blank: There were \_\_\_ amendments in the Indian Constitution. _(1 mark)_ **40.** Fill in the blank: \_\_\_ is known as the 'Father of the Indian Constitution'. _(1 mark)_ **41.** True or False: Republic Day is celebrated on 26th January every year. _(1 mark)_ **42.** True or False: Democracy is a government of, for and by the people. _(1 mark)_ **43.** True or False: The Indian Constitution is the shortest constitution in the world. _(1 mark)_ **44.** True or False: January 26 was the anniversary of the Purna Swaraj Day. _(1 mark)_
 
-**17.** Unjumble NTOSOILU and define the term.
-* Answer: SOLUTION - A mixture in which a solute dissolves in a solvent.
+## SOCIAL STUDIES: Agriculture in India
 
-**18.** Unjumble MFRO and define the term.
-* Answer: FORM - A particular state or shape in which something exists (solid, liquid or gas).
+#### Part 1: Introduction to Agriculture
 
-**19.** Unjumble LUBLSOE and define the term.
-* Answer: SOLUBLE - A substance that dissolves in a solvent to form a solution.
+**1.** What is agriculture? _(1 mark)_ **2.** What are the two branches of agriculture? _(1 mark)_ **3.** What conditions make India favourable for agriculture? _(2 marks)_ **4.** Why is India called an agricultural country? _(3 marks)_ **5.** What are crops? _(1 mark)_
 
-**20.** Name the three forms of water.
-* Answer: Solid (ice), Liquid (water) and Gas (water vapour/steam).
+#### Part 2: Types of Crops — On the Basis of Season
 
-**21.** What is condensation?
-* Answer: Condensation is the process in which a gas changes into a liquid on cooling. For example, water vapour condenses into water droplets on a cool glass surface.
+**6.** What are Rabi crops? Give two examples. _(2 marks)_ **7.** What are Kharif crops? Give two examples. _(2 marks)_ **8.** What are the differences between Rabi crops and Kharif crops? _(3 marks)_
 
-**22.** Define 'solution'. Give examples.
-* Answer: A solution is a mixture in which a solute dissolves in a solvent at a particular temperature. Example: Salt water (salt is the solute, water is the solvent) and sugar solution (sugar dissolved in water).
+#### Part 3: Types of Crops — On the Basis of Requirement
 
-**23.** What happens when a tray with water is kept in the freezer?
-* Answer: The water freezes and turns into ice; this process is called solidification/freezing.
+**9.** What is a food crop? _(1 mark)_ **10.** What is a cash crop? _(1 mark)_ **11.** What are the differences between food crops and cash crops? _(3 marks)_ **12.** Write about rice as a food crop. _(3 marks)_ **13.** Write about wheat as a food crop. _(3 marks)_ **14.** Write about jowar as a food crop. _(2 marks)_ **15.** What are pulses? Name any three pulses and state where they grow. _(2 marks)_ **16.** Write about cotton as a cash crop. _(3 marks)_ **17.** Give some uses of jute. Where does jute grow in India? _(3 marks)_ **18.** Write about tea and coffee as cash crops. _(3 marks)_ **19.** Write about oilseeds as cash crops. _(2 marks)_ **20.** Write about sugarcane as a cash crop. _(3 marks)_ **21.** Name any five important cash crops of India along with the states where they are grown. _(5 marks)_ **22.** Describe in detail the types of crops grown in India on the basis of their requirements. _(6 marks)_
 
-**24.** What happens when a cold plate is kept over a pan of very hot water?
-* Answer: Water vapour rising from the hot water condenses on the cold plate and forms water droplets; this process is called condensation.
+#### Part 4: Rearing of Livestock
 
-**25.** Can water change its form? Explain.
-* Answer: Yes, water can change from one form to another. On heating, ice melts into water (melting) and water evaporates into water vapour (evaporation). On cooling, water vapour condenses into water (condensation) and water freezes into ice (solidification/freezing).
+**23.** What are livestock? _(1 mark)_ **24.** What do you understand by livestock? _(2 marks)_ **25.** List some uses of animals. _(3 marks)_ **26.** What do you understand by livestock? Give any four uses of livestock. _(4 marks)_
 
-**26.** Some objects float while some objects sink in water. Explain.
-* Answer: If an object displaces less water than its own weight, it will sink and go to the bottom. If an object displaces more water than its own weight, it will float and stay on top of the water.
+#### Part 5: Development of Agriculture
 
-**27.** Differentiate between solute and solvent.
-* Answer: A solute is the substance that dissolves, while a solvent is the substance in which the solute dissolves.
+**27.** What is the Green Revolution? _(1 mark)_ **28.** Write a short note on the Green Revolution. _(4 marks)_ **29.** Describe the development of agriculture in India in detail. _(6 marks)_
 
-**28.** Differentiate between freezing and evaporation.
-* Answer: Freezing is the process in which a liquid changes into a solid on cooling, while evaporation is the process in which a liquid changes into a gas on heating.
+#### Let's Check
 
-**29.** Differentiate between soluble and insoluble substances.
-* Answer: Soluble substances dissolve in a solvent to form a solution, while insoluble substances do not dissolve in a solvent.
+**30.** Cotton and jute are — **a. cereal crops** / **b. cash crops** / **c. food crops** _(1 mark)_ **31.** Wheat and pulses are — **a. cash crops** / **b. food crops** / **c. both (a) and (b)** _(1 mark)_ **32.** Elephants carry load in — **a. plains** / **b. deserts** / **c. forests** _(1 mark)_ **33.** India is the largest producer of — **a. coffee** / **b. pulses** / **c. cotton** _(1 mark)_ **34.** Staple food of North India is — **a. wheat** / **b. sugarcane** / **c. jowar** _(1 mark)_ **35.** Fill in the blank: \_\_\_ crops are also called winter crops. _(1 mark)_ **36.** Fill in the blank: Jowar needs \_\_\_ and \_\_\_ soil to grow. _(1 mark)_ **37.** Fill in the blank: Cotton requires \_\_\_ climate. _(1 mark)_ **38.** Fill in the blank: India is the \_\_\_ largest producer of tea in the world. _(1 mark)_ **39.** Fill in the blank: \_\_\_ and \_\_\_ provide us eggs. _(1 mark)_ **40.** Match the following. _(1 mark each)_ **Column A** — **a.** Linseed **b.** Sugarcane **c.** Paddy **d.** Rice, wheat **e.** Pulses | **Column B** — **i.** Alluvial soil **ii.** Legumes **iii.** Food crops **iv.** Kharif crop **v.** Oilseed
 
-**30.** Differentiate between melting and condensation.
-* Answer: Melting is the process in which a solid changes into a liquid on heating, while condensation is the process in which a gas changes into a liquid on cooling.
 
-**31.** List any three conditions that affect the making of a solution.
-* Answer: A solution is formed faster if the solvent is heated. A solution is formed faster if the solute is stirred. A solution is formed faster if the solute is in powdered form or broken into smaller pieces.
+## ENGLISH-GRAMMAR PRACTICE SET - 3
+
+**1.** Write the comparative and superlative degrees of the following adjectives: fast, tall, kind, poor, dear, ugly, lazy, high, sweet, narrow, weak, cheap, young, merry, rich, deep, slow, healthy, bright, small, wealthy, few, near, clever, long, pretty, great, new, thick, lovely, short, strong, old, low. **2.** Write the missing forms of the verbs, giving present, past and past participle where required, for come whose past participle is arrived. **3.** Divide the following sentence into Subject and Predicate: My uncle gave me a cricket bat. **4.** Choose the correct option to complete the sentence: A tiger is \_\_\_\_\_ as a lion, choosing from as ferocious, more ferocious, or most ferocious. **5.** Fill in the blank with the correct antonym, using a suitable prefix, of the word tidy: She asked us to her cabin which was rather small and \_\_\_\_\_. **6.** Divide the following sentence into Subject and Predicate: This is my bag. **7.** Rewrite the following sentence in normal order and then divide it into Subject and Predicate: On the burning desk, stood the boy. **8.** Divide the following sentence into Subject and Predicate: Who has written the Ramayana? **9.** Rewrite the following exclamatory sentence as a statement: What a beautiful garden this is! **10.** Convert the following interrogative sentence into a statement: Are you coming to the party?
+
+**11.** Identify the Subject in the following sentence: The cackling of geese saved Rome. **12.** Divide the following sentence into Subject and Predicate: The box with books is heavier than the one with clothes. **13.** Write the comparative and superlative degrees of the following adjectives: wise, fat, large, hot, able, wet, brave, red, gentle, thin, true, big, noble, sad, pure, fine, white, grave. **14.** Write the missing forms of the verbs whose past form is carried, giving the present and past participle. **15.** Divide the following sentence into Subject and Predicate: Mary has finished her homework. **16.** Fill in the blank with the correct comparative form of the word sweet: Honey is \_\_\_\_\_ than sugar. **17.** Fill in the blank with the correct antonym, using a suitable prefix, of the word legible: It was difficult to read Timothy's notes since his handwriting was \_\_\_\_\_. **18.** Add a suitable Predicate to the following Subject: These flowers. **19.** Divide the following sentence into Subject and Predicate: This is an annoying place. **20.** Rewrite the following sentence in normal order and then divide it into Subject and Predicate: Here comes the cook.
+
+**21.** Divide the following sentence into Subject and Predicate: Can you please share your eraser? **22.** Rewrite the following exclamatory sentence as a statement: How sweet the mangoes taste! **23.** Convert the following interrogative sentence into a statement: Did she complete her work? **24.** Identify the Subject in the following sentence: Tubal Cain was a man of might. **25.** Rewrite the following sentence in normal order and then divide it into Subject and Predicate: Under the tree sat a wise old man. **26.** Write the comparative and superlative degrees of the following adjectives: intelligent, dangerous, urgent, beautiful, handsome, proper, active, wonderful, faithful, learned, difficult, important, obedient, courageous, useful, interesting. **27.** Write the missing forms of the verb swim, whose past participle is swum. **28.** Divide the following sentence into Subject and Predicate: The blue whale is the largest animal on earth. **29.** Choose the correct option to complete the sentence: My mother is \_\_\_\_\_ her sister, choosing from prettier than, most prettiest, or the prettiest. **30.** Fill in the blanks with the correct antonyms, using suitable prefixes, of the words agree and logical: Everyone in the office \_\_\_\_\_ with the most \_\_\_\_\_ suggestion of the manager.
+
+**31.** Add a suitable Predicate to the following Subject: My watch. **32.** Divide the following sentence into Subject and Predicate: This is an amazing place. **33.** Divide the following sentence into Subject and Predicate: The captain along with the players, played well. **34.** Divide the following sentence into Subject and Predicate: Don't leave the place where you are. **35.** Rewrite the following exclamatory sentence as a statement: What a surprise you gave me! **36.** Convert the following interrogative sentence into a statement: Where are the children playing? **37.** Identify the Subject in the following sentence: The singing of birds delights me. **38.** Divide the following sentence into Subject and Predicate: My grandmother tells me interesting stories every evening. **39.** Write the comparative and superlative degrees of the following adjectives: heavy, easy, busy, happy, dry. **40.** Write the missing forms of the verb bring, whose past participle is brought.
+
+**41.** Divide the following sentence into Subject and Predicate: Who broke the mirror? **42.** Choose the correct option to complete the sentence: The Ring Road is \_\_\_\_\_ road in Delhi, choosing from the busiest, more busier, or more busiest. **43.** Fill in the blanks with the correct antonyms, using suitable prefixes, of the words courteous and polite: Gargi's \_\_\_\_\_ and \_\_\_\_\_ conduct at the meeting shocked us all. **44.** Add a suitable Predicate to the following Subject: Green vegetables. **45.** Divide the following sentence into Subject and Predicate: Those notebooks are mine. **46.** Divide the following sentence into Subject and Predicate: You must follow the traffic rules. **47.** Divide the following sentence into Subject and Predicate: The singing of birds delighted us. **48.** Rewrite the following exclamatory sentence as a statement: How loudly she sings! **49.** Convert the following interrogative sentence into a statement: Has he eaten his lunch? **50.** Identify the Subject in the following sentence: Nature is the best physician.
+
+**51.** Divide the following sentence into Subject and Predicate: Be sincere and do your classwork properly. **52.** Write the comparative and superlative degrees of the following adjectives: late, old (relation), fore, many, bad, out, far (movement), good, utter, much, little, far (distance), up, old (age). **53.** Write the missing forms of the verb whose past form is forgot, giving the present and past participle. **54.** Divide the following sentence into Subject and Predicate: Bees make honey. **55.** Choose the correct option to complete the sentence: This painting is \_\_\_\_\_ the first one, choosing from more colourful, the most colourful, or more colourful than. **56.** Fill in the blank with the correct antonym, using a suitable prefix, of the word graced: He has \_\_\_\_\_ his family with his responsible behaviour. **57.** Add a suitable Predicate to the following Subject: A large number of birds flying in the sky. **58.** Divide the following sentence into Subject and Predicate: It is getting hotter day by day. **59.** Divide the following sentence into Subject and Predicate: Bad habits grow unconsciously. **60.** Rewrite the following exclamatory sentence as a statement: What a beautiful painting he made!
+
+**61.** Convert the following interrogative sentence into a statement: Why are the dogs barking? **62.** Divide the following sentence into Subject and Predicate: The stars in the night sky twinkled brightly. **63.** Write the forms of the following verbs: become, come, run, wear, ring, weave, ride, wake, throw, take, rise, tear, swim, see, swear, sew, steal, shake, speak, shrink, sow, sing, sink. **64.** Write the missing forms of the verb whose past form is built, giving the present and past participle. **65.** Divide the following sentence into Subject and Predicate: The weather is very hot today. **66.** Choose the correct option to complete the sentence: Tom is \_\_\_\_\_ boy in the class, choosing from more naughty, the naughtiest, or most naughtiest. **67.** Fill in the blanks with the correct antonyms, using suitable prefixes, of the words rational, popular, and responsible: Her \_\_\_\_\_ views have made her very \_\_\_\_\_ among her colleagues, despite her \_\_\_\_\_ behaviour. **68.** Add a suitable Predicate to the following Subject: The poor old man. **69.** Divide the following sentence into Subject and Predicate: There is a beautiful villa beside the sea which we have planned to visit. **70.** Divide the following sentence into Subject and Predicate: How is the video?
+
+**71.** Divide the following sentence into Subject and Predicate: All the children in the class were excited about the picnic. **72.** Rewrite the following sentence in normal order and then divide it into Subject and Predicate: At the bottom of the river, lay his axe. **73.** Convert the following interrogative sentence into a statement: Who broke the jug? **74.** Write the comparative and superlative degrees of the following adjectives: bad, far, fore, good, little, late, many, much, old, out, utter, up. **75.** Write the missing forms of the verb choose, whose past participle is chosen. **76.** Divide the following sentence into Subject and Predicate: We should exercise every day. **77.** Choose the correct option to complete the sentence: Cinderella is \_\_\_\_\_ fairy tale, choosing from most famous, more famous, or a famous. **78.** Fill in the blank with the correct antonym, using a suitable prefix, of the word sufficient: I think the food will be \_\_\_\_\_ for fifty people. **79.** Add a suitable Predicate to the following Subject: Our school. **80.** Divide the following sentence into Subject and Predicate: Jatin looked at the rainbow in the sky.
+
+**81.** Divide the following sentence into Subject and Predicate: Out of the bush, came out a snake, after rewriting it in normal order. **82.** Divide the following sentence into Subject and Predicate: The child who is playing in the street is my best friend. **83.** Fill in the blank with the correct comparative form of the word cheap: Silver is \_\_\_\_\_ than gold. **84.** Write the missing forms of the verb whose past form is dug, giving the present and past participle. **85.** Divide the following sentence into Subject and Predicate: Painting is my hobby. **86.** Fill in the blank with the correct comparative form of the word young: Subhash is four years \_\_\_\_\_ than me. **87.** Fill in the blank with the correct antonym, using a suitable prefix, of the word patient: Don't be so \_\_\_\_\_. Your turn will arrive soon. **88.** Add a suitable Predicate to the following Subject: The doctor. **89.** Divide the following sentence into Subject and Predicate: Read your lessons now. **90.** Divide the following sentence into Subject and Predicate: A big oak tree stood in a corner of the yard.
+
+**91.** Divide the following sentence into Subject and Predicate: The teacher is explaining the lesson. **92.** Convert the following interrogative sentence into a statement: When will the train arrive at the station? **93.** Fill in the blank with the correct comparative form of the word heavy: Gauri is \_\_\_\_\_ than Meera. **94.** Write the missing forms of the verb awake, whose past participle is awoken. **95.** Add a suitable Subject to the following Predicate: \_\_\_\_\_ is the king of the jungle. **96.** Fill in the blank with the correct comparative form of the word fast: A dog is \_\_\_\_\_ than a human being. **97.** Fill in the blank with the correct antonym, using a suitable prefix, of the word expensive: I shop regularly at this store. Things are \_\_\_\_\_ here. **98.** Add a suitable Predicate to the following Subject: The scenery of Kashmir. **99.** Divide the following sentence into Subject and Predicate: The students of class five are going on a picnic to the zoo tomorrow. **100.** Add a suitable Subject to the following Predicate: \_\_\_\_\_ sells bread, cakes and butter.
+
+**101.** Fill in the blank with the correct comparative form of the word low: A tennis ball is \_\_\_\_\_ than a table-tennis ball. **102.** Write the missing forms of the verb whose past form is caught, giving the present and past participle. **103.** Add a suitable Subject to the following Predicate: \_\_\_\_\_ flies a kite. **104.** Fill in the blank with the correct comparative form of the word faithful: Nanda Devi is \_\_\_\_\_ than Mount Everest. **105.** Fill in the blank with the correct antonym, using a suitable prefix, of the word correct: You need to change the cell. The time on the clock is \_\_\_\_\_. **106.** Add a suitable Predicate to the following Subject: The postman. **107.** Add a suitable Subject to the following Predicate: \_\_\_\_\_ is the capital of India. **108.** Fill in the blank with the correct comparative form of the word comfortable: A sofa is \_\_\_\_\_ than a chair. **109.** Write the missing forms of the verb think, whose past participle is thought. **110.** Add a suitable Subject to the following Predicate: \_\_\_\_\_ is watering the plants.
+
+**111.** Fill in the blank with the correct superlative form of the word important: Our teacher will teach us the \_\_\_\_\_ lesson in the book tomorrow. **112.** Add a suitable Predicate to the following Subject: The train. **113.** Add a suitable Subject to the following Predicate: \_\_\_\_\_ was walking along the road. **114.** Fill in the blank with the correct superlative form of the word comfortable: This is the \_\_\_\_\_ room in the house. **115.** Write the missing forms of the verb whose past and past participle are both watched, giving the present form. **116.** Add a suitable Subject to the following Predicate: \_\_\_\_\_ is made of flour. **117.** Fill in the blank with the correct superlative form of the word interesting: Ronnie is the \_\_\_\_\_ person I have ever met. **118.** Add a suitable Subject to the following Predicate: \_\_\_\_\_ is wearing a pretty dress. **119.** Name the world's highest mountain peak. **120.** Write the missing forms of the verb sing, giving its past and past participle.
+
+**121.** Add a suitable Subject to the following Predicate: \_\_\_\_\_ are afraid of the policeman. **122.** Name the tallest bird. **123.** Add a suitable Subject to the following Predicate: \_\_\_\_\_ grows on vines. **124.** Name Africa's longest river. **125.** Complete the following Subject with a suitable Predicate: The horse \_\_\_\_\_. **126.** Name the largest Indian state in area. **127.** Complete the following Subject with a suitable Predicate: His house \_\_\_\_\_. **128.** Name the smallest bird. **129.** Complete the following Subject with a suitable Predicate: A policeman \_\_\_\_\_. **130.** Rewrite the sentence after correcting the error in it: Priyanka's house is more bigger than mine.
+
+**131.** Complete the following Subject with a suitable Predicate: The clock \_\_\_\_\_. **132.** Rewrite the sentence after correcting the error in it: This is a tallest building in my locality. **133.** Complete the following Subject with a suitable Predicate: The sun \_\_\_\_\_ (rises in the east). **134.** Rewrite the sentence after correcting the error in it: These sweets are the most delicious than others. **135.** Complete the following Subject with a suitable Predicate: We \_\_\_\_\_ (cannot live without food). **136.** Rewrite the sentence after correcting the error in it: Rani sings good than Rita. **137.** Complete the following Subject with a suitable Predicate: Punjab \_\_\_\_\_. **138.** Rewrite the sentence after correcting the error in it: The panda is a rarer animal. **139.** Complete the following Subject with a suitable Predicate: The teacher \_\_\_\_\_. **140.** Rewrite the sentence after correcting the error in it: My grandmother is the most kinder person in our family.
+
+**141.** Complete the following Subject with a suitable Predicate: The sun \_\_\_\_\_ (shines in the sky). **142.** Rewrite the sentence after correcting the error in it: Her pet parrot is the most talkative than mine. **143.** Complete the following Subject with a suitable Predicate: The aeroplane \_\_\_\_\_. **144.** Rewrite the sentence after correcting the error in it: The man's health was becoming bad day by day. **145.** Write the forms of the following verbs: yell, yawn, work, weep, watch, wash, walk, vanish, use, try, tie, think, tell, teach, talk, swing, sweep, study, strike, stick, stay, stand, spin, spend, smell, sleep, sit, shoot, shine, shame, send, sell, search, say, save, rush, relax, quarrel, push, pull, play, pick, pay, obey, neglect, need, miss, meet, mean, marry, mark, march, make, love, look, lose, lock, live, like, light, lie, lend, leave, learn, leap, lead, lay, kick, keep, jump, jog, import, hurry, hope, hold, hear, have, hang, glow, grind, get, flow, fill, find, fight, feel, feed, escape, enter, earn, drown, drop, dream, divide, dig, die, deal, dance, comb, crush, crow, cross, cry, creep, copy, cook, continue, complete, compare, close, change, cause, catch, carry, care, call, brush, bow, book, buy, burn, build, bring, breathe, bind, bend, behave, ask, arrive, arrest, arrange, appear, allow, agree, advise, add, act. **146.** Rewrite the sentence after correcting the error in it: Gandhi was a greatest man. **147.** Write the forms of the following verbs: lie, know, hide, grow, go, give, freeze, forgive, forget, fly, fall, drive, draw, do, choose, break, blow, bite, bid, begin, awake, arise. **148.** Rewrite the sentence after correcting the error in it: Jenny's hair is most longer than Kavita's. **149.** Write the forms of the following verbs: hurt, cut, put, burst, shut, hit, spread, let, quit, cost, rid, split, set. **150.** Divide the following sentence into Subject and Predicate: Here comes the cook, after rewriting it in normal order as The cook comes here.
