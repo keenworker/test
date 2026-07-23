@@ -28,274 +28,331 @@
 
 
 
-## Missing Parts from Forms of Verbs Chapter
+# Class 3 – Semester 1 – Carmel School
+# Subject: Science – Broad Important Questions with Answers
 
-### **Forms of Verbs - Sentence Practice (Present, Past, Past Participle):** Rewrite each sentence in the Present, Past, and Past Participle forms of the verb given in brackets. 
+---
 
-**1.** Poonam (write) a letter to her grandmother.
-**Present Forms:** Poonam writes a letter to her grandmother.
-**Past Forms:** Poonam wrote a letter to her grandmother.
-**Past Participle Forms:** Poonam has written a letter to her grandmother.
+# Chapter 5: Plants in the Surroundings
 
-**2.** The glass (burst) into pieces.
-**3.** The dog (dig) a hole in the garden.
-**4.** She (divide) the sweets among her friends.
-**5.** They (welcome) them in their house.
-**6.** This pen (cost) fifty rupees.
-**7.** The old man (die) peacefully in his sleep.
-**8.** He (dream) about his exam results.
-**9.** They (help) the injured dog.
-**10.** She (cut) the vegetables for dinner.
+## Part 1: Introduction and Main Parts of a Plant
 
+**1.** Why are plants useful to us?
+* **Answer:** Plants are very useful to us because all animals, including human beings, depend on plants for a number of things. Plants provide us with food, fibres, wood, medicines and many other necessities of life.
 
-**11.** The shopkeeper (deal) in fruits and vegetables.
-**12.** She accidentally (drop) the glass on the floor.
-**13.** The ripe fruit (fall) from the tree.
-**14.** The ball (hit) the window.
-**15.** The children (dance) at the school function.
-**16.** The boy nearly (drown) in the swimming pool.
-**17.** Natasha (return) from school.
-**18.** He (hurt) his knee while playing.
-**19.** She (comb) her hair every morning.
-**20.** She (earn) her own money by tutoring.
+**2.** What are the two main parts of a plant?
+* **Answer:** The two main parts of a plant are the root and the shoot.
 
+**3.** How do the parts of a plant work together?
+* **Answer:** All the parts of a plant, such as the root, stem, leaves, flowers, fruits and seeds, work together to help the plant live and grow, just as different body parts of humans and animals perform different functions.
 
-**21.** They (give) me a cricket bat to play with.
-**22.** My mother (let) me go to the park.
-**23.** He (crush) the dry leaves under his feet.
-**24.** He (enter) the room quietly.
-**25.** The priest (bless) the couple after the ceremony.
-**26.** Ravi (put) the books on the shelf.
-**27.** The rooster (crow) early in the morning.
-**28.** The bird (escape) from the cage.
-**29.** Adeeba (apply) for a job in a multinational company.
-**30.** He (quit) his old job.
+## Part 2: The Root and Its Types
 
+**1.** What is the root, and in which direction does it grow?
+* **Answer:** The root is the part of a plant that grows under the soil, and it grows away from sunlight.
 
-**31.** They (cross) the busy road carefully.
-**32.** She (feed) the hungry puppies.
-**33.** He (buy) a pair of binoculars.
-**34.** The doctor (rid) the patient of his fever.
-**35.** The child (cry) for his mother.
-**36.** He (feel) very tired after the match.
-**37.** He (yell) loudly for help.
-**38.** She (set) the table for lunch.
-**39.** The baby (creep) across the floor.
-**40.** The soldiers (fight) bravely for their country.
+**2.** Name the two major types of roots.
+* **Answer:** The two major types of roots are the taproot and the fibrous root.
 
+**3.** Describe a taproot and name any two plants that have it.
+* **Answer:** A taproot has a main root that grows from the base of the stem and produces many smaller lateral roots, and it grows deep into the soil. Beans and mustard are two plants that have taproots.
 
-**41.** The tired boy (yawn) during the lecture.
-**42.** The door (shut) with a loud bang.
-**43.** He (copy) the notes from the board.
-**44.** She (find) her lost pen under the bed.
-**45.** He (work) hard to achieve his goal.
-**46.** He (split) the wood into two pieces.
-**47.** My mother (cook) delicious food every day.
-**48.** He (fill) the bottle with water.
-**49.** The child (weep) after losing his toy.
-**50.** The fire (spread) quickly through the forest.
+**4.** Describe a fibrous root and name any two plants that have it.
+* **Answer:** A fibrous root has a number of fine, branching roots that arise from the end of the stem and spread within the soil. Rice and wheat are two plants that have fibrous roots.
 
+**5.** What are aerial roots, and which plants have them?
+* **Answer:** Aerial roots are roots that grow above the soil instead of under it, unlike the roots of most plants. Banyan and mangrove trees have aerial roots.
 
-**51.** They (continue) the game after the break.
-**52.** The river (flow) through the valley.
-**53.** They (watch) a movie on Sunday.
-**54.** She (become) a doctor after many years of study.
-**55.** She (complete) her project on time.
-**56.** He (get) good marks in the test.
-**57.** She (wash) her hands before eating.
-**58.** My friend (come) to my house every Sunday.
-**59.** He (compare) the two paintings.
-**60.** The mill (grind) wheat into flour.
+## Part 3: Functions of the Root
 
+**1.** How do roots help plants stay firmly in the soil?
+* **Answer:** Roots help plants to firmly attach to the soil, and without roots, plants would not be able to stay in place.
 
-**61.** We (brush) our teeth two times in a day.
-**62.** The children (run) in the playground.
-**63.** She (close) the door quietly.
-**64.** The lamp (glow) softly in the dark room.
-**65.** They (walk) to school every day.
-**66.** He (ride) his bicycle to school.
-**67.** The weather suddenly (change) in the evening.
-**68.** She (hang) the painting on the wall.
-**69.** The scent of the flowers (vanish) after a while.
-**70.** The bell (ring) loudly in the morning.
+**2.** How do roots help in storing food?
+* **Answer:** Roots of some plants, such as carrot, turnip and radish, store food which can be used by the plant, and we can eat such roots.
 
+**3.** How do roots help in absorbing water and minerals?
+* **Answer:** Roots absorb water and minerals from the soil, and these are then sent to different parts of the plant through the stem.
 
-**71.** His careless words (cause) a lot of trouble.
-**72.** They (have) a big house in the city.
-**73.** He (use) a pen to write his answers.
-**74.** The sun (rise) in the east.
-**75.** The cat (catch) the mouse.
-**76.** He (hear) a strange noise at night.
-**77.** She (try) her best in every exam.
-**78.** I (see) a rainbow after the rain.
-**79.** She (carry) a heavy bag to school.
-**80.** She (hold) the baby carefully.
+**4.** How do roots help in preventing soil erosion?
+* **Answer:** Roots bind the soil together firmly, and this prevents the top layer of soil from being carried away by rain or wind, thereby saving the soil from erosion.
 
+## Part 4: The Shoot and the Stem
 
-**81.** He (tie) his shoelaces before the race.
-**82.** The tailor (sew) a new dress for her.
-**83.** A mother (care) for her children.
-**84.** He (hope) to win the competition.
-**85.** She (think) carefully before answering.
-**86.** He (shake) hands with his friend.
-**87.** He (call) his friend on the phone.
-**88.** She (hurry) to catch the school bus.
-**89.** He (tell) an interesting story to his friends.
-**90.** The wool (shrink) after washing.
+**1.** What is the shoot, and what parts does it bear?
+* **Answer:** The shoot is the visible part of the plant that lies above the ground, and it bears the stem, branches, leaves, buds, flowers and fruits. This part grows towards sunlight.
 
+**2.** What is the stem, and what is the trunk?
+* **Answer:** The stem is the main part of the shoot. Trees like mango and banyan have thick and strong stems, and this type of stem is called the trunk.
 
-**91.** She (brush) her teeth twice a day.
-**92.** The company (import) goods from other countries.
-**93.** She (teach) English to small children.
-**94.** The birds (sing) sweetly in the garden.
-**95.** The audience (bow) before the performance began.
-**96.** He (jog) in the park every morning.
-**97.** They (talk) about their school trip.
-**98.** The boat (sink) in the deep sea.
-**99.** She (book) the tickets online.
-**100.** The dog (jump) over the fence.
+**3.** What are herbs and shrubs in terms of their stems?
+* **Answer:** Some plants like coriander have soft and green stems and are called herbs, while some plants like Bougainvillea and Hibiscus have thick woody stems branching close to the ground and are called shrubs.
 
+**4.** What are creepers and climbers?
+* **Answer:** Creepers are plants that creep along the ground, such as watermelon and pumpkin, because they have weak stems. Climbers need support to stand upright and grow properly, since they have weak and thin stems, such as money plant, sweet pea and bitter gourd.
 
-**101.** The children (swing) happily in the park.
-**102.** The farmer (sow) seeds in the field.
-**103.** He (buy) a pair of binoculars.
-**104.** I (keep) the car key in my purse.
-**105.** They (sweep) the courtyard every morning.
-**106.** She (speak) politely to everyone.
-**107.** The candle (burn) brightly all night.
-**108.** He (kick) the ball into the goal.
-**109.** She (study) for her exams every day.
-**110.** The thief (steal) her purse in the market.
+**5.** State the important functions of the stem.
+* **Answer:** The stem supports the branches, leaves and other parts of the plant, carries water and nutrients from the roots to various parts of the plant, and helps in distributing the food made by the leaves throughout the plant.
 
+**6.** How do some stems help in storing food?
+* **Answer:** Some stems store food, and such stems grow underground and are used as vegetables, for example, ginger, turmeric and potato.
 
-**111.** The workers (build) a new house.
-**112.** She (lay) the baby gently on the bed.
-**113.** Lightning (strike) the old tree.
-**114.** He (swear) to tell the truth.
-**115.** Deepa (bring) her history book to class.
-**116.** The captain (lead) the team to victory.
-**117.** The old wheel (stick) in the mud.
-**118.** The boy (swim) across the river.
-**119.** She (breathe) deeply before the race.
-**120.** The dancer (leap) gracefully across the stage.
+## Part 5: The Leaf
 
+**1.** What is the lamina and the midrib of a leaf?
+* **Answer:** The lamina, also called the leaf blade, is the flat, broad part of a leaf. In the centre of the leaf is a main vein called the midrib, which has many branches called side veins that carry water and food.
 
-**121.** They (stay) at their uncle's house during the holidays.
-**122.** She (take) her medicine every day.
-**123.** They (bind) the books together with a string.
-**124.** He (learn) a new language every year.
-**125.** He (stand) at the bus stop for an hour.
-**126.** He (tear) the old newspaper into pieces.
-**127.** He (bend) down to pick up the coin.
-**128.** Anju (leave) the room without switching off the light.
-**129.** The top (spin) round and round.
-**130.** She (throw) the ball to her brother.
+**2.** What are stomata, and what is their function?
+* **Answer:** Stomata are tiny pores present on leaves, and they help the plant to breathe.
 
+**3.** What is photosynthesis?
+* **Answer:** Photosynthesis is the process by which leaves prepare food for the plant, using water, air and sunlight.
 
-**131.** She always (behave) politely with elders.
-**132.** She (lend) her book to her classmate.
-**133.** She (spend) her pocket money on books.
-**134.** He (wake) up early every morning.
-**135.** He (ask) many questions in class.
-**136.** He often (lie) to avoid trouble.
-**137.** He (smell) the flowers in the garden.
-**138.** She (wear) a red dress to the party.
-**139.** The train (arrive) at the station on time.
-**140.** She (light) the candles on the cake.
+**4.** How do leaves help in giving out oxygen?
+* **Answer:** While making food, leaves give out a gas called oxygen, and oxygen is important for the survival of all living organisms.
 
+**5.** How do leaves change into spines in some plants?
+* **Answer:** In some plants, leaves change into spines to conserve water, and spines also protect plants from animals that try to eat them, for example, in cactus.
 
-**141.** She (sleep) late at night.
-**142.** The spider (weave) a beautiful web.
-**143.** The police (arrest) the thief.
-**144.** He (like) to read story books.
-**145.** She (sit) quietly in the classroom.
-**146.** He (arise) early to catch the train.
-**147.** She (arrange) the flowers in a vase.
-**148.** They (live) in a small village.
-**149.** The hunter (shoot) at the target.
-**150.** She (awake) with a start at midnight.
+**6.** What is chlorophyll, and why is it important for leaves?
+* **Answer:** Chlorophyll is a green-coloured pigment present in leaves, and it helps trap sunlight so that leaves can make food in the presence of carbon dioxide and water.
 
+## Part 6: Flowers, Fruits and Seeds
 
-**151.** A rainbow (appear) in the sky after the rain.
-**152.** She (lock) the door before leaving.
-**153.** The moon (shine) brightly in the sky.
-**154.** The teacher (begin) the class on time.
-**155.** Her parents (allow) her to go on the trip.
-**156.** He (lose) his way in the crowded market.
-**157.** His careless act (shame) the whole family.
-**158.** The king (bid) farewell to his guests.
-**159.** They (agree) with the manager's plan.
-**160.** She (look) at the beautiful scenery.
+**1.** What are flowers, and what are their uses?
+* **Answer:** Flowers are the colourful parts of plants that grow from small buds on the stem, and they are of different colours, shapes and sizes. They are used for decoration during festivals and various ceremonies such as marriages.
 
+**2.** What is the main function of flowers?
+* **Answer:** The main function of most flowers is that they change into fruits; buds produce flowers, and after some days, flowers change into fruits.
 
-**161.** She (send) a letter to her cousin.
-**162.** The dog (bite) the postman.
-**163.** The teacher (advise) the students to study hard.
-**164.** Robby (love) his younger brother a lot.
-**165.** He (sell) vegetables in the market.
-**166.** The strong wind (blow) all night.
-**167.** She (add) sugar to the tea.
-**168.** She (make) a card for her friend's birthday.
-**169.** The police (search) the house for clues.
-**170.** He (break) the glass by mistake.
+**3.** What are fruits, and what is their main function?
+* **Answer:** Fruits are the fleshy parts of the plant, and their main function is to protect the seeds present inside them.
 
+**4.** Give examples of fruits with one seed, a few seeds and many seeds.
+* **Answer:** Mango and litchi have only one seed each, apple and grapes have a few seeds each, and watermelon and papaya have many seeds each.
 
-**171.** He (act) bravely during the fire.
-**172.** The soldiers (march) proudly in the parade.
-**173.** He (say) his prayers every night.
-**174.** She (choose) the blue dress for the function.
-**175.** The dog (lie) under the tree in the afternoon.
-**176.** He (mark) the important points in his book.
-**177.** She (save) money for her future.
-**178.** He (do) his homework every evening.
-**179.** She (know) the answer to the question.
-**180.** She (marry) her childhood friend.
+**5.** What are seeds, and what is their main function?
+* **Answer:** Seeds are mostly present inside fruits and differ in shape, size and colour depending on the plant. New plants grow from seeds.
 
+**6.** How are seeds used as food and spices?
+* **Answer:** We eat seeds of plants like gram, wheat, corn, bean and rice, and these seeds are known as edible seeds. Some seeds are also used as spices, such as cumin, mustard, black pepper and fenugreek, which give flavour to food.
 
-**181.** They (rush) to the hospital after the accident.
-**182.** The artist (draw) a beautiful picture.
-**183.** He (hide) the gift behind his back.
-**184.** He (mean) no harm to anyone.
-**185.** He (relax) on the sofa after work.
-**186.** He (drive) the car very carefully.
-**187.** The plant (grow) taller every week.
-**188.** They (meet) at the railway station.
-**189.** The two friends (quarrel) over a small matter.
-**190.** The old tree (fall) during the storm.
+## Part 7: Structure of a Seed
 
+**1.** What is the seed coat, and what is its function?
+* **Answer:** The seed coat is the hard covering of a seed, and it protects the seed from being damaged.
 
-**191.** She (go) to school every day.
-**192.** She (miss) her school bus.
-**193.** She (push) the door open.
-**194.** The bird (fly) high in the sky.
-**195.** He (give) his old toys to the poor children.
-**196.** The plant (need) water every day.
-**197.** He (pull) the rope with all his strength.
-**198.** He (forget) his umbrella at home.
-**199.** The water in the lake (freeze) in winter.
-**200.** He (neglect) his studies during the holidays.
+**2.** What are cotyledons?
+* **Answer:** The seed leaves inside a seed are called cotyledons, and these cotyledons contain all the food supply for the baby plant.
 
+**3.** Differentiate between dicot and monocot seeds.
+* **Answer:** Seeds with two cotyledons are called dicotyledonous or dicot seeds, for example, kidney beans, while seeds with only one cotyledon are called monocotyledonous or monocot seeds, for example, corn seeds.
 
-**201.** The kids (play) in the park every evening.
-**202.** She (forgive) her brother for his mistake.
-**203.** The water in the lake (freeze) in winter.
-**204.** A good child always (obey) his parents.
-**205.** She (pick) up the flowers from the floor.
+**4.** What is the embryo of a seed?
+* **Answer:** The baby plant inside the seed is called the embryo, and the embryo has a shoot and a root; the shoot later grows out of the ground into the stem, while the roots spread under the ground.
 
+## Part 8: Germination
 
-### **Class 5 - ENG1 | Total Marks: 20 | Time: 45 minutes**
+**1.** What is germination, and what conditions are needed for it?
+* **Answer:** Germination is the process by which a seed grows into a young plant or sapling, and a seed grows into a plant only when it gets the right amount of warmth, water and air.
 
-#### Section A (5 Marks)
+**2.** What are sprouts?
+* **Answer:** Newly germinated seeds are called sprouts, and edible sprouts are very healthy to eat.
 
-**1.** Answer the following in one word or a short phrase. **a.** Divide the sentence "Bees make honey" into Subject and Predicate. **b.** Write the comparative degree of the adjective "tall". **c.** Write the past participle form of the verb "choose". **d.** Form the antonym of the word "polite" using a suitable prefix. **e.** Divide the sentence "The teacher is explaining the lesson" into Subject and Predicate.
+**3.** What are the plumule and the radicle?
+* **Answer:** The plumule is the part of the seed that grows upwards and gives rise to the shoot system, while the radicle is the part of the seed that grows downwards and gives rise to the root system.
 
-#### Section B (5 Marks)
+**4.** Why do all seeds sown in the soil not grow into new plants?
+* **Answer:** All seeds sown in soil do not grow into new plants because there is competition for space, food and water, and also because some seeds are eaten up by animals while some get destroyed.
 
-**2.** Complete the following sentences correctly. **a.** Fill in the blank with the correct superlative form: Ronnie is the ___ person I have ever met (interesting). **b.** Rewrite in normal order and divide into Subject and Predicate: Under the tree sat a wise old man. **c.** Fill in the blank with the correct antonym of the word "sufficient" using a suitable prefix: I think the food will be ___ for fifty people. **d.** Write the past and past participle forms of the verb "bring". **e.** Choose the correct option to complete the sentence: A tiger is ___ as a lion, choosing from as ferocious, more ferocious, or most ferocious.
+## Part 9: Care of Plants
 
-#### Section C (5 Marks)
+**1.** Why do plants need sunlight and space to grow well?
+* **Answer:** Plants should get plenty of sunlight, since different plants need different amounts of warmth for growth, and there should be space between any two growing plants, otherwise they will compete for food and other requirements and may not grow healthy.
 
-**3.** Attempt the following questions. **a.** Rewrite the sentence after correcting the error in it: Gandhi was a greatest man. **b.** Add a suitable Subject to the following Predicate: ___ is the king of the jungle. **c.** Write the comparative and superlative degrees of the adjective "busy". **d.** Fill in the blank with the correct antonym of the word "legible" using a suitable prefix: It was difficult to read Timothy's notes since his handwriting was ___. **e.** Write the missing forms of the verb "sing", giving its past and past participle.
+**2.** How should plants be watered, and why does the amount of water vary?
+* **Answer:** Plants should be watered regularly, but the amount of water required by different plants varies; some plants need to be watered more often, while some plants, like cactus, need watering only once every few weeks.
+
+**3.** Why should we add compost, manure and fertilisers to plants?
+* **Answer:** We should add compost, manure and fertilisers to our plants every few months because these substances are added to the soil so that plants get more nutrients.
+
+**4.** What other steps should be taken to care for plants?
+* **Answer:** We should rinse small plants or spray water on plants to clean the dust off them, and we should weed out the unwanted plants from our garden on a regular basis.
+
+---
+
+# Chapter 6: Food We Get from Plants
+
+## Part 1: Types of Plants
+
+**1.** What do we mean by the lifespan of plants?
+* **Answer:** Plants have different lifespans; some plants live for years, while other plants may live for only a few months.
+
+**2.** Name the different types of plants found around us.
+* **Answer:** The different types of plants found around us are trees, shrubs, herbs, climbers and creepers.
+
+**3.** Describe trees and give examples.
+* **Answer:** Trees are big and tall plants that have brown, hard, thick, woody and strong stems called trunks, which are protected by a hard covering called the bark. Gulmohar, Ashoka, banyan and Neem are examples of trees.
+
+**4.** Describe the roots and lifespan of trees.
+* **Answer:** Trees have strong and thick roots that grow very deep into the soil, and trees usually live for many years.
+
+**5.** Describe shrubs and give examples.
+* **Answer:** Shrubs are smaller than trees, grow close to the ground, and have thin, brown and hard stems. Cotton plant, rose plant, Mehndi, Bougainvillea and Hibiscus are examples of shrubs, and most shrubs live for a few years.
+
+**6.** Describe herbs and give examples.
+* **Answer:** Herbs are small and weak plants that have thin, green and soft stems, and most herbs live for only a few months. Mint, coriander, spinach and lotus are examples of herbs.
+
+**7.** Describe creepers and give examples.
+* **Answer:** Creepers are plants that creep along the ground and have big fruits, and these plants have weak stems. Watermelon, pumpkin and bottle gourd are examples of creepers.
+
+**8.** Describe climbers and give examples.
+* **Answer:** Climbers are plants that have weak stems and cannot grow straight, so they take the support of walls, sticks or other plants to climb and grow upwards. Money plant, grapevine and pea plant are examples of climbers.
+
+## Part 2: Food from Plants
+
+**1.** What parts of plants do we eat as fruits and vegetables?
+* **Answer:** We eat fruits of some plants, such as oranges, apples, coconut and cherries, and we eat roots, leaves, stems, flowers and fruits of some plants as vegetables.
+
+**2.** Why should we not waste paper?
+* **Answer:** We should not waste paper because paper comes from trees, and if we waste paper, more trees will have to be cut down to make more paper, so we should try to save trees.
+
+## Part 3: Uses of Plants
+
+**1.** State the important uses of plants in our daily life.
+* **Answer:** Plants are our green friends and are very helpful to us; we get food, medicines, wood, rubber, gum, oils, paper and perfumes from them, and they also keep our surroundings beautiful and keep the air fresh and clean.
+
+**2.** Name the plant parts and the vegetables we get from them.
+* **Answer:** We get radish, carrot and beetroot from roots, potatoes, sugar cane and ginger from stems, broccoli and cauliflower from flowers, cabbage, spinach and mint from leaves, and brinjal, cucumber, bottle gourd and tomato as fruits eaten as vegetables.
+
+**3.** How is cauliflower different from other vegetables that come from flowers?
+* **Answer:** Cauliflower is a vegetable that grows as clusters of flower buds on a stem, and it is technically an edible flower, just like broccoli.
+
+**4.** How are fruits and flowers used to make other food items?
+* **Answer:** The fruits and flowers of some plants are used to make juices, jams, sauces and pickles; for example, mango is used to prepare juice and pickle, apple is used to prepare jam, and tomato is used to prepare sauce.
+
+**5.** What are nuts, and give examples.
+* **Answer:** Nuts are seeds of the plant that we eat, and examples of nuts are walnuts, cashew nuts, almonds, peanuts and pistachio.
+
+**6.** What are food grains, and what are their two types?
+* **Answer:** Food grains are edible seeds of some plants, and they make up the major part of our food. The two types of food grains are cereals, such as wheat, rice and corn, and pulses, such as kidney beans and chickpeas.
+
+**7.** What are spices, and from which parts of plants do they come?
+* **Answer:** Spices are dried seeds, fruits, leaves, roots or barks of some plants that we add to food to make it tastier, and they also give colour and aroma to food; for example, clove comes from a flower bud, cinnamon comes from bark, and ginger comes from a stem.
+
+**8.** How do we get oil from plants, and give examples.
+* **Answer:** We get oil by crushing the seeds of plants that are rich in oil, and we use this oil for cooking, applying on hair and body, and making soaps, shampoos and toothpastes; examples of oils are groundnut oil, coconut oil and mustard oil.
+
+**9.** Where do we get tea, coffee and sugar from?
+* **Answer:** Tea is made from tea leaves, coffee is made from coffee seeds, and we get sugar from sugar cane stems, which is used in making sweets, shakes and ice creams.
+
+**10.** What are medicinal plants, and give examples with their uses.
+* **Answer:** Medicinal plants are plants that give us medicines; for example, Tulsi leaves are used to cure cough and cold, cloves are used to treat toothache, neem is used to cure skin infections and kill germs, and fennel seeds are good for the digestive system.
+
+---
+
+# Chapter 7: Forms of Matter: Solids, Liquids and Gases
+
+## Part 1: Introduction to Matter
+
+**1.** What is matter, and what are its three forms?
+* **Answer:** Matter is anything that has mass and occupies space, and the three forms of matter are solids, liquids and gases.
+
+**2.** How does water show all three forms of matter?
+* **Answer:** Water exists in all three forms of matter; ice is solid, water is liquid and steam is gas.
+
+## Part 2: Forms of Matter in Detail
+
+**1.** What are solids, and give examples?
+* **Answer:** Solids are things that have a fixed shape and size and cannot flow; for example, table, chair, tree and mobile phone.
+
+**2.** What are liquids, and give examples?
+* **Answer:** Liquids are things that do not have a fixed shape but take up a fixed space and can flow easily; for example, milk, juice and water, which take the shape of the container they are kept in.
+
+**3.** What are gases, and give an example?
+* **Answer:** Gases are things that do not have a fixed shape or size and do not take up a fixed space; they flow easily and take up the entire space of the container they are present in, and most gases cannot be seen. Water vapour is an example of a gas, and steam is water vapour.
+
+**4.** Why is sand considered a solid even though it can be poured?
+* **Answer:** Sand can be poured and takes the shape of the container it is kept in, which makes it appear similar to a liquid, but sand is actually a solid.
+
+## Part 3: Uses of Matter
+
+**1.** How is water useful to us as a liquid?
+* **Answer:** Water is a liquid, and many plants and animals live in it; we should drink plenty of water every day to stay healthy.
+
+**2.** Give examples of liquids and solids used during the rainy season.
+* **Answer:** Rain is a liquid, and many of us enjoy the rain; we like to eat pakoras, which are solids, during the monsoon season, and we use an umbrella, which is also a solid, while going out in the rain.
+
+**3.** Give examples of solids that we use in our daily life.
+* **Answer:** Ice is a solid used to make drinks cold, mobile phones and landline phones are solids that we use to call and talk to our family and friends, and pens, pencils and sharpeners are also examples of solids.
+
+---
+
+# Chapter 8: Some Properties of Water
+
+## Part 1: Physical Properties of Water
+
+**1.** Where is water found, and in how many forms does it exist?
+* **Answer:** Water is present almost everywhere, that is, in oceans, seas, lakes, ice caps, as ground water and in the atmosphere. Water exists in three different forms, that is, solid, liquid and gas, and all these forms occupy space.
+
+**2.** Describe water as a solid.
+* **Answer:** Ice is frozen water, and solid water has a fixed shape and size.
+
+**3.** Describe water as a liquid and its uses.
+* **Answer:** Liquid water is the most familiar form of water; it is wet and fluid and does not have a fixed shape or size, since it takes the shape of the container in which it is stored. We use liquid water for drinking, washing, bathing and watering plants.
+
+**4.** Describe water as a gas.
+* **Answer:** Water vapour is water in its gaseous form, and it is present all around us; it does not have a fixed shape or size, and it can flow and take all the space that is available to it.
+
+## Part 2: Change of Forms of Water
+
+**1.** What is melting? Give an example.
+* **Answer:** Melting is the process in which a solid changes into a liquid on heating; for example, on heating, ice melts into water.
+
+**2.** What is evaporation? Give an example.
+* **Answer:** Evaporation is the process in which a liquid changes into vapour, that is, gaseous state, on heating; for example, when water is heated, we can see steam coming out of it.
+
+**3.** What is condensation? Give an example.
+* **Answer:** Condensation is the process in which a gas changes into a liquid on cooling; for example, when we keep ice in a glass, after some time we see water droplets forming on the surface of the glass, as water vapour in the atmosphere condenses on the cool surface.
+
+**4.** What is solidification, and how is freezing related to melting?
+* **Answer:** Solidification is the process in which a liquid changes into a solid on being exposed to freezing; for example, when we pour water into an ice tray and keep it in the freezer, the water changes into ice after some time, and therefore freezing is the reverse of melting.
+
+**5.** What are sublimation and deposition?
+* **Answer:** Sublimation is the conversion of a solid to a gas without converting to a liquid first, while deposition is the direct solidification of vapour by cooling, and it is the reverse of sublimation.
+
+## Part 3: Water and Water Solutions
+
+**1.** What is a solution, and what are its two components?
+* **Answer:** A solution is a mixture in which a solute dissolves in a solvent at a particular temperature; the substance that dissolves is known as the solute, and the substance in which the solute dissolves is known as the solvent, and together they form the solution.
+
+**2.** Give an example of a solute and a solvent forming a solution.
+* **Answer:** When we add salt to water, the water turns salty; here, salt is the solute, water is the solvent, and salty water is the solution formed, and after dissolving in water, salt is no longer visible.
+
+**3.** State the conditions that help a solution form faster.
+* **Answer:** A solution is formed faster if the solvent is heated, if the solute is stirred in the solvent, if the solute is in powdered form or broken into smaller pieces, and if the quantity of solvent is increased.
+
+**4.** Why is water called the universal solvent?
+* **Answer:** Water is called the universal solvent because it is a substance that dissolves most other substances.
+
+## Part 4: Soluble and Insoluble Substances
+
+**1.** What are soluble and insoluble substances?
+* **Answer:** Substances that dissolve in a solvent to form a solution are called soluble substances, while substances that do not dissolve in a solvent to form a solution are called insoluble substances.
+
+## Part 5: Objects that Float or Sink in Water
+
+**1.** Is it true that bigger things sink and smaller things float in water?
+* **Answer:** It is not true that bigger things sink and smaller things float in water; whether an object floats or sinks depends on how much water it displaces compared to its own weight.
+
+**2.** When does an object sink in water?
+* **Answer:** If an object displaces less water than its own weight, it will sink, and things that sink go to the bottom of the water.
+
+**3.** When does an object float in water?
+* **Answer:** If an object displaces more water than its own weight, it will float, and things that float stay on the top of the water.
+
+**4.** Who first explained why some things float and some things sink?
+* **Answer:** It was Archimedes, a Greek scientist, who first explained why some things float and some things sink in water.
 
 #### Section D (5 Marks)
 
