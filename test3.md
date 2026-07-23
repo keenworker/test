@@ -92,8 +92,6 @@ Answer: **Peepal tree**
 **5.** The green-coloured pigment in leaves.
 Answer: **Chlorophyll**
 
----
-
 ### II. Short Answer Questions
 
 **1.** Name the types of roots. Also, give one example of each type.
@@ -119,8 +117,6 @@ c. Seed leaves and embryo - Answer: Seed leaves are called cotyledons which cont
 **7.** Draw and label the structure of monocot and dicot seeds.
 Answer: A dicot seed (example: kidney bean) has two cotyledons, a seed coat, and an embryo with a shoot and root. A monocot seed (example: corn) has only one cotyledon, a seed coat, and an embryo with a shoot and root. (To be drawn and labelled in notebook.)
 
----
-
 ### III. Long Answer Questions
 
 **1.** Differentiate between the types of roots with examples.
@@ -139,8 +135,6 @@ Answer: A dicot seed has a hard outer covering called the seed coat that protect
 Answer: We should make sure plants get plenty of sunlight, leave space between two growing plants, water them regularly, add compost, manure and fertilisers every few months, rinse or spray water to clean dust off them, and weed out unwanted plants regularly.
 
 ---
----
-
 ## Chapter 6: Food We Get from Plants
 
 ### I. Very Short Answer Questions
@@ -234,8 +228,6 @@ Answer: **Jasmine, Sunflower**
 **F. Complete the concept map.**
 Plant Types → Trees (Gulmohar, Apple tree), Shrubs (Mehndi, Rose plant), Herbs (Mint, Spinach), Creepers (Pumpkin, Watermelon), Climbers (Pea plant, Money plant)
 
----
-
 ### II. Short Answer Questions
 
 **1.** Name two trees that you see every day. Can you think of a tree that does not have a thick strong trunk?
@@ -250,8 +242,6 @@ Answer: Some plants like climbers have weak and thin stems and cannot stand upri
 **4.** Name any five vegetables that you like to eat.
 Answer: Potato, Carrot, Spinach, Cauliflower, Brinjal (answers may vary).
 
----
-
 ### III. Long Answer Questions
 
 **1.** Write short notes on:
@@ -263,8 +253,6 @@ c. Medicines from plants - Answer: Some plants called medicinal plants give us m
 Answer: Spices are things we add to food to make it tastier. They come from plants and can be dried seeds, fruits, leaves, roots or bark. They give colour and aroma to food. Examples: Clove is a flower bud, Cinnamon is bark, Cardamom is a fruit with seeds, Ginger and Turmeric are stems.
 
 ---
----
-
 ## Chapter 7: Forms of Matter: Solids, Liquids and Gases
 
 ### I. Very Short Answer Questions
@@ -313,8 +301,6 @@ Answer: **b. Water**
 | Can flow | ✗ | ✓ | ✓ |
 | Can be seen | ✓ | ✓ | ✗ |
 
----
-
 ### II. Short Answer Questions
 
 **1.** Define matter. Name the three different forms of matter.
@@ -322,8 +308,6 @@ Answer: Matter is anything that has mass and occupies space. The three forms of 
 
 **2.** Write any one difference between solids, liquids and gases.
 Answer: Solids have a fixed shape and size and cannot flow, while liquids and gases do not have a fixed shape but take the shape of their container and can flow easily.
-
----
 
 ### III. Long Answer Questions
 
@@ -334,8 +318,6 @@ Answer: Solids are things that have a fixed shape and size and cannot flow, for 
 Answer: Take some water and pour it into a round bowl - it takes the round shape of the bowl. Now pour the same water into a square container - it takes the square shape of that container. This shows that a liquid does not have a fixed shape and flows to take the shape of whatever container holds it.
 
 ---
----
-
 ## Chapter 8: Some Properties of Water
 
 ### I. Very Short Answer Questions
@@ -405,8 +387,6 @@ Answer: **FORM** - A particular state or shape in which something exists (solid,
 **4.** LUBLSOE
 Answer: **SOLUBLE** - A substance that dissolves in a solvent to form a solution.
 
----
-
 ### II. Short Answer Questions
 
 **1.** Name the three forms of water.
@@ -421,8 +401,6 @@ Answer: A solution is a mixture in which a solute dissolves in a solvent at a pa
 **4.** What happens when:
 a. a tray with water is kept in the freezer? - Answer: The water freezes and turns into ice; this process is called solidification/freezing.
 b. a cold plate is kept over a pan of very hot water? - Answer: Water vapour rising from the hot water condenses on the cold plate and forms water droplets; this process is called condensation.
-
----
 
 ### III. Long Answer Questions
 
