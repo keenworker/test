@@ -26,11 +26,13 @@
 
 # MATH- WORKSHEET.md
 
+# MATH- WORKSHEET.md
 
 
-# Chapter 5: Plants in the Surroundings
 
-## Part 1: Introduction and Main Parts of a Plant
+## Chapter 5: Plants in the Surroundings
+
+### Part 1: Introduction and Main Parts of a Plant
 
 **1.** Why are plants useful to us?
 * **Answer:** Plants are very useful to us because all animals, including human beings, depend on plants for a number of things. Plants provide us with food, fibres, wood, medicines and many other necessities of life.
@@ -41,7 +43,7 @@
 **3.** How do the parts of a plant work together?
 * **Answer:** All the parts of a plant, such as the root, stem, leaves, flowers, fruits and seeds, work together to help the plant live and grow, just as different body parts of humans and animals perform different functions.
 
-## Part 2: The Root and Its Types
+### Part 2: The Root and Its Types
 
 **1.** What is the root, and in which direction does it grow?
 * **Answer:** The root is the part of a plant that grows under the soil, and it grows away from sunlight.
@@ -58,7 +60,7 @@
 **5.** What are aerial roots, and which plants have them?
 * **Answer:** Aerial roots are roots that grow above the soil instead of under it, unlike the roots of most plants. Banyan and mangrove trees have aerial roots.
 
-## Part 3: Functions of the Root
+### Part 3: Functions of the Root
 
 **1.** How do roots help plants stay firmly in the soil?
 * **Answer:** Roots help plants to firmly attach to the soil, and without roots, plants would not be able to stay in place.
@@ -72,7 +74,7 @@
 **4.** How do roots help in preventing soil erosion?
 * **Answer:** Roots bind the soil together firmly, and this prevents the top layer of soil from being carried away by rain or wind, thereby saving the soil from erosion.
 
-## Part 4: The Shoot and the Stem
+### Part 4: The Shoot and the Stem
 
 **1.** What is the shoot, and what parts does it bear?
 * **Answer:** The shoot is the visible part of the plant that lies above the ground, and it bears the stem, branches, leaves, buds, flowers and fruits. This part grows towards sunlight.
@@ -92,7 +94,7 @@
 **6.** How do some stems help in storing food?
 * **Answer:** Some stems store food, and such stems grow underground and are used as vegetables, for example, ginger, turmeric and potato.
 
-## Part 5: The Leaf
+### Part 5: The Leaf
 
 **1.** What is the lamina and the midrib of a leaf?
 * **Answer:** The lamina, also called the leaf blade, is the flat, broad part of a leaf. In the centre of the leaf is a main vein called the midrib, which has many branches called side veins that carry water and food.
@@ -112,7 +114,7 @@
 **6.** What is chlorophyll, and why is it important for leaves?
 * **Answer:** Chlorophyll is a green-coloured pigment present in leaves, and it helps trap sunlight so that leaves can make food in the presence of carbon dioxide and water.
 
-## Part 6: Flowers, Fruits and Seeds
+### Part 6: Flowers, Fruits and Seeds
 
 **1.** What are flowers, and what are their uses?
 * **Answer:** Flowers are the colourful parts of plants that grow from small buds on the stem, and they are of different colours, shapes and sizes. They are used for decoration during festivals and various ceremonies such as marriages.
@@ -132,7 +134,7 @@
 **6.** How are seeds used as food and spices?
 * **Answer:** We eat seeds of plants like gram, wheat, corn, bean and rice, and these seeds are known as edible seeds. Some seeds are also used as spices, such as cumin, mustard, black pepper and fenugreek, which give flavour to food.
 
-## Part 7: Structure of a Seed
+### Part 7: Structure of a Seed
 
 **1.** What is the seed coat, and what is its function?
 * **Answer:** The seed coat is the hard covering of a seed, and it protects the seed from being damaged.
@@ -146,7 +148,7 @@
 **4.** What is the embryo of a seed?
 * **Answer:** The baby plant inside the seed is called the embryo, and the embryo has a shoot and a root; the shoot later grows out of the ground into the stem, while the roots spread under the ground.
 
-## Part 8: Germination
+### Part 8: Germination
 
 **1.** What is germination, and what conditions are needed for it?
 * **Answer:** Germination is the process by which a seed grows into a young plant or sapling, and a seed grows into a plant only when it gets the right amount of warmth, water and air.
@@ -160,7 +162,7 @@
 **4.** Why do all seeds sown in the soil not grow into new plants?
 * **Answer:** All seeds sown in soil do not grow into new plants because there is competition for space, food and water, and also because some seeds are eaten up by animals while some get destroyed.
 
-## Part 9: Care of Plants
+### Part 9: Care of Plants
 
 **1.** Why do plants need sunlight and space to grow well?
 * **Answer:** Plants should get plenty of sunlight, since different plants need different amounts of warmth for growth, and there should be space between any two growing plants, otherwise they will compete for food and other requirements and may not grow healthy.
@@ -176,9 +178,9 @@
 
 ---
 
-# Chapter 6: Food We Get from Plants
+## Chapter 6: Food We Get from Plants
 
-## Part 1: Types of Plants
+### Part 1: Types of Plants
 
 **1.** What do we mean by the lifespan of plants?
 * **Answer:** Plants have different lifespans; some plants live for years, while other plants may live for only a few months.
@@ -204,7 +206,7 @@
 **8.** Describe climbers and give examples.
 * **Answer:** Climbers are plants that have weak stems and cannot grow straight, so they take the support of walls, sticks or other plants to climb and grow upwards. Money plant, grapevine and pea plant are examples of climbers.
 
-## Part 2: Food from Plants
+### Part 2: Food from Plants
 
 **1.** What parts of plants do we eat as fruits and vegetables?
 * **Answer:** We eat fruits of some plants, such as oranges, apples, coconut and cherries, and we eat roots, leaves, stems, flowers and fruits of some plants as vegetables.
@@ -212,7 +214,7 @@
 **2.** Why should we not waste paper?
 * **Answer:** We should not waste paper because paper comes from trees, and if we waste paper, more trees will have to be cut down to make more paper, so we should try to save trees.
 
-## Part 3: Uses of Plants
+### Part 3: Uses of Plants
 
 **1.** State the important uses of plants in our daily life.
 * **Answer:** Plants are our green friends and are very helpful to us; we get food, medicines, wood, rubber, gum, oils, paper and perfumes from them, and they also keep our surroundings beautiful and keep the air fresh and clean.
@@ -246,9 +248,9 @@
 
 ---
 
-# Chapter 7: Forms of Matter: Solids, Liquids and Gases
+## Chapter 7: Forms of Matter: Solids, Liquids and Gases
 
-## Part 1: Introduction to Matter
+### Part 1: Introduction to Matter
 
 **1.** What is matter, and what are its three forms?
 * **Answer:** Matter is anything that has mass and occupies space, and the three forms of matter are solids, liquids and gases.
@@ -256,7 +258,7 @@
 **2.** How does water show all three forms of matter?
 * **Answer:** Water exists in all three forms of matter; ice is solid, water is liquid and steam is gas.
 
-## Part 2: Forms of Matter in Detail
+### Part 2: Forms of Matter in Detail
 
 **1.** What are solids, and give examples?
 * **Answer:** Solids are things that have a fixed shape and size and cannot flow; for example, table, chair, tree and mobile phone.
@@ -270,7 +272,7 @@
 **4.** Why is sand considered a solid even though it can be poured?
 * **Answer:** Sand can be poured and takes the shape of the container it is kept in, which makes it appear similar to a liquid, but sand is actually a solid.
 
-## Part 3: Uses of Matter
+### Part 3: Uses of Matter
 
 **1.** How is water useful to us as a liquid?
 * **Answer:** Water is a liquid, and many plants and animals live in it; we should drink plenty of water every day to stay healthy.
@@ -283,9 +285,9 @@
 
 ---
 
-# Chapter 8: Some Properties of Water
+## Chapter 8: Some Properties of Water
 
-## Part 1: Physical Properties of Water
+### Part 1: Physical Properties of Water
 
 **1.** Where is water found, and in how many forms does it exist?
 * **Answer:** Water is present almost everywhere, that is, in oceans, seas, lakes, ice caps, as ground water and in the atmosphere. Water exists in three different forms, that is, solid, liquid and gas, and all these forms occupy space.
@@ -299,7 +301,7 @@
 **4.** Describe water as a gas.
 * **Answer:** Water vapour is water in its gaseous form, and it is present all around us; it does not have a fixed shape or size, and it can flow and take all the space that is available to it.
 
-## Part 2: Change of Forms of Water
+### Part 2: Change of Forms of Water
 
 **1.** What is melting? Give an example.
 * **Answer:** Melting is the process in which a solid changes into a liquid on heating; for example, on heating, ice melts into water.
@@ -316,7 +318,7 @@
 **5.** What are sublimation and deposition?
 * **Answer:** Sublimation is the conversion of a solid to a gas without converting to a liquid first, while deposition is the direct solidification of vapour by cooling, and it is the reverse of sublimation.
 
-## Part 3: Water and Water Solutions
+### Part 3: Water and Water Solutions
 
 **1.** What is a solution, and what are its two components?
 * **Answer:** A solution is a mixture in which a solute dissolves in a solvent at a particular temperature; the substance that dissolves is known as the solute, and the substance in which the solute dissolves is known as the solvent, and together they form the solution.
@@ -330,12 +332,12 @@
 **4.** Why is water called the universal solvent?
 * **Answer:** Water is called the universal solvent because it is a substance that dissolves most other substances.
 
-## Part 4: Soluble and Insoluble Substances
+### Part 4: Soluble and Insoluble Substances
 
 **1.** What are soluble and insoluble substances?
 * **Answer:** Substances that dissolve in a solvent to form a solution are called soluble substances, while substances that do not dissolve in a solvent to form a solution are called insoluble substances.
 
-## Part 5: Objects that Float or Sink in Water
+### Part 5: Objects that Float or Sink in Water
 
 **1.** Is it true that bigger things sink and smaller things float in water?
 * **Answer:** It is not true that bigger things sink and smaller things float in water; whether an object floats or sinks depends on how much water it displaces compared to its own weight.
@@ -349,6 +351,6 @@
 **4.** Who first explained why some things float and some things sink?
 * **Answer:** It was Archimedes, a Greek scientist, who first explained why some things float and some things sink in water.
 
-#### Section D (5 Marks)
+##### Section D (5 Marks)
 
 **4.** Answer the following questions. **a.** Identify the Subject in the sentence: The singing of birds delights me. **b.** Write the comparative and superlative degrees of the irregular adjective "good". **c.** Fill in the blank with the correct antonym of the word "courteous" using a suitable prefix: Gargi's ___ conduct at the meeting shocked us all. **d.** Convert the following interrogative sentence into a statement: Did she complete her work? **e.** Write the present and past participle forms of the verb whose past form is "caught".
