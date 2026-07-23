@@ -28,11 +28,6 @@
 
 
 
-# Class 3 – Semester 1 – Carmel School
-# Subject: Science – Broad Important Questions with Answers
-
----
-
 # Chapter 5: Plants in the Surroundings
 
 ## Part 1: Introduction and Main Parts of a Plant
