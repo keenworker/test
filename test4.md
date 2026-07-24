@@ -23,9 +23,6 @@
 
 ## Class 5 - Science Question Paper | **Total Marks: 40 | Time: 1 Hour**
 
-**General Instructions:**
-All questions are compulsory. Section A carries 10 marks, Section B carries 5 marks, Section C carries 5 marks, Section D carries 5 marks, Section E carries 10 marks, and Section F carries 5 marks. Read all questions carefully before answering.
-
 ### Section A: Fill in the Blanks (10 Marks)
 
 **a)** There are __________ bones in an adult human skeleton. **b)** __________ is defined as abnormal or excessive fat accumulation that increases the risk of health problems. **c)** __________ is a strong, elastic, yellowish or white-coloured tissue present around the joints. **d)** The undigested portion of plant food that helps in digestion is called __________. **e)** The __________ is the longest bone in the body, also known as the thigh bone. **f)** __________ occurs due to the lack of iodine in the diet. **g)** Bones are held together at the joints with the help of __________. **h)** A diet that contains all components of food in the right proportions is called a __________. **i)** The involuntary muscles present inside the walls of the heart are called __________. **j)** __________ is caused due to the deficiency of vitamin C in the diet.
@@ -40,13 +37,9 @@ All questions are compulsory. Section A carries 10 marks, Section B carries 5 ma
 
 ### Section D: Match the Following (5 Marks)
 
-| Column A | Column B |
-|---|---|
-| **1.** Skull | a. Deficiency of iron |
-| **2.** Anaemia | b. Covers and protects the brain |
-| **3.** Carbohydrates | c. Encloses and protects the spinal cord |
-| **4.** Backbone | d. Provides energy to the body |
-| **5.** Cartilage | e. Present around the joints |
+**Column A:** **1.** Skull, **2.** Anaemia, **3.** Carbohydrates, **4.** Backbone, **5.** Cartilage
+
+**Column B:** a. Deficiency of iron, b. Covers and protects the brain, c. Encloses and protects the spinal cord, d. Provides energy to the body, e. Present around the joints
 
 ### Section E: Short Answer Questions (2 Marks Each) (10 Marks)
 
