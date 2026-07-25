@@ -21,7 +21,11 @@
 
 
 
-## Class 3 Carmel Sch - SST: Understanding Changes | **Total Marks: 30 | Time: 1 Hour**
+## Class 3 Carmel Sch - SST: Understanding Changes 
+
+**Total Marks: 30 | Time: 1 Hour**
+
+**Instructions:** All questions are compulsory. Read each question carefully before answering. Marks are indicated against each question.
 
 ### Section A – Multiple Choice Questions (5 × 1 = 5 Marks)
 
