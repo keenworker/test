@@ -21,7 +21,12 @@
 
 
 
-## Class 5 St.Paul's Academy - ENG2 Question Paper | **Total Marks: 40 | Time: 1 Hour**
+## Class 5 St.Paul's Academy - ENG2 Question Paper 
+
+**Total Marks: 40 | Time: 1 Hour**
+
+**Instructions:**
+All questions are compulsory. Read each question carefully before answering. Marks are indicated against each section. Write neatly and number your answers correctly.
 
 ### SECTION A: Multiple Choice Questions (4 Marks)
 
