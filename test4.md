@@ -21,30 +21,79 @@
 
 
 
-## Class 5 - Science Question Paper | **Total Marks: 40 | Time: 1 Hour**
+## Class 5 St.Paul's Academy - ENG2 Question Paper | **Total Marks: 40 | Time: 1 Hour**
 
-### Section A: Fill in the Blanks (10 Marks)
+### SECTION A: Multiple Choice Questions (4 Marks)
 
-**a)** There are __________ bones in an adult human skeleton. **b)** __________ is defined as abnormal or excessive fat accumulation that increases the risk of health problems. **c)** __________ is a strong, elastic, yellowish or white-coloured tissue present around the joints. **d)** The undigested portion of plant food that helps in digestion is called __________. **e)** The __________ is the longest bone in the body, also known as the thigh bone. **f)** __________ occurs due to the lack of iodine in the diet. **g)** Bones are held together at the joints with the help of __________. **h)** A diet that contains all components of food in the right proportions is called a __________. **i)** The involuntary muscles present inside the walls of the heart are called __________. **j)** __________ is caused due to the deficiency of vitamin C in the diet.
+*Choose the correct option for each question.*
 
-### Section B: True or False (5 Marks)
+**1.** Robinson Crusoe was written by (a) William Shakespeare (b) Daniel Defoe (c) Robert Frost (d) Claire Horsburgh **2.** The poet of "Stopping by Woods on a Snowy Evening" was born in (a) London (b) San Francisco (c) New York (d) Manipur **3.** Robinson Crusoe's father worked as a (a) farmer (b) sailor (c) butcher (d) teacher **4.** In the poem, the poet describes the evening as the (a) brightest (b) coldest (c) darkest (d) warmest evening of the year
 
-**a)** The ribcage is made up of 10 pairs of ribs. **b)** Junk food provides complete nutrition to the body. **c)** A ball-and-socket joint allows movement in all directions. **d)** Rickets is caused due to the lack of vitamin A in the diet. **e)** Animals without a backbone are called invertebrates.
+### SECTION B: Fill in the Blanks (4 Marks)
 
-### Section C: Name the Following (5 Marks)
+*Fill in the blanks with appropriate words.*
 
-**a)** The place in the skeleton where two or more bones connect. **b)** The component of food essential for growth and repair of the body. **c)** The thin, chord-like structure that connects bones with muscles. **d)** A condition in which blood sugar levels become too high. **e)** The type of joint that allows only back and forth movements.
+**1.** Daniel Defoe was born in the year **__________**. **2.** Robinson Crusoe built a strong **__________** around his house to keep out wild animals. **3.** The poet says his house is in the **__________** though. **4.** The only other sound in the woods was the **__________** of easy wind and downy flake.
 
-### Section D: Match the Following (5 Marks)
+### SECTION C: Match Column A with Column B (4 Marks)
 
-**Column A:** **1.** Skull, **2.** Anaemia, **3.** Carbohydrates, **4.** Backbone, **5.** Cartilage
+*Match the items in Column A with the correct items in Column B.*
 
-**Column B:** a. Deficiency of iron, b. Covers and protects the brain, c. Encloses and protects the spinal cord, d. Provides energy to the body, e. Present around the joints
+| Column A | Column B |
+|----------|----------|
+| **1.** Stockade | **a.** Leather straps used to control a horse |
+| **2.** Harness | **b.** A flat floating structure |
+| **3.** Raft | **c.** A fence made of wooden posts |
+| **4.** Queer | **d.** Strange |
 
-### Section E: Short Answer Questions (2 Marks Each) (10 Marks)
+### SECTION D: True/False Statements (4 Marks)
 
-**a)** What is the function of the ribcage? **b)** What is a balanced diet? Why is it important? **c)** Differentiate between voluntary and involuntary muscles. **d)** What causes obesity? What are its symptoms? **e)** Mention the different types of movable joints present in our body.
+*State whether the following statements are True or False.*
 
-### Section F: Give Two Examples of the Following (5 Marks)
+**1.** Robinson Crusoe was a good swimmer. **2.** The rider in the poem stopped near a farmhouse. **3.** Robinson Crusoe found gold and silver coins in a wooden box. **4.** The poet's horse was happy to stop in the snowy woods.
 
-**a)** Sources of calcium. **b)** Lifestyle diseases. **c)** Voluntary muscles. **d)** Deficiency diseases. **e)** Food items rich in proteins.
+### SECTION E: Write the Meaning of the Words (4 Marks)
+
+*Give the meaning of the following words.*
+
+**1.** Gigantic **2.** Downy **3.** Resolved **4.** Queer
+
+### SECTION F: Make Sentences (3 Marks)
+
+*Use the following words in sentences of your own.*
+
+**1.** Overboard **2.** Harness **3.** Durable
+
+### SECTION G: Who Said to Whom? (2 Marks)
+
+*Identify the speaker and the listener in the following line.*
+
+**1.** "What use are you to me?"
+
+### SECTION H: Sequencing Events (3 Marks)
+
+*Arrange the following events in the correct order in which they occurred.*
+
+**1.** Robinson Crusoe built a stockade around his house. **2.** Robinson Crusoe found a footprint on the sand. **3.** Robinson Crusoe climbed a tree to spend the night safely.
+
+### SECTION I: Short Answer Questions (4 Marks)
+
+*Answer the following questions briefly.*
+
+**1.** How did Robinson Crusoe discover that he was living on an island? **2.** Why did the horse in the poem think it strange to stop by the woods?
+
+### SECTION J: Reference to Context (4 Marks)
+
+*Read the extracts given below and answer the questions that follow.*
+
+**1.** "I lay down and slept again. The sun was high in the sky when I woke up."
+**a.** Where and when had Robinson Crusoe slept before? **b.** What did he decide to do on waking up?
+
+**2.** "He gives his harness bells a shake, to ask if there is some mistake."
+**a.** Who is the "he" the poet is speaking about? **b.** What is the possible mistake?
+
+### SECTION K: Think & Answer Questions (4 Marks)
+
+*Answer the following questions with your own reasoning.*
+
+**1.** Why did Robinson Crusoe not want the gold coins? Do you think they would have come in useful? **2.** Why do you think the rider stopped by the woods even though he had promises to keep?
