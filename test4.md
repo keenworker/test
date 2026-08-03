@@ -21,63 +21,190 @@
 
 
 
-### Class 5 | St. Xavier's school  
-### Subject: English Language & Literature Question Paper
-**Chapter: The Flint** | **Total Marks: 30** | **Time: 1 Hour**
+# MATH- WORKSHEET.md
 
-*General Instructions: Read all questions carefully before answering. All sections are compulsory. Write neatly and clearly.*
+# MATH- WORKSHEET.md
 
-### Section A — Multiple Choice Questions
-#### (Choose the correct option.) [1 Mark Each | Total: 4 Marks]
+# MATH- WORKSHEET.md
 
-**1.** Which stone in the poem shines as blue as heaven? **A) Emerald**, **B) Ruby**, **C) Sapphire**, **D) Diamond** **2.** Which stone is compared to the colour of blood in the poem? **A) Sapphire**, **B) Opal**, **C) Ruby**, **D) Flint** **3.** What does a flint produce when it is struck against another stone? **A) Water**, **B) Light**, **C) Sound**, **D) Sparks of fire** **4.** What is the central message of the poem "The Flint"? **A) Precious stones are the most valuable things in the world**, **B) Outer beauty is all that matters in life**, **C) Inner value and usefulness are more important than outer beauty**, **D) Fire is more powerful than anything else**
+# MATH- WORKSHEET.md
 
-### Section B — Fill in the Blanks
-#### (Fill in each blank with the correct word.) [½ Mark Each | Total: 3 Marks]
+# MATH- WORKSHEET.md
 
-**1.** An emerald is as green as ___________. **2.** A ruby is as red as ___________. **3.** A sapphire shines as blue as ___________. **4.** A flint lies in the ___________. **5.** A diamond is a ___________ stone. **6.** An opal holds a ___________ spark.
+# MATH- WORKSHEET.md
 
-### Section C — Match Column A with Column B
-#### (Match each item in Column A correctly with Column B.) [½ Mark Each | Total: 2 Marks]
+# MATH- WORKSHEET.md
 
-| Column A | Column B |
-|----------|----------|
-| Emerald | holds a fiery spark |
-| Ruby | shines as blue as heaven |
-| Sapphire | is as green as grass |
-| Opal | is as red as blood |
+# MATH- WORKSHEET.md
 
-### Section D — True or False
-#### (Write T for True and F for False. Correct the statement if it is False.) [½ Mark Each | Total: 2 Marks]
+# MATH- WORKSHEET.md
 
-**1.** A flint is described as shiny and bright in the poem. **2.** The ruby is described as red as blood in the poem. **3.** A sapphire is compared to the colour of fire. **4.** The poem suggests that a flint has a hidden power inside it.
+# MATH- WORKSHEET.md
 
-### Section E — Write the Meaning of the Words
-#### (Write the meaning of the following words in simple language.) [1 Mark Each | Total: 3 Marks]
 
-**1.** Flint **2.** Opal **3.** Fiery
 
-### Section F — Make Sentences
-#### (Use the following words in sentences of your own.) [1 Mark Each | Total: 2 Marks]
 
-**1.** Brilliant **2.** Desire
+# Notebook Content 
 
-### Section G — Short Answer Questions
-#### (Answer each question in 2–3 sentences.) [2 Marks Each | Total: 6 Marks]
+Chapter 9: Light (Pg-101) — Date: 10/7/26
 
-**1.** What is the poet trying to say by comparing the sapphire to the colour of heaven and the flint to the mud? **2.** Why does the world desire a diamond? What makes it so special according to the poem? **3.** How does a flint hold fire, and what makes it more useful than all the precious stones mentioned in the poem?
+**A.1.** Fireflies and some jellyfish also produce their own light.
 
-### Section H — Reference to Context
-#### (Read the extract and answer the questions that follow.) [1 Mark Each | Total: 4 Marks]
+**2.** The main sources of light - natural and man-made.
 
-*"A diamond is a brilliant stone,*
-*To catch the world's desire;*
-*An opal holds a fiery spark;*
-*But a flint holds fire."*
+**3.** Light cannot pass through an opaque object.
 
-**a.** Name the poet of this poem and write the title of the poem. **b.** Why is the diamond called a brilliant stone in this extract? **c.** What does the phrase "to catch the world's desire" mean? **d.** What does the line "But a flint holds fire" tell us about the true value of a flint?
+**4.** Frosted glass is an example of translucent objects.
 
-### Section I — Think and Answer
-#### (Answer each question in 4–5 sentences with your own thoughts.) [2 Marks Each | Total: 4 Marks]
+**5.** Luminous objects give out their own light.
 
-**1.** What does the poem express about the difference between what we want and what we truly need? Use examples from the poem to support your answer. **2.** Which stone from the poem do you like the most and why? Give a reason based on the poem's message.
+---
+
+ Diagram Page
+
+**Light travels in a straight line**
+
+- Candle → book → eye (light blocked by book, so eye cannot see candle directly)
+- Candle → eye (straight line, light reaches eye directly)
+- Candle → obstacle with hole → eye (light passes through hole in straight line)
+
+**Reflection diagram:**
+Incoming ray → strikes surface → Reflected ray → Reflected
+
+---
+
+ Light (Pg-101) — Date: 15/7/26
+
+**CW**
+
+**B.1.** This is not a luminous object →
+(i) moon
+
+**2.** An object that allows only some light to pass through it →
+(iii) translucent object
+
+**3.** An object that gives out light is called a -
+(ii) luminous object
+
+**4.** Light travels in a -
+(ii) straight line
+
+**5.** An opaque object creates a -
+(i) dark shadow
+
+**C. Write True or False:-**
+
+**1.** Moon is a luminous object - False
+
+**2.** Artificial sources of light need an energy source - True
+
+---
+
+ Continuation (True/False)
+
+**3.** We can see light through a bent tube - False
+
+**4.** Clear water is a transparent object - True
+
+**5.** Shadow of an object is shortest in the morning - False
+
+**6.** Transparent objects do not cast shadow - True
+
+---
+
+ CW 17.7.26 — Light Pg-102
+
+**E.1.** Luminous object is an object that gives out light of its own.
+e.g. :- Sun, candle, etc.
+Non-luminous object is an object that does not give out light of its own.
+e.g. :- chair, pen, etc.
+
+**2.** An opaque object does not allow light to pass through it. Whenever this happens, it creates a dark area around the object. This patch where light cannot reach is called shadow.
+
+**3.** The two main sources of light are - natural and artificial. The natural sources of light are Sun, stars, fireflies. The artificial sources of light are tube, bulb, candle.
+
+---
+
+ CW — Light Pg-102 (continued)
+
+**E.4.** The five properties of light are as follows:-
+
+**i)** Light travels in a straight line.
+
+**ii)** Light reflects off smooth, shiny, flat surfaces in a regular reflection pattern.
+
+**iii)** Light reflects off rough, less shiny, uneven surfaces in a diffuse reflection pattern.
+
+**iv)** Light that is not reflected is absorbed.
+
+**v)** Light bends as it passes through water.
+
+**5.** Transparent Objects | Translucent Objects | Opaque Objects
+
+**i)** These objects allow light to pass through them. | These objects allow light to pass through them partly. | These objects do not allow any light to pass.
+
+**ii)** No shadow formed. | Faint shadow formed. | Dark shadow formed.
+
+**iii)** Can be seen through clearly. | Can be seen through partially. | Cannot be seen through it.
+
+---
+
+ CW 29/7/26 — Answers and Question Revision
+
+**A. Write True or False:-**
+
+**1.** Candle is a luminous object.
+→ True
+
+**2.** Light can travel in a curved path.
+→ False
+
+**3.** An opaque object allows light to pass.
+→ False
+
+**4.** Jellyfish is a natural source of light.
+→ True
+
+**B. Classify the following objects into transparent, translucent, and opaque:-**
+
+**1.** spectacle lens
+
+**2.** wind shield
+
+**3.** frosted glass
+
+**4.** cello phone paper
+
+**5.** ORS solution
+
+**6.** chair
+
+**7.** human beings
+
+**8.** rear view mirror
+
+---
+
+ Q.B. Answer Table (Final Classification)
+
+**Transparent**
+
+**1.** spectacle lens
+
+**2.** wind shield
+
+**Translucent**
+
+**3.** frosted glass
+
+**4.** cello phane paper
+
+**5.** ORS solution
+
+**Opaque**
+
+**6.** chair
+
+**7.** human beings
+
+**8.** rear view mirror
