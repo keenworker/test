@@ -52,7 +52,7 @@ Chapter 9: Light (Pg-101) — Date: 10/7/26
 
  Diagram Page
 
-<img width="899" height="1599" alt="WhatsApp Image 2026-08-03 at 10 47 39 PM" src="https://github.com/user-attachments/assets/649ba5de-1516-4b16-a94c-43f62c1d092f" />
+<img width="651" height="633" alt="WhatsApp Image 2026-08-03 at 10 47 39 PM" src="https://github.com/user-attachments/assets/49675f30-3df1-43ec-9a64-59ec4d81c0fc" />
 
 
 **Light travels in a straight line**
