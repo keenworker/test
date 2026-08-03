@@ -52,6 +52,9 @@ Chapter 9: Light (Pg-101) — Date: 10/7/26
 
  Diagram Page
 
+<img width="899" height="1599" alt="WhatsApp Image 2026-08-03 at 10 47 39 PM" src="https://github.com/user-attachments/assets/649ba5de-1516-4b16-a94c-43f62c1d092f" />
+
+
 **Light travels in a straight line**
 
 - Candle → book → eye (light blocked by book, so eye cannot see candle directly)
