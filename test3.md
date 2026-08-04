@@ -21,7 +21,9 @@
 
 # MATH- WORKSHEET.md
 
-## **Class:** III | **Time Allowed:** 1 Hour | COMPUTER | **Maximum Marks:** 30
+## **Class:** III | **Time Allowed:** 1 Hour 
+
+## COMPUTER Question Paper | **Maximum Marks:** 30
 
 #### SECTION A (Objective) — 10 Marks
 
