@@ -27,38 +27,44 @@
 
 # MATH- WORKSHEET.md
 
-## **Class:** III | **Time Allowed:** 1 Hour 
+## **Class:** III | **Time Allowed:** 1 Hour 30 Mins
 
-## COMPUTER Question Paper | **Maximum Marks:** 30
+## COMPUTER Question Paper | **Maximum Marks:** 40
 
-#### SECTION A (Objective) — 10 Marks
+### SECTION A (Objective) — 8 Marks
 
-**1.** Tick the correct option. *(5 x 1 = 5 marks)* 
+**1.** Tick the correct option. *(4 x 2 = 8 marks)* 
 
-**(a)** Icons help to quickly open files or folders by double-clicking them; Taskbar, Icons, or Gadgets. **(b)** There are ______ types of operating systems; two, one, or three. **(c)** ______ mouse pointer is used for pointing and selecting; Busy, Normal, or I-Beam. **(d)** ______ is a word processing software; Calculator, Paint, or Word. **(e)** ______ bar shows the name of the program and document name; Ribbon, Quick Access, or Title. 
+**(a)** A long bar at the bottom of the desktop is called the ______; clock, taskbar, or start button. **(b)** To create a document, select ______ option from the File tab; New, Open, or Save. **(c)** To open a saved file, select ______ option from the File tab; Exit, Close, or Open. **(d)** Word gives a temporary name ______ to a new document; Document1, File1, or New1. 
 
-**2.** Fill in the blanks using the words given below: *(5 x 1 = 5 marks)*  
+### SECTION B (Fill in the Blanks / True-False) — 8 Marks
 
-I-Beam, Microsoft, Icons, Desktop, Delete.
+**2.** Write 'T' for true and 'F' for false. *(4 x 1 = 4 marks)*
 
-**(a)** Windows 10 is an operating system developed by ______. **(b)** On the desktop, the small pictures which represent different programs are called ______. **(c)** ______ is the first screen that appears when you switch ON your computer. **(d)** ______ mouse pointer is used for inserting text in a document. **(e)** To remove the text, press the ______ key. 
+**(a)** Windows 10 allows you to run several programs at the same time. **(b)** Taskbar appears on the Start button. **(c)** Double-headed Arrow is used for moving pictures. **(d)** The Ribbon contains multiple tabs. 
 
-#### SECTION B (Short and Long Answer) — 12 Marks
+**3.** Fill in the blanks using the words given below: *(4 x 1 = 4 marks)* 
 
-**3.** Answer the following in one or two sentences. *(6 x 1 = 6 marks)* 
+Zoom slider, Window control buttons, Status bar, File tab. 
 
-**(a)** Write the names of any two components of the Windows 10 desktop. **(b)** What is the use of the busy shape of a mouse pointer? **(c)** What is a screen saver? **(d)** Write any one use of Word. **(e)** Name any three components of the Word window. **(f)** Write one difference between inserting text and deleting text. 
+**(a)** Print option is present under the ______. **(b)** The ______ shows the detailed information of the document. **(c)** ______ are used to minimise, maximise or restore and close the window. **(d)** The ______ is used to enlarge and reduce the size of the window. 
 
-**4.** Answer the following in detail. *(3 x 2 = 6 marks)* 
+### SECTION C (Short and Long Answer) — 14 Marks
 
-**(a)** How do you shut down a computer? **(b)** What is the difference between GUI and CUI? **(c)** Write the steps to sort the desktop icons. 
+**4.** Answer the following in one or two sentences. *(4 x 1 = 4 marks)*
 
-#### SECTION C (Application-Based and Higher Order Thinking) — 8 Marks
+**(a)** What is a screen saver? **(b)** Write any one use of Word. **(c)** Name any three components of the Word window. **(d)** Write the names of any two components of the Windows 10 desktop. 
 
-**5.** Application-based questions. *(4 x 1 = 4 marks)* 
+**5.** Answer the following in detail. *(5 x 2 = 10 marks)*
 
-**(a)** Nitin is working on a computer and wants to have a pattern or animation displayed on the screen when the computer remains unused for a certain period. What feature can he use to do this? **(b)** You have a lot of icons on your desktop, and they are becoming difficult to find. Which option will you use to organise them? **(c)** Gaurav wants to find out how many pages are in his Word document, without scrolling through the entire document. Which component in the Word window can display the total number of pages? **(d)** Your friend Nitin is writing a letter and needs to start a new paragraph after completing the first one, but he has forgotten which key to press. Which key should he use? 
+**(a)** How do you create a new document in Word 2016? **(b)** Write the steps to open a saved document in Word 2016. **(c)** How will you save a file in Word 2016? **(d)** Write the steps to sort the desktop icons. **(e)** What is the difference between GUI and CUI? 
 
-**6.** Higher Order Thinking Skills. *(4 x 1 = 4 marks)* 
+### SECTION D (Application-Based and Higher Order Thinking) — 10 Marks
 
-**(a)** You start a computer and the Windows 10 Desktop appears on the screen. Then you click on a small graphical representation of This PC to open it. What is this small graphical representation called? **(b)** You are working on the computer. Your father asked you what time it is. Where, on the computer, will you look to tell him the current time? **(c)** Surveen is your friend. She saw some words written below the quick access toolbar, such as Home, Insert, Design, Layout, etc. She asked you, "what are these?" What will you answer her? **(d)** As a homework, you have to write a story in Word and submit a printout of it the next day. How will you take the printout of it? 
+**6.** Application-based questions. *(3 x 2 = 6 marks)* 
+
+**(a)** Nitin is working on a computer and wants to have a pattern or animation displayed on the screen when the computer remains unused for a certain period. What feature can he use to do this? **(b)** You have a lot of icons on your desktop, and they are becoming difficult to find. Which option will you use to organise them? **(c)** Your friend Nitin is writing a letter and needs to start a new paragraph after completing the first one, but he has forgotten which key to press. Which key should he use? 
+
+**7.** Higher Order Thinking Skills. *(2 x 2 = 4 marks)*
+
+ **(a)** You start a computer and the Windows 10 Desktop appears on the screen. Then you click on a small graphical representation of This PC to open it. What is this small graphical representation called? **(b)** Surveen is your friend. She saw some words written below the quick access toolbar, such as Home, Insert, Design, Layout, etc. She asked you, "what are these?" What will you answer her? 
