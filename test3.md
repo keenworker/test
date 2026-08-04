@@ -20,12 +20,6 @@
 # MATH- WORKSHEET.md
 
 # MATH- WORKSHEET.md
-# MATH- WORKSHEET.md
-
-# MATH- WORKSHEET.md
-
-# MATH- WORKSHEET.md
-# MATH- WORKSHEET.md
 
 ## **Class:** III | **Time Allowed:** 1 Hour | COMPUTER | **Maximum Marks:** 30
 
