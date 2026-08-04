@@ -27,170 +27,23 @@
 
 
 
-# Notebook Content 
+**Class:** III **Time Allowed:** 1 Hour
+## COMPUTER SCIENCE Question Paper | **Maximum Marks:** 30
 
-Chapter 9: Light (Pg-101) — Date: 10/7/26
+#### SECTION A (Objective) — 10 Marks
 
-**A.1.** Fireflies and some jellyfish also produce their own light.
+**1.** Tick the correct option. **(a)** Icons help to quickly open files or folders by double-clicking them; Taskbar, Icons, or Gadgets. **(b)** There are ______ types of operating systems; two, one, or three. **(c)** ______ mouse pointer is used for pointing and selecting; Busy, Normal, or I-Beam. **(d)** ______ is a word processing software; Calculator, Paint, or Word. **(e)** ______ bar shows the name of the program and document name; Ribbon, Quick Access, or Title. *(5 x 1 = 5 marks)*
 
-**2.** The main sources of light - natural and man-made.
+**2.** Fill in the blanks using the words given below: I-Beam, Microsoft, Icons, Desktop, Delete. **(a)** Windows 10 is an operating system developed by ______. **(b)** On the desktop, the small pictures which represent different programs are called ______. **(c)** ______ is the first screen that appears when you switch ON your computer. **(d)** ______ mouse pointer is used for inserting text in a document. **(e)** To remove the text, press the ______ key. *(5 x 1 = 5 marks)*
 
-**3.** Light cannot pass through an opaque object.
+#### SECTION B (Short and Long Answer) — 12 Marks
 
-**4.** Frosted glass is an example of translucent objects.
+**3.** Answer the following in one or two sentences. **(a)** Write the names of any two components of the Windows 10 desktop. **(b)** What is the use of the busy shape of a mouse pointer? **(c)** What is a screen saver? **(d)** Write any one use of Word. **(e)** Name any three components of the Word window. **(f)** Write one difference between inserting text and deleting text. *(6 x 1 = 6 marks)*
 
-**5.** Luminous objects give out their own light.
+**4.** Answer the following in detail. **(a)** How do you shut down a computer? **(b)** What is the difference between GUI and CUI? **(c)** Write the steps to sort the desktop icons. *(3 x 2 = 6 marks)*
 
----
+#### SECTION C (Application-Based and Higher Order Thinking) — 8 Marks
 
- Diagram Page
+**5.** Application-based questions. **(a)** Nitin is working on a computer and wants to have a pattern or animation displayed on the screen when the computer remains unused for a certain period. What feature can he use to do this? **(b)** You have a lot of icons on your desktop, and they are becoming difficult to find. Which option will you use to organise them? **(c)** Gaurav wants to find out how many pages are in his Word document, without scrolling through the entire document. Which component in the Word window can display the total number of pages? **(d)** Your friend Nitin is writing a letter and needs to start a new paragraph after completing the first one, but he has forgotten which key to press. Which key should he use? *(4 x 1 = 4 marks)*
 
-<img width="651" height="633" alt="WhatsApp Image 2026-08-03 at 10 47 39 PM" src="https://github.com/user-attachments/assets/49675f30-3df1-43ec-9a64-59ec4d81c0fc" />
-
-
-**Light travels in a straight line**
-
-- Candle → book → eye (light blocked by book, so eye cannot see candle directly)
-- Candle → eye (straight line, light reaches eye directly)
-- Candle → obstacle with hole → eye (light passes through hole in straight line)
-
-**Reflection diagram:**
-Incoming ray → strikes surface → Reflected ray → Reflected
-
----
-
- Light (Pg-101) — Date: 15/7/26
-
-**CW**
-
-**B.1.** This is not a luminous object →
-(i) moon
-
-**2.** An object that allows only some light to pass through it →
-(iii) translucent object
-
-**3.** An object that gives out light is called a -
-(ii) luminous object
-
-**4.** Light travels in a -
-(ii) straight line
-
-**5.** An opaque object creates a -
-(i) dark shadow
-
-**C. Write True or False:-**
-
-**1.** Moon is a luminous object - False
-
-**2.** Artificial sources of light need an energy source - True
-
----
-
- Continuation (True/False)
-
-**3.** We can see light through a bent tube - False
-
-**4.** Clear water is a transparent object - True
-
-**5.** Shadow of an object is shortest in the morning - False
-
-**6.** Transparent objects do not cast shadow - True
-
----
-
- CW 17.7.26 — Light Pg-102
-
-**E.1.** Luminous object is an object that gives out light of its own.
-e.g. :- Sun, candle, etc.
-Non-luminous object is an object that does not give out light of its own.
-e.g. :- chair, pen, etc.
-
-**2.** An opaque object does not allow light to pass through it. Whenever this happens, it creates a dark area around the object. This patch where light cannot reach is called shadow.
-
-**3.** The two main sources of light are - natural and artificial. The natural sources of light are Sun, stars, fireflies. The artificial sources of light are tube, bulb, candle.
-
----
-
- CW — Light Pg-102 (continued)
-
-**E.4.** The five properties of light are as follows:-
-
-**i)** Light travels in a straight line.
-
-**ii)** Light reflects off smooth, shiny, flat surfaces in a regular reflection pattern.
-
-**iii)** Light reflects off rough, less shiny, uneven surfaces in a diffuse reflection pattern.
-
-**iv)** Light that is not reflected is absorbed.
-
-**v)** Light bends as it passes through water.
-
-**5.** Transparent Objects | Translucent Objects | Opaque Objects
-
-**i)** These objects allow light to pass through them. | These objects allow light to pass through them partly. | These objects do not allow any light to pass.
-
-**ii)** No shadow formed. | Faint shadow formed. | Dark shadow formed.
-
-**iii)** Can be seen through clearly. | Can be seen through partially. | Cannot be seen through it.
-
----
-
- CW 29/7/26 — Answers and Question Revision
-
-**A. Write True or False:-**
-
-**1.** Candle is a luminous object.
-→ True
-
-**2.** Light can travel in a curved path.
-→ False
-
-**3.** An opaque object allows light to pass.
-→ False
-
-**4.** Jellyfish is a natural source of light.
-→ True
-
-**B. Classify the following objects into transparent, translucent, and opaque:-**
-
-**1.** spectacle lens
-
-**2.** wind shield
-
-**3.** frosted glass
-
-**4.** cello phone paper
-
-**5.** ORS solution
-
-**6.** chair
-
-**7.** human beings
-
-**8.** rear view mirror
-
----
-
- Q.B. Answer Table (Final Classification)
-
-**Transparent**
-
-**1.** spectacle lens
-
-**2.** wind shield
-
-**Translucent**
-
-**3.** frosted glass
-
-**4.** cello phane paper
-
-**5.** ORS solution
-
-**Opaque**
-
-**6.** chair
-
-**7.** human beings
-
-**8.** rear view mirror
+**6.** Higher Order Thinking Skills. **(a)** You start a computer and the Windows 10 Desktop appears on the screen. Then you click on a small graphical representation of This PC to open it. What is this small graphical representation called? **(b)** You are working on the computer. Your father asked you what time it is. Where, on the computer, will you look to tell him the current time? **(c)** Surveen is your friend. She saw some words written below the quick access toolbar, such as Home, Insert, Design, Layout, etc. She asked you, "what are these?" What will you answer her? **(d)** As a homework, you have to write a story in Word and submit a printout of it the next day. How will you take the printout of it? *(4 x 1 = 4 marks)*
