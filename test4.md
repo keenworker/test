@@ -22,16 +22,10 @@
 
 
 
-## CLASS 5 - SST QUESTION PAPER
+## CLASS 5 - SST QUESTION PAPER | St.Paul's Academy
 ### Semester 1 Examination
 
 **Maximum Marks: 30** | **Time Allowed: 1 Hour**
-
-#### General Instructions:
-- All questions are compulsory.
-- Read each question carefully before answering.
-- Write answers in the space provided.
-- Marks for each section are indicated against it.
 
 ### SECTION A — FILL IN THE BLANKS
 *(5 Marks)*
