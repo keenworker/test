@@ -23,7 +23,7 @@
 
 
 ## CLASS 5 - SST QUESTION PAPER | St.Paul's Academy
-### Semester 1 Examination
+### TERM 1 EXAMINATION
 
 **Maximum Marks: 30** | **Time Allowed: 1 Hour**
 
