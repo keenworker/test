@@ -69,7 +69,9 @@
 
 **68.** The product of two numbers is 2144. If one number is 16, find the other number. **69.** Which number when multiplied by 7 gives 1001 as the product? **70.** By which number should 667 be divided to get 23 as the quotient? **71.** A number when divided by 38 gives the quotient 119. Find the number.
 
-**72.** Simplify: 8 + 12 - 6 x 2. **73.** Simplify: 4 x 5 + 30 ÷ 5. **74.** Simplify: 14 + 7 x 2 - 16 ÷ 2. **75.** Simplify: 20 x 5 - 100 ÷ 100. **76.** Simplify: 39 - 0 + 5 x 999.
+**72.** Simplify: 8 + 12 - 6 x 2. **73.** Simplify: 4 x 5 + 30 ÷ 5. **74.** Simplify: 14 + 7 x 2 - 16 ÷ 2. 
+
+**75.** Simplify: 20 x 5 - 100 ÷ 100. **76.** Simplify: 39 - 0 + 5 x 999.
 
 **77.** The product of two 3-digit numbers cannot be more than how many digits? Explain using the rule (digits of first number + digits of second number). **78.** Build the target number 22 using the numbers 2, 4 and 6 with a combination of operations. **79.** Build the target number 13 using the numbers 2, 4 and 5 with a combination of operations. **80.** Which number when multiplied by 13 gives 1820 as the product?
 
