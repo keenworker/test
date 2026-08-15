@@ -21,10 +21,9 @@
 
 # MATH- WORKSHEET.md
 
-## COMPUTER - CLASS 5 EXAMINATION - St. Paul's
+## COMPUTER - CLASS 5 EXAMINATION - St. Paul's - Computer
 
-**Maximum Marks: 40**
-**Time Allowed: 1 Hour**
+**Evolution of Computers** | **Maximum Marks: 40**| **Time Allowed: 1 Hour**
 
 ### **SECTION A — MULTIPLE CHOICE QUESTIONS (1 × 6 = 6 Marks)**
 
