@@ -23,7 +23,7 @@
 
 ## COMPUTER - CLASS 5 EXAMINATION - St. Paul's - Computer
 
-**Evolution of Computers** | **Maximum Marks: 40**| **Time Allowed: 1 Hour**
+**Evolution of Computers** | **Maximum Marks: 40** | **Time Allowed: 1 Hour**
 
 **General Instructions:**
 This paper is divided into five sections — A, B, C, D and E. Section A contains Multiple Choice Questions. Section B contains Fill in the Blanks. Section C contains True/False Questions. Section D and E contain Short and Long Answer Questions. All questions are compulsory. Marks are indicated against each section.
