@@ -19,10 +19,9 @@
 
 # MATH- WORKSHEET.md
 
-
 ## COMPUTER - CLASS 5 EXAMINATION - St. Paul's - Computer
 
-**Advanced Features of Word 2019** | **Maximum Marks: 40**| **Time Allowed: 1 Hour**
+**Working on Slides** | **Maximum Marks: 40**| **Time Allowed: 1 Hour**
 
 **General Instructions:**
 This paper is divided into five sections — A, B, C, D and E. Section A contains Multiple Choice Questions. Section B contains Fill in the Blanks. Section C contains True/False Questions. Section D and E contain Short and Long Answer Questions. All questions are compulsory. Marks are indicated against each section.
@@ -31,28 +30,28 @@ This paper is divided into five sections — A, B, C, D and E. Section A contain
 
 **Tick (✓) the correct option.**
 
-**1.** The default page margin in a Microsoft Word document is (a) 1 inch (b) 2 inches (c) 0.5 inch. **2.** The default page orientation in Microsoft Word is (a) Portrait (b) Landscape (c) Square. **3.** The default page size of a document in Word is (a) A4 (b) Letter (c) Legal. **4.** By default, a Microsoft Word document is set in (a) One column (b) Two columns (c) Three columns. **5.** The default line spacing in Word is (a) 1.15 (b) 2.0 (c) 1.5. **6.** Which type of indent allows the text to extend into the margins? (a) Positive Indent (b) Negative Indent (c) Hanging Indent. **7.** The keyboard shortcut to preview a mail merge is (a) Alt+Shift+K (b) Ctrl+M (c) Alt+Shift+M. **8.** In mail merge, the data source contains (a) common text (b) varying information like names and addresses (c) page numbers.
+**1.** The keyboard shortcut for Bold is (a) Ctrl+B (b) Ctrl+I (c) Ctrl+U. **2.** Which group is used to change the style, size, and color of text? (a) Font (b) Paragraph (c) Illustrations. **3.** The Text Box option is found in which group? (a) Drawing (b) Images (c) Illustrations. **4.** The WordArt option is found under which tab? (a) Home (b) Insert (c) Design. **5.** The keyboard shortcut for Center alignment is (a) Ctrl+E (b) Ctrl+L (c) Ctrl+R. **6.** Which option is used to create an ordered list? (a) Bullets (b) Numbering (c) Underline. **7.** The Shapes option is found in which group? (a) Images (b) Illustrations (c) Text. **8.** The Pictures option is found in which group? (a) Images (b) Illustrations (c) Drawing.
 
 ### **SECTION B — FILL IN THE BLANKS (1 × 8 = 8 Marks)**
 
 **Fill in the blanks with appropriate words.**
 
-**1.** ______ is the amount of white space on all four sides of a page between the text and the edge. **2.** In ______ orientation, the document is printed horizontally across the page. **3.** A ______ sends text after the cursor to the beginning of the next column. **4.** The ______ indent is a little inwards from the first line of the text. **5.** ______ spacing refers to the amount of white space between paragraphs. **6.** A ______ is a light and faded image that appears behind the main content of a document. **7.** The ______ contains the common text and special fields that will be replaced with information from the data source. **8.** ______ is the process of combining the addresses of the recipients with the letter.
+**1.** ______ are pre-defined placeholder areas on slides that show default text such as "Click to add title". **2.** ______ means changing the style, size, and color of the text. **3.** The keyboard shortcut for Italic is ______. **4.** ______ is used to align the text to the right of the page. **5.** The keyboard shortcut for Justify is ______. **6.** ______ opens a gallery of special or decorative effects for the text. **7.** A ______ is required to enter text in an area other than the default placeholders. **8.** The ______ group contains the option to insert pictures on a slide.
 
 ### **SECTION C — TRUE OR FALSE (1 × 6 = 6 Marks)**
 
 **Write T for True and F for False.**
 
-**1.** The default page margin in Microsoft Word is 2 inches. **2.** Portrait orientation prints the document vertically across the page. **3.** A column break sends text to the next page. **4.** A positive indent makes the text area narrower than the space between the margins. **5.** A watermark appears in front of the main content of a document. **6.** The data source in mail merge contains varying information such as names and addresses.
+**1.** Underline inserts a line above the text. **2.** The Paragraph group is available in the Insert tab. **3.** Bullets are used to create ordered lists. **4.** A text box allows the user to enter text outside the default placeholders. **5.** On inserting a picture, the Format tab appears. **6.** The Home tab contains options to insert shapes.
 
 ### **SECTION D — SHORT ANSWER QUESTIONS (2 × 5 = 10 Marks)**
 
 **Answer the following questions.**
 
-**1.** What is page formatting? **2.** Explain the difference between Portrait and Landscape orientation. **3.** What is the difference between paragraph spacing and line spacing? **4.** What information is typically included in headers and footers? **5.** Name the three main components of the mail merge process.
+**1.** What is the purpose of formatting text in presentations? **2.** Explain the difference between Bullets and Numbering. **3.** How do you insert a text box in a PowerPoint slide? **4.** What is WordArt and why is it used? **5.** How do you insert a picture in a PowerPoint slide?
 
 ### **SECTION E — LONG ANSWER QUESTIONS (4 × 2 = 8 Marks)**
 
 **Answer the following questions.**
 
-**1.** Explain the steps to add a watermark to a Word document. **2.** Explain the three types of indentation, along with an example of when each is used.
+**1.** Explain the steps to insert a shape in a PowerPoint presentation, and name any three types of shapes available. **2.** Explain any four commands available in the Font group of the Home tab, along with their use.
