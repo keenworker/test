@@ -22,7 +22,7 @@
 
 ## COMPUTER - CLASS 5 EXAMINATION - St. Paul's - Computer
 
-**Evolution of Computers** | **Maximum Marks: 40** | **Time Allowed: 1 Hour**
+**Advanced Features of Word 2019** | **Maximum Marks: 40**| **Time Allowed: 1 Hour**
 
 **General Instructions:**
 This paper is divided into five sections — A, B, C, D and E. Section A contains Multiple Choice Questions. Section B contains Fill in the Blanks. Section C contains True/False Questions. Section D and E contain Short and Long Answer Questions. All questions are compulsory. Marks are indicated against each section.
@@ -31,28 +31,28 @@ This paper is divided into five sections — A, B, C, D and E. Section A contain
 
 **Tick (✓) the correct option.**
 
-**1.** The Abacus is believed to have been invented between (a) 2700 and 2300 BC (b) 1700 and 1800 AD (c) 1900 and 2000 AD. **2.** The Pascaline was invented by (a) Blaise Pascal (b) Gottfried Wilhelm Von Leibniz (c) Charles Babbage. **3.** Charles Babbage built the Difference Engine in the year (a) 1822 (b) 1837 (c) 1673. **4.** The world's first computer programmer was (a) Ada Lovelace (b) Herman Hollerith (c) Charles Babbage. **5.** The Tabulating Machine was developed by (a) Herman Hollerith (b) Blaise Pascal (c) Charles Babbage. **6.** The first-generation computers used (a) Vacuum tubes (b) Transistors (c) Integrated circuits as the main electronic component. **7.** The second-generation computers used which language for programming? (a) Machine language (b) Assembly language (c) High level language. **8.** VLSI stands for (a) Very Large Scale Integrated (b) Very Large Silicon Integration (c) Variable Large Scale Integration.
+**1.** The default page margin in a Microsoft Word document is (a) 1 inch (b) 2 inches (c) 0.5 inch. **2.** The default page orientation in Microsoft Word is (a) Portrait (b) Landscape (c) Square. **3.** The default page size of a document in Word is (a) A4 (b) Letter (c) Legal. **4.** By default, a Microsoft Word document is set in (a) One column (b) Two columns (c) Three columns. **5.** The default line spacing in Word is (a) 1.15 (b) 2.0 (c) 1.5. **6.** Which type of indent allows the text to extend into the margins? (a) Positive Indent (b) Negative Indent (c) Hanging Indent. **7.** The keyboard shortcut to preview a mail merge is (a) Alt+Shift+K (b) Ctrl+M (c) Alt+Shift+M. **8.** In mail merge, the data source contains (a) common text (b) varying information like names and addresses (c) page numbers.
 
 ### **SECTION B — FILL IN THE BLANKS (1 × 8 = 8 Marks)**
 
 **Fill in the blanks with appropriate words.**
 
-**1.** The ______ was designed by Herman Hollerith to process data from the 1890 US Census. **2.** Charles Babbage is popularly known as ______. **3.** The ______ generation computers used magnetic core memory, which was faster and less expensive than vacuum tubes. **4.** ______ circuits replaced transistors in the third generation of computers, increasing speed and efficiency. **5.** The fifth-generation computers use ______ technology, which helps computers think like human beings. **6.** ______ are the most powerful and fastest computers, used for complex scientific calculations. **7.** ______ are large, high-performance computers commonly used in banks and universities for critical applications. **8.** A computer does not have ______ since it is a machine and cannot do anything on its own.
+**1.** ______ is the amount of white space on all four sides of a page between the text and the edge. **2.** In ______ orientation, the document is printed horizontally across the page. **3.** A ______ sends text after the cursor to the beginning of the next column. **4.** The ______ indent is a little inwards from the first line of the text. **5.** ______ spacing refers to the amount of white space between paragraphs. **6.** A ______ is a light and faded image that appears behind the main content of a document. **7.** The ______ contains the common text and special fields that will be replaced with information from the data source. **8.** ______ is the process of combining the addresses of the recipients with the letter.
 
 ### **SECTION C — TRUE OR FALSE (1 × 6 = 6 Marks)**
 
 **Write T for True and F for False.**
 
-**1.** The Abacus has two sections called Heaven and Earth. **2.** The Leibniz Calculator could perform only addition and subtraction. **3.** Second-generation computers used magnetic core memory for storage. **4.** Fourth-generation computers used ULSI technology. **5.** Minicomputers are more powerful than mainframe computers. **6.** Heuristics is the ability to learn from past mistakes, and computers are capable of this.
+**1.** The default page margin in Microsoft Word is 2 inches. **2.** Portrait orientation prints the document vertically across the page. **3.** A column break sends text to the next page. **4.** A positive indent makes the text area narrower than the space between the margins. **5.** A watermark appears in front of the main content of a document. **6.** The data source in mail merge contains varying information such as names and addresses.
 
 ### **SECTION D — SHORT ANSWER QUESTIONS (2 × 5 = 10 Marks)**
 
 **Answer the following questions.**
 
-**1.** What is Pascaline? Who invented it? **2.** Name the five generations of computers along with their approximate time periods. **3.** What are the main features of the fourth-generation computers? **4.** Differentiate between supercomputers and mainframe computers. **5.** State any two limitations of computers.
+**1.** What is page formatting? **2.** Explain the difference between Portrait and Landscape orientation. **3.** What is the difference between paragraph spacing and line spacing? **4.** What information is typically included in headers and footers? **5.** Name the three main components of the mail merge process.
 
 ### **SECTION E — LONG ANSWER QUESTIONS (4 × 2 = 8 Marks)**
 
 **Answer the following questions.**
 
-**1.** Explain the contribution of Charles Babbage and Ada Lovelace to the evolution of computers. **2.** Describe any four characteristics of computers with a suitable explanation of each.
+**1.** Explain the steps to add a watermark to a Word document. **2.** Explain the three types of indentation, along with an example of when each is used.
