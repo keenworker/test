@@ -18,8 +18,6 @@
 # MATH- WORKSHEET.md
 
 # MATH- WORKSHEET.md
-# MATH- WORKSHEET.md
-
 ### Class 5 | Subject: English Literature | **Chapter: Arachne — The Weaver** | **Total Marks: 30** | **Time: 1 Hour**
 
 ### Section A — Multiple Choice Questions
