@@ -40,7 +40,7 @@ We need air for the following reasons:
 3. **Burning** – Oxygen is needed for fire/burning.
 4. **Transportation** – Aeroplanes need air to fly, and the tyres of vehicles are filled with air.
 
-Air is essential for the existence of life on Earth. Animals as well as plants need air for their survival.
+  Air is essential for the existence of life on Earth. Animals as well as plants need air for their survival.
 
 **Q3. How does air help in photosynthesis?** 
 
@@ -78,11 +78,11 @@ The diaphragm is a muscular membrane beneath our lungs. When we breathe in, it e
 * **Answer:**
 All living things need oxygen to breathe. We get oxygen to our cells through the respiratory system and by breathing. Breathing begins when air enters our body through the nose. The nose filters out the dust and also helps to warm the air before it reaches our lungs. Breathing involves two processes — breathing in and breathing out.
 
-**Breathing In:** While we breathe in, air gets forced through our nose or mouth, down our windpipe, and into our lungs, where oxygen is passed to the red blood cells. Our diaphragm expands, helping our lungs to expand and inhale the oxygen.
+    **Breathing In:** While we breathe in, air gets forced through our nose or mouth, down our windpipe, and into our lungs, where oxygen is passed to the red blood cells. Our diaphragm expands, helping our lungs to expand and inhale the oxygen.
+    
+    **Breathing Out:** While we breathe out, our diaphragm contracts, making our lungs contract and exhale the carbon dioxide. This pushes the air out, getting rid of the carbon dioxide from the body.
 
-**Breathing Out:** While we breathe out, our diaphragm contracts, making our lungs contract and exhale the carbon dioxide. This pushes the air out, getting rid of the carbon dioxide from the body.
-
-Breathing is a two-step process involving breathing-in and breathing-out.
+    Breathing is a two-step process involving breathing-in and breathing-out.
 
 **Q8. Give reason: We get out of breath when we run or exercise.** 
 
