@@ -37,7 +37,7 @@
 
 ### D. Change the Verb Tense as Instructed
 
-**1** My grandmother baked a cake. (Future) **2** She will point.
+**1** My grandmother baked a cake. (Simple Future) **2** She points something. (Simple Future)
 
 ### E. Change the Tense of the Underlined Verbs
 
