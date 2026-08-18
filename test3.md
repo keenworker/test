@@ -17,9 +17,8 @@
 
 # MATH- WORKSHEET.md
 
-## Class 5 Revision – ENG1 & ENG2 & MATH
 
-## English Grammar
+## English Grammar - Class 5 St. Xavier
 
 ### Degrees of Comparison
 
@@ -161,7 +160,7 @@
 **a.** Thankful
 **b.** Carelessly
 
-## English Comprehension
+## English Comprehension - Class 5 St. Xavier
 
 **21.** Reading Comprehension – Susan Coolidge & The Story of Arachne:
 **a.** Who was Susan Coolidge?
@@ -169,7 +168,7 @@
 **c.** Did Arachne mean to challenge Athena? Why?
 **d.** How is flint stone different from other stones?
 
-## Math
+## Math - Class 5 St. Xavier
 
 ### HCF and LCM Revision
 
