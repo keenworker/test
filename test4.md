@@ -23,10 +23,14 @@
 
 ## 1. What is Air?
 
-**Q1. What is air?**
+**Q1. What is air?** 
+
+* **Answer:**
 Air is an odourless, colourless mixture of several gases. The main components of air are nitrogen, oxygen, and carbon dioxide, along with water vapour and dust particles. Nitrogen comprises 78%, oxygen comprises 21%, and other gases comprise 1% of air.
 
-**Q2. Why do we need air?**
+**Q2. Why do we need air?** 
+
+* **Answer:**
 We need air for the following reasons:
 1. **Breathing** – We breathe in oxygen and breathe out carbon dioxide.
 2. **Photosynthesis** – Plants need carbon dioxide, along with water and sunlight, to perform photosynthesis.
@@ -35,12 +39,16 @@ We need air for the following reasons:
 
 Air is essential for the existence of life on Earth. Animals as well as plants need air for their survival.
 
-**Q3. How does air help in photosynthesis?**
+**Q3. How does air help in photosynthesis?** 
+
+* **Answer:**
 Air contains carbon dioxide, which is a necessary component for photosynthesis. Plants inhale carbon dioxide in order to prepare their food and release fresh oxygen into the air.
 
 ## 2. Properties of Air
 
-**Q4. What are the properties of air?**
+**Q4. What are the properties of air?** 
+
+* **Answer:**
 Air has the following properties:
 1. Air is a mixture of many gases, water vapour, and dust particles.
 2. It has no definite shape.
@@ -50,15 +58,21 @@ Air has the following properties:
 6. Air has weight and exerts pressure.
 7. Air gets affected by temperature — it expands on heating and contracts on cooling.
 
-**Q5. Through an experiment, show that air occupies space.**
+**Q5. Through an experiment, show that air occupies space.** 
+
+* **Answer:**
 If we take an empty balloon and blow air into it, the balloon will keep expanding. This occurs because the air that we blow inside the balloon occupies the space inside the balloon, and as a result, the balloon expands. This proves that air occupies space. It happens because the air from our mouth fills up the empty balloon and it expands.
 
 ## 3. Diaphragm and Breathing
 
-**Q6. What is the diaphragm?**
+**Q6. What is the diaphragm?** 
+
+* **Answer:**
 The diaphragm is a muscular membrane beneath our lungs. When we breathe in, it expands, making our lungs expand and fill with air. When we exhale, it contracts.
 
-**Q7. Write a short note on breathing.**
+**Q7. Write a short note on breathing.** 
+
+* **Answer:**
 All living things need oxygen to breathe. We get oxygen to our cells through the respiratory system and by breathing. Breathing begins when air enters our body through the nose. The nose filters out the dust and also helps to warm the air before it reaches our lungs. Breathing involves two processes — breathing in and breathing out.
 
 **Breathing In:** While we breathe in, air gets forced through our nose or mouth, down our windpipe, and into our lungs, where oxygen is passed to the red blood cells. Our diaphragm expands, helping our lungs to expand and inhale the oxygen.
@@ -67,10 +81,14 @@ All living things need oxygen to breathe. We get oxygen to our cells through the
 
 Breathing is a two-step process involving breathing-in and breathing-out.
 
-**Q8. Give reason: We get out of breath when we run or exercise.**
+**Q8. Give reason: We get out of breath when we run or exercise.** 
+
+* **Answer:**
 When we run or exercise, our muscles burn more energy and use up the oxygen in our red blood cells to get more energy. To get more oxygen and energy in these cells, our heart pumps faster to circulate more blood through our lungs, and our lungs try to breathe harder to get more oxygen. This is why we end up feeling out of breath.
 
-**Q9. What are the requirements for fire?**
+**Q9. What are the requirements for fire?** 
+
+* **Answer:**
 The three requirements for fire are:
 1. Heat
 2. Fuel
@@ -78,22 +96,30 @@ The three requirements for fire are:
 
 ## 4. Atmosphere
 
-**Q10. What is the atmosphere?**
+**Q10. What is the atmosphere?** 
+
+* **Answer:**
 The Earth is surrounded by a blanket of air (made up of various gases) called the atmosphere. It helps to protect the Earth and allows life to exist.
 
 *Alternative definition:* The layer of air which surrounds the Earth is known as the atmosphere. It regulates extreme temperature and protects us from harmful UV rays.
 
 ## 5. Air Pollution
 
-**Q11. What is air pollution?**
+**Q11. What is air pollution?** 
+
+* **Answer:**
 When any additional gas, particles, or odours are introduced into the air, either by nature or human activity, which disturbs the natural balance and causes harm to all living things, it is called air pollution.
 
-**Q12. What are pollutants?**
+**Q12. What are pollutants?** 
+
+* **Answer:**
 Things that pollute the air are called pollutants. There are two types of pollutants — primary pollutants and secondary pollutants. Examples of pollutants include nitrogen oxide, hydrocarbons, carbon monoxide, sand or dust particles, sulphur oxide, and other substances that evaporate and enter the atmosphere.
 
 ### Causes of Air Pollution
 
-**Q13. Mention the causes of air pollution.**
+**Q13. Mention the causes of air pollution.** 
+
+* **Answer:**
 Air pollution can occur due to both natural events and human activities.
 
 **Natural events** include forest fires, volcanic eruptions, wind erosion, etc.
@@ -112,20 +138,28 @@ The various causes of air pollution are as follows:
 
 ## 6. Effects of Air Pollution
 
-**Q15. Explain acid rain.**
+**Q15. Explain acid rain.** 
+
+* **Answer:**
 Burning of fossil fuels emits chemicals, which are released into the air and react with rain. This rain falls down as acid rain, which causes damage to trees, crops, buildings, and wildlife.
 
-**Q16. What is eutrophication?**
+**Q16. What is eutrophication?** 
+
+* **Answer:**
 Deposition of pollutants on rivers and soil occurs due to rainwater flowing into the water bodies. As a result, the body of water gets overly enriched with nutrients, multiplying the growth of harmful substances in the water, which makes conditions harmful for other living organisms.
 
 *Alternative definition:* Accumulation of nutrients in water bodies like lakes and ponds, leading to plentiful growth of simple plant life.
 
-**Q17. Define transpiration.**
+**Q17. Define transpiration.** 
+
+* **Answer:**
 Transpiration is the process by which plants lose extra water from their leaves.
 
 ## 7. Prevention of Air Pollution
 
-**Q18. How can we check and prevent air pollution?**
+**Q18. How can we check and prevent air pollution?** 
+
+* **Answer:**
 We can check and prevent air pollution in the following ways:
 
 The Government Authority has now installed monitoring units to check the quality of air in cities and towns. The preventive steps taken by the government are as follows:
@@ -133,7 +167,9 @@ The Government Authority has now installed monitoring units to check the quality
 2. Manufacturing companies are checked so that they control the level of pollution.
 3. Car manufacturing companies are also building energy-efficient cars which cause little pollution.
 
-**Q19. What can we, as a community or as individuals, do to prevent air pollution?**
+**Q19. What can we, as a community or as individuals, do to prevent air pollution?** 
+
+* **Answer:**
 1. We can travel shorter distances by walking, cycling, rickshaws, or electronic rickshaws.
 2. We should use more public transport instead of private vehicles.
 3. Avoid bursting firecrackers during festivals.
