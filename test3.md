@@ -19,13 +19,7 @@
 
 # MATH- WORKSHEET.md
 
-# MATH- WORKSHEET.md
 
-# MATH- WORKSHEET.md
-
-# MATH- WORKSHEET.md
-
-# MATH- WORKSHEET.md
 
 ## Class Notes – English & Mathematics (Questions Only)
 
