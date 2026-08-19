@@ -42,7 +42,3 @@ All questions are compulsory. Section A contains 1-mark questions, Section B con
 **5.** **a.** Multiply 2354 by 42, writing the numbers in columns. **b.** Divide 68274 by 26 and check your answer using the formula Quotient × Divisor + Remainder = Dividend. **c.** Write the expanded form of 651328940. **d.** Convert the following decimals to like decimals: 9.2, 15.36 and 3.005. **e.** Rewrite the numbers 8.4, 8.44, 0.844 and 4.84 in descending order.
 
 **6.** **a.** A trader bought 108 boxes of mangoes at ₹365 per box. Find the total amount spent. **b.** A number when divided by 27 gives the quotient 145. Find the number. **c.** Write the decimal and fractional expansions for the decimal number 126.3. **d.** Find the estimated quotient of 4821 divided by 53. **e.** Divide 4.576 by 0.11 by converting the divisor into a whole number.
-
-**24.** Find the LCM of 18 and 24 by the short division method.
-
-**25.** Find the LCM of 4, 6 and 8 by listing the multiples.
