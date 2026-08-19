@@ -18,163 +18,30 @@
 # MATH- WORKSHEET.md
 
 
-## English Grammar - Class 5 St. Xavier
+## Mathematics Practice Paper
+**Class 5 — ICSE Board Pattern**
+**Maximum Marks: 30 Time: 1 Hour**
 
-### Degrees of Comparison
+**General Instructions:**
+All questions are compulsory. Section A contains 1-mark questions, Section B contains 2-mark questions, and Section C contains 5-mark questions. Show all working clearly wherever required. Write answers in the space provided.
 
-**1.** Fill in the blanks:
-**a.** My mother is _______ (pretty) of all.
-**b.** This painting is _______ (colourful) than the first one.
-**c.** Tom is _______ (active) boy in the class.
-**d.** Riha is _______ (beautiful) as her mother.
-**e.** Monty is _______ (fast) runner.
-**f.** The bear is _______ than the lemon. (sweet)
-**g.** Jupiter is _______ planet in the solar system. (large)
-**h.** Shruti is _______ than Vikram. (fit)
-**i.** Usain Bolt is called _______ man on Earth. (fast)
-**j.** Isn't that _______ dog you've ever met? (friendly)
+### SECTION A (1 × 10 = 10 Marks)
 
-**2.** Underline the adjectives and name their degree of comparison:
-**a.** The text is more important than the concert.
-**b.** Benjy is quite a loyal dog.
-**c.** It is a sharp knife.
-**d.** Tanisha is the youngest in her family.
-**e.** This book is as thick as that one.
-**f.** Birbal was the wittiest man in Akbar's court. (witty)
+**1.** **a.** Write the successor of 27364589. **b.** Write the predecessor of 43267100. **c.** Put the correct sign, > or <, in the blank: 45123067 _____ 45123607. **d.** Convert 74 into a Roman numeral. **e.** Round off 6350 to the nearest 100. **f.** Write the place value of 5 in 62451938. **g.** Convert CDLXI into a Hindu-Arabic numeral. **h.** Fill in the blank: 683 × 1 = _____. **i.** Write the decimal for the fraction 27/100. **j.** State whether the following is true or false: 1.7 and 1.07 are equivalent decimals.
 
-**3.** Fill in the blanks:
-**a.** The Himalayas are _______ mountain ranges. (high)
-**b.** Adrija is _______ than Athana. (hardworking)
-**c.** Rajdip is intelligent. But Trinabh is _______ child in the class. (intelligent)
-**d.** This is _______ movie I have ever seen. (bad)
-**e.** This is _______ than that one. (difficult)
-**f.** Abhissito is my _______ brother. (old)
-**g.** This is _______ temple in this area. (old)
-**h.** Adrija ran _______ than Ifra. (far)
-**i.** We did not receive any _______ news about the accident. (far)
-**j.** Our senior exhibited _______ interest in Science rather than Literature. (utter)
+**2.** **a.** Apply the property of division to find the answer: 92 ÷ 92. **b.** Convert 0.216 into a fraction. **c.** Fill in the blank: 12.1 × _____ = 121. **d.** Write the smallest 7-digit number formed using the digits 3, 7, 0, 5, 9, 1 and 8 without repeating any digit. **e.** Round off 18.34 to the nearest tenth. **f.** Write the decimal expansion of 4 + 0.3 + 0.02. **g.** Divide 12.4 by 8. **h.** Which number when multiplied by 7 gives 1001 as the product? **i.** Write 6.6 ÷ 1000 as a decimal. **j.** Convert 1.8 into a fraction.
 
-**4.** Frame sentences using the comparative degree:
-**a.** Obedient
-**b.** Farthest
-**c.** Learned
-**d.** Wonderful
-**e.** Eldest
+### SECTION B (2 × 5 = 10 Marks)
 
-**5.** Identify and state the degree of the adjectives:
-**a.** Rama is faster than Riya.
-**b.** My mother is more active than my aunt.
-**c.** My brother is the most intelligent boy in his class.
-**d.** This is the worst place I have ever visited.
+**3.** **a.** Multiply 4638 by 7. **b.** Divide 42130 by 35 and check your answer using the formula Quotient × Divisor + Remainder = Dividend. **c.** Write the decimal for the fractional expansion 30 + 4 + 6/100. **d.** Add 12.008 and 6.72, converting them to like decimals first. **e.** Write 315627400 with commas and in words according to the International place value system.
 
-**6.** Frame sentences using the comparative degree:
-**a.** Dangerous
-**b.** Cheap
-**c.** Rich
+**4.** **a.** Estimate the product of 342 and 618 by rounding off each number to the nearest hundred. **b.** Subtract 5.996 from 8.002. **c.** Using the digits 6, 2, 9, 4, 0, 7, 1 and 8, form the greatest 8-digit number without repeating any digit. **d.** Multiply 6.3 by 3.2. **e.** Simplify 15 + 6 × 4 − 20 ÷ 5 using the rule of DMAS.
 
-### Verb Forms & Tenses
+### SECTION C (5 × 2 = 10 Marks)
 
-**7.** Write the Present, Past, and Past Participle forms of the underlined verbs:
-**a.** Adeeba applies for a job in a multinational company.
-**b.** The ripe fruit falls from the tree.
-**c.** Anju leaves the room without switching off the light.
+**5.** **a.** Multiply 2354 by 42, writing the numbers in columns. **b.** Divide 68274 by 26 and check your answer using the formula Quotient × Divisor + Remainder = Dividend. **c.** Write the expanded form of 651328940. **d.** Convert the following decimals to like decimals: 9.2, 15.36 and 3.005. **e.** Rewrite the numbers 8.4, 8.44, 0.844 and 4.84 in descending order.
 
-**8.** Change the form as directed:
-**a.** I bought the pencils from the market yesterday. [Past Participle]
-**b.** Kriti had found her wrist watch. [Simple Past]
-**c.** Ramu did his homework. [Simple Past]
-**d.** She slept in the afternoon. [Simple Present]
-**e.** They cut down the tree. [Past Participle]
-
-**9.** Fill in the blanks:
-**a.** They _______ the windowpane yesterday. (break)
-**b.** The postman _______ my letter. (bring)
-**c.** Abhinav and his wife _______ to that shop every day for purchase. (go)
-**d.** He _______ just _______ back from the office. (come)
-**e.** Last year, I _______ Shimla in my summer vacations. (visit)
-
-**10.** Frame sentences in the present continuous tense (singular subject):
-**a.** Loved
-**b.** Spent
-**c.** Told
-**d.** Yawned
-**e.** Locked
-**f.** Brush
-
-**11.** Frame sentences using the Past Participle form:
-**a.** Weep
-**b.** Choose
-**c.** Ride
-
-**12.** Fill in the blanks:
-**a.** The cat _______ a mouse. (catch)
-**b.** Tomal _______ as a librarian. (work)
-**c.** If my mother _______ the letter on time, she would not have misjudged. (receive)
-
-**13.** Change the form as directed and make a sentence:
-**a.** Bring → (V2)
-**b.** Spread → (V3)
-**c.** Lay → (V1)
-**d.** Give → (V3)
-**e.** Flow → (V2)
-
-**14.** Fill in the blanks:
-**a.** If I _______ her, she would have come to receive me at the railway station. (tell)
-**b.** Monkeys often _______ at the visitors in the zoo. (make faces)
-**c.** If I _______ a bird, I would fly high in the sky. (be)
-**d.** Mr. Alex _______ for London the day before yesterday. (leave)
-
-### Sentence Correction
-
-**15.** Correct the sentences:
-**a.** My house is bigger than his house.
-**b.** As I think, the food is sufficient for the people.
-
-### Subject and Predicate
-
-**16.** Identify the correct subject and predicate:
-**a.** The house is grey.
-**b.** The role was made by my father.
-**c.** Every dark cloud has a silver lining.
-**d.** The band of musicians played the drum set.
-
-**17.** Identify the subject or predicate:
-**a.** A group of students has come to the programme.
-**b.** It was done by me.
-**c.** The team of players played very well.
-**d.** A kitten went through the bush.
-
-### Vocabulary
-
-**18.** Write the word meanings and use them in sentences:
-**a.** Rational
-**b.** Calculate
-**c.** Ability
-
-**19.** Write the antonyms and use them in sentences:
-**a.** Dissatisfaction
-**b.** Impolite
-**c.** Vegetarian
-
-**20.** Use in sentences:
-**a.** Thankful
-**b.** Carelessly
-
-## English Comprehension - Class 5 St. Xavier
-
-**21.** Reading Comprehension – Susan Coolidge & The Story of Arachne:
-**a.** Who was Susan Coolidge?
-**b.** What kind of a girl do you think Arachne was?
-**c.** Did Arachne mean to challenge Athena? Why?
-**d.** How is flint stone different from other stones?
-
-## Math - Class 5 St. Xavier
-
-### HCF and LCM Revision
-
-**22.** Find the HCF of 28 and 36 by listing the factors.
-
-**23.** Find the HCF of 18, 64 and 80 by prime factorization.
+**6.** **a.** A trader bought 108 boxes of mangoes at ₹365 per box. Find the total amount spent. **b.** A number when divided by 27 gives the quotient 145. Find the number. **c.** Write the decimal and fractional expansions for the decimal number 126.3. **d.** Find the estimated quotient of 4821 divided by 53. **e.** Divide 4.576 by 0.11 by converting the divisor into a whole number.
 
 **24.** Find the LCM of 18 and 24 by the short division method.
 
