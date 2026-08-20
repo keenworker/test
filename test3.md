@@ -17,9 +17,9 @@
 
 # MATH- WORKSHEET.md
 
-### Class 3 – Term 1 – ICSE Board Pattern
+## Class 4 – Term 1 – ICSE Board Pattern - **Science Question Paper**
 
-**Science Question Paper** | **Maximum Marks: 80** | **Time Allowed: 1 Hour 45 Mins**
+ **Maximum Marks: 80** | **Time Allowed: 1 Hour 45 Mins**
 
 **General Instructions:**
 This paper is divided into eight sections, Section A to Section H. All questions are compulsory. Marks allotted to each section are indicated against it. Answers should be written in simple and clear language.
