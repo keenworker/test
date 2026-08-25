@@ -20,8 +20,11 @@
 # MATH- WORKSHEET.md
 
 
-##  Science Question Paper - CLASS 5 EXAMINATION - St. Paul's - 1stTerm
-**Total Marks: 40 | Time: 1 Hour**
+##  CLASS 5 EXAMINATION - St. Paul's - 1stTerm
+## **Science Question Paper** | **Total Marks: 40 | Time: 1 Hour**
+
+**Chapter 4: Pollination Pg no. – (52 to 62)**
+**Chapter 5: Plant Reproduction Pg no.- (63 to 75)**
 
 **General Instructions:**
 All questions are compulsory. Section A carries 10 marks, Section B carries 5 marks, Section C carries 5 marks, Section D carries 5 marks, Section E carries 10 marks, and Section F carries 5 marks. Read all questions carefully before answering.
