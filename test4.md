@@ -15,15 +15,13 @@
 # MATH- WORKSHEET.md
 
 
-# MATH- WORKSHEET.md
-
-# MATH- WORKSHEET.md
 
 
 ##  CLASS 5 EXAMINATION - St. Paul's - 1stTerm
 ## **Science Question Paper** | **Total Marks: 40 | Time: 1 Hour**
 
 **Chapter 4: Pollination Pg no. – (52 to 62)**
+
 **Chapter 5: Plant Reproduction Pg no.- (63 to 75)**
 
 **General Instructions:**
