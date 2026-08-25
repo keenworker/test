@@ -18,12 +18,7 @@
 # MATH- WORKSHEET.md
 
 # MATH- WORKSHEET.md
-# MATH- WORKSHEET.md
 
-
-# MATH- WORKSHEET.md
-
-# MATH- WORKSHEET.md
 
 ##  Science Question Paper - CLASS 5 EXAMINATION - St. Paul's - 1stTerm
 **Total Marks: 40 | Time: 1 Hour**
