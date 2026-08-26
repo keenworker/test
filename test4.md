@@ -17,42 +17,31 @@
 
 
 
-##  CLASS 5 EXAMINATION - St. Paul's - 1stTerm
-## **Science Question Paper** | **Total Marks: 40 | Time: 1 Hour**
+###  CLASS 5 EXAMINATION - St. Paul's - 1stTerm
+### ENGLISH GRAMMAR QUESTION PAPER | **Total Marks: 40** | **Time Allowed: 1 Hour**
 
-**Chapter 4: Pollination Pg no. – (52 to 62)**
+##### Instructions:
+1. This paper is divided into **4 Sections – A, B, C and D**.
+2. All questions are compulsory.
+3. Read each question carefully before answering.
+4. Write your answers neatly and legibly.
 
-**Chapter 5: Plant Reproduction Pg no.- (63 to 75)**
+### SECTION A (10 Marks)
+*Fill in the blanks / Choose the correct answer (1 mark each)*
 
-**General Instructions:**
-All questions are compulsory. Section A carries 10 marks, Section B carries 5 marks, Section C carries 5 marks, Section D carries 5 marks, Section E carries 10 marks, and Section F carries 5 marks. Read all questions carefully before answering.
+**1.** **(a)** Fill in the blank with a suitable article: Hammer is _____ useful tool. **(b)** Choose the correct helping verb: The salesmen _____ (is/are) showing a large variety of products. **(c)** Fill in the blank with a suitable relative pronoun: This is the man _____ John met at the book club last evening. **(d)** Choose the correct demonstrative pronoun: _____ (That/Those) is the bakery that opened last week. **(e)** Fill in the blank with a suitable collective noun: The crew cheered when the new _____ of ships set sail. **(f)** Fill in the blank with the correct past participle form: My father has _____ (go) to the market. **(g)** Fill in the blank with a suitable reflexive pronoun: The Principal _____ made the announcement. **(h)** Choose the correct interrogative pronoun: _____ of these books have you read? **(i)** Fill in the blank with a suitable possessive pronoun: This is my stapler. Where is _____? **(j)** Fill in the blank with a suitable abstract noun: Soldiers display a lot of _____ and courage.
 
-### Section A: Fill in the Blanks (10 Marks)
+### SECTION B (10 Marks)
+*Identify and Underline (1 mark each)*
 
-**a)** A flower generally contains __________ parts: calyx, corolla, androecium, and gynoecium. **b)** The process in which the male and female gametes fuse together to form a zygote is called __________. **c)** The __________ is the sticky, swollen tip of the pistil, responsible for receiving pollen grains. **d)** The process by which a seed grows into a young plant, or seedling, is called __________. **e)** Flowers that contain both male and female reproductive parts are called __________ flowers. **f)** The outer covering that protects the young plant inside the seed is called the __________. **g)** The __________ produces dust-like particles called pollen grains. **h)** The process by which seeds are scattered away from the parent plant is called __________. **i)** The transfer of pollen grains from the anther to the stigma is called __________. **j)** __________ are special structures produced by mosses and ferns for reproduction.
+**2.** **(a)** Underline the verb in the sentence and state whether it is an action verb or a linking verb: The bouquet looks beautiful. **(b)** Underline the abstract noun and circle the concrete nouns in the sentence: Mother Teresa is known for compassion towards the poor. **(c)** Underline the verb and state whether it is transitive or intransitive: Stars twinkle at night. **(d)** Underline the main verb and circle the helping verb: We are going to Jaipur for the weekend. **(e)** Underline the reflexive pronoun in the sentence: The children hid themselves behind the bush. **(f)** Circle the odd one out in the following group of words: soldiers, policemen, pilot, Sincerity. **(g)** Underline the object of the verb in the sentence: My mother keeps the car keys on the counter. **(h)** Tick whether the following sentence has a demonstrative pronoun: These are the tools we bought for dad. **(i)** Underline the abstract noun and circle the concrete nouns in the sentence: The lion is a symbol of strength. **(j)** Underline the verb and state whether it is transitive or intransitive: The vase broke.
 
-### Section B: True or False (5 Marks)
+### SECTION C (10 Marks)
+*Rewrite / Complete the sentences (1 mark each)*
 
-**a)** The androecium is the female reproductive part of a flower. **b)** After fertilization, the ovary becomes the fruit. **c)** Watermelon flowers are examples of monosexual flowers. **d)** A seed needs light, air, water, and warmth to germinate. **e)** Cross-pollination occurs between flowers on the same plant.
+**3.** **(a)** Rewrite the sentence correctly using appropriate articles: Earth rotates on its axis from west to east. **(b)** Complete the sentence with an appropriate pronoun: The Kapoors are coming with _____ (they/us). **(c)** Rewrite the sentence correctly using appropriate articles: This is most interesting book I have ever read so far. **(d)** Complete the sentence by giving a suitable object to the verb: The man lost his _____. **(e)** Rewrite the sentence correctly using appropriate articles: Ganges is longest river in India. **(f)** Write the abstract noun form of the following word: friend. **(g)** Complete the question with a suitable interrogative pronoun: _____ is knocking at the door? **(h)** Write the past and past participle form of the following verb: choose. **(i)** Complete the sentence with a suitable relative pronoun: Dorji is the new boy _____ is from Shillong. **(j)** Write the abstract noun form of the following word: honest.
 
-### Section C: Name the Following (5 Marks)
+### SECTION D (10 Marks)
+*Short Answer Type Questions (2 marks each)*
 
-**a)** The whorl that protects the flower in its bud stage. **b)** The fertilized cell that develops into a new plant. **c)** The long and slender part of the stamen. **d)** The special structures on potato that can grow into new plants. **e)** The process when pollen from the same flower falls on its own stigma.
-
-### Section D: Match the Following (5 Marks)
-
-| Column A | Column B |
-|---|---|
-| **1.** Corolla | a. Receives pollen grains |
-| **2.** Stigma | b. Contains ovules |
-| **3.** Ovary | c. Attracts insects through bright colours |
-| **4.** Dandelion seeds | d. Dispersed by wind |
-| **5.** Coconut seeds | e. Dispersed by water |
-
-### Section E: Short Answer Questions (2 Marks Each) (10 Marks)
-
-**a)** What is the importance of the corolla present in a flower? **b)** What is the difference between pollination and fertilization? **c)** What are the conditions necessary for seed germination? **d)** Define unisexual flowers with examples. **e)** Why is seed dispersal important?
-
-### Section F: Give Two Examples of the Following (5 Marks)
-
-**a)** Bisexual flowers. **b)** Seeds dispersed by wind. **c)** Plants that can grow from stems. **d)** Agents of pollination. **e)** Plants that reproduce through spores.
+**4.** **(a)** Which group of words is an example of proper nouns: (i) hospital, baker, medicine, ice cream (ii) Thames, Robert Frost, Eiffel Tower, Dubai (iii) school, flock, swarm, range? **(b)** Read the passage and identify whether the underlined nouns are common, proper, or collective: "A group of students from Greenwood School arrived at the City Museum for a field trip. A flock of birds sat on the banyan tree." **(c)** Add appropriate articles wherever necessary in the sentence: Naina was walking through _____ mysterious forest when she stumbled upon _____ clearing. **(d)** Identify the helping verb and the main verb in the sentence, and state the tense they indicate: Tanvi and Sanya had gone to the library. **(e)** Match the following sentence beginning with its correct ending and state the relative pronoun used: A compass is an instrument _____ shows directions.
