@@ -17,12 +17,12 @@
 # MATH- WORKSHEET.md
 
 # MATH- WORKSHEET.md
-# MATH- WORKSHEET.md
 
-###  CLASS 5 EXAMINATION - St. Paul's - 1stTerm
-### ENGLISH GRAMMAR QUESTION PAPER | **Total Marks: 40** | **Time Allowed: 1 Hour**
 
-##### Instructions:
+##  CLASS 5 EXAMINATION - St. Paul's - 1stTerm
+## ENGLISH GRAMMAR QUESTION PAPER | **Total Marks: 40** | **Time Allowed: 1 Hour**
+
+#### Instructions:
 1. This paper is divided into **4 Sections – A, B, C and D**.
 2. All questions are compulsory.
 3. Read each question carefully before answering.
