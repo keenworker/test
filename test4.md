@@ -15,9 +15,9 @@
 # MATH- WORKSHEET.md
 
 
-# ICSE Class 5 English Grammar - Complete Chapter Explanations
+## ICSE Class 5 English Grammar - Complete Chapter Explanations
 
-## Chapter: Subject and Predicate
+### Chapter: Subject and Predicate
 
 **1.** In every sentence, the person or thing we talk about is called the Subject. The part of the sentence that tells us what is said about the Subject is called the Predicate. Every complete sentence must have both a Subject and a Predicate, because the Subject tells us who or what the sentence is about, and the Predicate tells us what that person or thing is doing or what is being said about them.
 
@@ -43,7 +43,7 @@
 
 **12.** When dividing a sentence into Subject and Predicate, it is important to include all the describing words that belong to the Subject as part of the complete Subject, and not leave them as part of the Predicate. For example, in "A big oak tree stood in a corner of the yard," the complete Subject is "A big oak tree," including the describing words "big" and "oak," while the Predicate is "stood in a corner of the yard."
 
-## Chapter: Adjectives - Degrees of Comparison
+### Chapter: Adjectives - Degrees of Comparison
 
 **1.** There are three Degrees of Comparison in Adjectives of Quality. They are called the Positive Degree, the Comparative Degree, and the Superlative Degree. These three degrees show how the quality of an adjective changes depending on whether we are describing one thing, comparing two things, or comparing more than two things.
 
@@ -77,7 +77,7 @@
 
 **16.** One important rule to remember while using Adjectives in the Comparative and Superlative Degrees is that double Comparatives and Superlatives should never be used. This means we should never combine "more" with an "-er" ending, or "most" with an "-est" ending, on the same word, because this creates an incorrect grammatical structure. For example, saying "Shahnaj is more richer than Salma" is incorrect, and the correct form is "Shahnaj is richer than Salma." Similarly, saying "Ramlal is the most oldest man in the village" is incorrect, and the correct form is "Ramlal is the oldest man in the village."
 
-## Chapter: Forms of Verbs
+### Chapter: Forms of Verbs
 
 **1.** We use different forms of Verbs in different tenses. There are three forms of Verbs in English grammar, and these are called the Present form, the Past form, and the Past Participle form. The Present form, also called the First Form, is used to describe an action happening now or in general. The Past form, also called the Second Form, is used to describe an action that has already happened. The Past Participle form, also called the Third Form, is used together with helping verbs like "have" or "has" to describe a completed action.
 
@@ -89,7 +89,7 @@
 
 **5.** There is a fourth and very large group of Verbs, generally called regular verbs, that remain the same in the Simple Past form and the Past Participle form, but have a different Simple Present form. This means that for these verbs, once you know the Past form, you already know the Past Participle form as well, because they are identical. This is the largest and most common group of verbs in English, and most of them form their Past and Past Participle by simply adding "-ed" or a similar ending to the Present form.
 
-## Chapter: Vocabulary - Antonyms with Prefixes
+### Chapter: Vocabulary - Antonyms with Prefixes
 
 **1.** An Antonym of a word is a word that has the opposite meaning to that word. Antonyms are important in vocabulary because they allow us to express the reverse or contrary meaning of an idea using a related but different word.
 
