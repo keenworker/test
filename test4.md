@@ -17,7 +17,7 @@
 # MATH- WORKSHEET.md
 # MATH- WORKSHEET.md
 
-## Class 3 ICSE Math Practice Paper
+## Class 3 ICSE Math Practice Paper | Carmel Sch
 
 ### Maximum Marks: 40 | Time Allowed: 1 Hour
 
