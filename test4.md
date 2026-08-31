@@ -17,41 +17,31 @@
 
 
 
-## Class 5 ICSE English Grammar Practice Paper
+## Class 3 ICSE Math Practice Paper
 
-**Class 5 | Total Marks: 40 | Time: 60 minutes**
+### Maximum Marks: 40 | Time Allowed: 1 Hour
 
-**Instructions:** All questions are compulsory. Answer from memory without referring to any book. Marks are indicated against each section.
+**General Instructions:** This paper is self-contained — attempt all questions using only the information given here. All questions are compulsory. Marks for each question are indicated against it. Show your working wherever required. Read each question carefully before answering.
 
-### Section A (5 Marks)
+### Section A — Fill in the Blanks (1 mark each) — Total 5 Marks
 
-**1.** **Answer the following questions.** **a.** Divide the sentence "My uncle gave me a cricket bat" into Subject and Predicate. **b.** Write the comparative and superlative degrees of the adjective "healthy". **c.** Write the past and past participle forms of the verb "speak". **d.** Write the antonym of the word "logical" by adding a suitable prefix to it. **e.** Rewrite the sentence "Priyanka's house is more bigger than mine" after correcting the error in it.
+**1.** Fill in the blanks. **a)** 1675 - 0 = ___. **b)** ___ x 7 = 56. **c)** Division and ___ are inverse operations. **d)** When 104 is divided by 5, the remainder is ___. **e)** In the pattern 21, 27, 33, 39, ___, the next number is ___.
 
-### Section B (5 Marks)
+### Section B — Multiple Choice Questions (1 mark each) — Total 5 Marks
 
-**2.** **Attempt the following questions.** **a.** Rewrite in normal order and divide into Subject and Predicate: On the burning desk, stood the boy. **b.** Complete the sentence with the correct comparative form: This painting is ___ than the first one (colourful). **c.** Write the past and past participle forms of the verb "choose". **d.** Write the antonym of the word "expensive" by adding a suitable prefix to it. **e.** Identify the Subject in the sentence: The singing of birds delights me.
+**2.** Choose the correct option. **a)** A library has 4570 English books and 3195 Hindi books. How many fewer Hindi books are there than English books? (i) 1460 (ii) 2300 (iii) 1570 (iv) 1375. **b)** There are 24 hours in a day. How many hours are there in a leap year? (i) 8760 (ii) 8784 (iii) 8640 (iv) 8544. **c)** 450 apples are to be kept equally in 8 baskets. How many apples would be left over? (i) 5 (ii) 2 (iii) 4 (iv) 6. **d)** In a playground, 369 students arrange themselves in 9 equal rows. How many students are there in each row? (i) 43 (ii) 41 (iii) 31 (iv) 47. **e)** The missing number in the pattern 0, 2, 6, 12, ___, 30 is (i) 18 (ii) 20 (iii) 14 (iv) 16.
 
-### Section C (5 Marks)
+### Section C — Short Answer Questions (2 marks each) — Total 10 Marks
 
-**3.** **Answer the following questions.** **a.** Name the largest Indian state in area. **b.** Convert the following interrogative sentence into a statement: Are you coming to the party? **c.** Write the comparative and superlative degrees of the adjective "beautiful". **d.** Write the missing forms of the verb whose past form is "dug", giving the present and past participle. **e.** Add a suitable Predicate to the following Subject: The doctor.
+**3.** Solve the following. **a)** 8123 - 6368. **b)** 807 x 7. **c)** 6524 ÷ 7. **d)** Subtract 3285 from 5657, showing the borrowing steps clearly. **e)** Simplify: 6785 - 2086 + 2596 - 3967.
 
-### Section D (5 Marks)
+### Section D — Word Problems (3 marks each) — Total 12 Marks
 
-**4.** **Complete the following.** **a.** Write the correct comparative form of the word "faithful" to complete the sentence: Nanda Devi is ___ than Mount Everest. **b.** Divide the sentence "The blue whale is the largest animal on earth" into Subject and Predicate. **c.** Write the antonym of the word "patient" by adding a suitable prefix to it. **d.** Write the past and past participle forms of the verb "throw". **e.** Rewrite the following exclamatory sentence as a statement: What a surprise you gave me!
+**4.** Solve the following word problems with complete working. **a)** A man earns ₹26,590 per month and his wife earns ₹3,280 per month. If they spend ₹7,800 per month, how much do they save each month? **b)** Peter has 25 chickens. His uncle has 60 times as many. How many chickens does his uncle have? **c)** 2673 pineapples are packed equally into 9 baskets. How many pineapples are in each basket? **d)** Rani distributed 37 chocolates among 6 friends equally. How many chocolates did each friend get, and how many chocolates were left over?
 
-### Section E (5 Marks)
+### Section E — Long Answer / Application Questions (4 marks each) — Total 8 Marks
 
-**5.** **Answer the following questions.** **a.** Add a suitable Subject to the following Predicate: ___ is the capital of India. **b.** Write the comparative and superlative degrees of the adjective "large". **c.** Rewrite the sentence "Gandhi was a greatest man" after correcting the error in it. **d.** Write the missing forms of the verb whose past form is "caught", giving the present and past participle. **e.** Write the antonym of the word "responsible" by adding a suitable prefix to it.
+**5.** Answer the following in detail. **a)** There are 9785 people in a party. Out of these, 3245 are males, 1878 are females, and the rest are children. How many children are there in the party? Show your complete working. **b)** Study the pattern 30, 35, 33, 38, 36, 41, 39, and find the next number in the sequence, clearly stating the rule that governs the pattern.
 
-### Section F (5 Marks)
-
-**6.** Complete the following. **a.** Divide the sentence "The stars in the night sky twinkled brightly" into Subject and Predicate. **b.** Write the correct superlative form of the word "naughty" to complete the sentence: Tom is ___ boy in the class. **c.** Write the comparative and superlative degrees of the adjective "little". **d.** Write the correct superlative form of the word "comfortable" to complete the sentence: This is the ___ room in the house. **e.** Write the past and past participle forms of the verb "know".
-
-### Section G (5 Marks)
-
-**7.** **Answer the following questions.** **a.** Name the tallest bird. **b.** Rewrite in normal order and divide into Subject and Predicate: At the bottom of the river, lay his axe. **c.** Write the correct comparative form of the word "young" to complete the sentence: Subhash is four years ___ than me. **d.** Rewrite the sentence "Her pet parrot is the most talkative than mine" after correcting the error in it. **e.** Write the missing forms of the verb whose past and past participle are both "watched", giving the present form.
-
-### Section H (5 Marks)
-
-**8.** **Complete the following.** **a.** Add a suitable Predicate to the following Subject: The teacher. **b.** Write the antonym of the word "correct" by adding a suitable prefix to it. **c.** Write the comparative and superlative degrees of the adjective "good". **d.** Convert the following interrogative sentence into a statement: Did she complete her work? **e.** Write the past and past participle forms of the verb "sing".
+#### End of Question Paper
 
