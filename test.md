@@ -20,7 +20,9 @@
 # MATH- WORKSHEET.md
 
 # MATH- WORKSHEET.md
+# MATH- WORKSHEET.md
 
+# MATH- WORKSHEET.md
 ### Chapter : 2. Leaves of Plants
 
 **1.** Name the plant that has long, narrow leaves with a strong smell, used to make oil. **(1 Mark)** **2.** Name the creeper plant that has small, round, coin-shaped leaves. **(1 Mark)** **3.** Name the water plant that has large, round, floating leaves. **(1 Mark)** **4.** Name the plant that has very large, long leaves and gives us a common fruit. **(1 Mark)** **5.** Name the plant that has small, oval leaves with thorns on its stem and gives beautiful flowers. **(1 Mark)** **6.** Name the tree that has long, pointed leaves and gives us a sweet, juicy fruit. **(1 Mark)** **7.** Name the tree that has heart-shaped leaves with a long pointed tip. **(1 Mark)** **8.** Name the tree with small, pointed leaves that is used in Ayurvedic medicines. **(1 Mark)** **9.** Name the tree that has large, fan-shaped leaves and a tall trunk. **(1 Mark)** **10.** How do leaves help in producing food for plants? **(2 Marks)** **11.** Name any four plants along with one identifying feature of their leaves. **(4 Marks)**
