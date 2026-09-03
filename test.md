@@ -19,11 +19,7 @@
 
 # MATH- WORKSHEET.md
 
-# MATH- WORKSHEET.md
-# MATH- WORKSHEET.md
-# MATH- WORKSHEET.md
-# MATH- WORKSHEET.md
-### Chapter : 2. Leaves of Plants
+
 
 ## SESSION–2026-'27 / STANDARD-THREE / Carmel Sch/ 008. 1stTERM_GK_NOTES
 
